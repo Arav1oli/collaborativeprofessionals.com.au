@@ -1,0 +1,46 @@
+[
+  {
+    "id": 18,
+    "count": 1,
+    "description": "",
+    "link": "https://collaborativeprofessionals.com.au/tag/the-role-of-neutral-experts-in-collaborative-family-law/",
+    "name": "The Role of Neutral Experts in Collaborative Family Law",
+    "slug": "the-role-of-neutral-experts-in-collaborative-family-law",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/tags/18",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/posts?tags=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

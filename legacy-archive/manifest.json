@@ -1,0 +1,2622 @@
+{
+  "source": "https://collaborativeprofessionals.com.au",
+  "sitemaps": [
+    "https://collaborativeprofessionals.com.au/wp-sitemap-posts-post-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-posts-page-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-posts-faq-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-posts-testimonial-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-taxonomies-category-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-taxonomies-post_tag-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-taxonomies-post_format-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-taxonomies-group-1.xml",
+    "https://collaborativeprofessionals.com.au/wp-sitemap-users-1.xml"
+  ],
+  "pages": [
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/thinking-outside-the-box-collaborative-practice-in-family-law/",
+      "local_path": "legacy-archive/html/thinking-outside-the-box-collaborative-practice-in-family-law.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/collaborative-practice-why-i-chose-to-stop-litigating-and-embraced-divorce-done-differently/",
+      "local_path": "legacy-archive/html/collaborative-practice-why-i-chose-to-stop-litigating-and-embraced-divorce-done-differently.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/preview-collaborative-practice/",
+      "local_path": "legacy-archive/html/preview-collaborative-practice.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/are-you-a-good-fit-for-collaborative-practice-building-a-team-of-conflict-resolution-advocates-towards-achieving-enduring-settlement-for-clients/",
+      "local_path": "legacy-archive/html/are-you-a-good-fit-for-collaborative-practice-building-a-team-of-conflict-resolution-advocates-towards-achieving-enduring-settlement-for-clients.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/southern-sydney-collaborative-professionals-first-meeting/",
+      "local_path": "legacy-archive/html/southern-sydney-collaborative-professionals-first-meeting.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/collaborative-practice-talk/",
+      "local_path": "legacy-archive/html/collaborative-practice-talk.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/benefits-of-collaborative-practice-for-children/",
+      "local_path": "legacy-archive/html/benefits-of-collaborative-practice-for-children.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/step-by-step-collaborative-family-law-settlement-process/",
+      "local_path": "legacy-archive/html/step-by-step-collaborative-family-law-settlement-process.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/neutralexperts/",
+      "local_path": "legacy-archive/html/neutralexperts.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/understanding-collaborative-divorce-how-working-together-helps-everyone/",
+      "local_path": "legacy-archive/html/understanding-collaborative-divorce-how-working-together-helps-everyone.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/",
+      "local_path": "legacy-archive/html/home.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/members/",
+      "local_path": "legacy-archive/html/members.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/process/",
+      "local_path": "legacy-archive/html/process.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/contact/",
+      "local_path": "legacy-archive/html/contact.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/process/news-2/",
+      "local_path": "legacy-archive/html/process-news-2.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/faq/who-may-be-involved-in-the-collaborative-practice-process/",
+      "local_path": "legacy-archive/html/faq-who-may-be-involved-in-the-collaborative-practice-process.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/faq/what-is-the-participation-agreement/",
+      "local_path": "legacy-archive/html/faq-what-is-the-participation-agreement.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/faq/how-does-collaborative-practice-differ-from-mediation-or-other-dispute-resolution-processes/",
+      "local_path": "legacy-archive/html/faq-how-does-collaborative-practice-differ-from-mediation-or-other-dispute-resolution-processes.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/faq/is-it-confidential/",
+      "local_path": "legacy-archive/html/faq-is-it-confidential.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/faq/what-if-my-partner-doesnt-comply-with-disclosure-requirements/",
+      "local_path": "legacy-archive/html/faq-what-if-my-partner-doesnt-comply-with-disclosure-requirements.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/faq/what-are-the-benefits/",
+      "local_path": "legacy-archive/html/faq-what-are-the-benefits.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/faq/is-it-for-everyone/",
+      "local_path": "legacy-archive/html/faq-is-it-for-everyone.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/testimonials/530/",
+      "local_path": "legacy-archive/html/testimonials-530.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/category/uncategorized/",
+      "local_path": "legacy-archive/html/category-uncategorized.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/tag/the-role-of-neutral-experts-in-collaborative-family-law/",
+      "local_path": "legacy-archive/html/tag-the-role-of-neutral-experts-in-collaborative-family-law.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/type/link/",
+      "local_path": "legacy-archive/html/type-link.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/group/process/",
+      "local_path": "legacy-archive/html/group-process.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/author/adrian/",
+      "local_path": "legacy-archive/html/author-adrian.html",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/author/sscp_admin/",
+      "local_path": "legacy-archive/html/author-sscp_admin.html",
+      "content_type": "text/html; charset=UTF-8"
+    }
+  ],
+  "wordpress_collections": {
+    "pages": 5,
+    "posts": 10,
+    "media": 49,
+    "categories": 1,
+    "tags": 1,
+    "users": 2
+  },
+  "assets": [
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/themes/vantage/inc/mobilenav/images/next.png",
+      "local_path": "public/media/legacy/site-assets/wp-content/themes/vantage/inc/mobilenav/images/next.png",
+      "content_type": "image/png",
+      "bytes": 566,
+      "sha256": "9baa50587a4a703a49880c4deadc0e6e278ce0fe2722ae323626b31363ebba5f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-1024x700.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-1024x700.png",
+      "content_type": "image/png",
+      "bytes": 139017,
+      "sha256": "3acab94fcd788a8a6c58ae5dc1e4efa8cf78f9487bb5e606036a014f9b85ea38"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-1080x380.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-1080x380.png",
+      "content_type": "image/png",
+      "bytes": 67699,
+      "sha256": "b17fbe73b8593ef4b25e49db51bdd4ddb718261c952c5248f6770b52b7944235"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-150x150.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-150x150.png",
+      "content_type": "image/png",
+      "bytes": 7817,
+      "sha256": "ea97570b7d2f42f205fb299059376af20c66e5180b000dafd10edc4024b92cbf"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-272x182.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-272x182.png",
+      "content_type": "image/png",
+      "bytes": 16664,
+      "sha256": "947c1124cf69923565081fc9d609367d83895bb56c9d8c9443d41f480a7f2493"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-300x205.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-300x205.png",
+      "content_type": "image/png",
+      "bytes": 19682,
+      "sha256": "c29abccc3189571fc0893a2439c713e62857d8d1f91618cf449e3a89753cc7c5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-436x272.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-436x272.png",
+      "content_type": "image/png",
+      "bytes": 37071,
+      "sha256": "b20337770284e2aaa88e0bd09630d633a9bec57b5537c29d0d0c0bc75857664d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-720x380.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-720x380.png",
+      "content_type": "image/png",
+      "bytes": 71950,
+      "sha256": "b29407685cb7533c305db2c47ef5022517f2ff83f1378cb2fa4ff1d973f38741"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-768x525.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-768x525.png",
+      "content_type": "image/png",
+      "bytes": 93881,
+      "sha256": "9d2a3f9bb04891e4882cab22513c06254fb667a3f0c9563d83b5eb2ae339c801"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-960x480.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft-960x480.png",
+      "content_type": "image/png",
+      "bytes": 103463,
+      "sha256": "6913daeb86a9efed81450543d57cd95a0a310a787167aeaffe37666a0de4d21b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft.png",
+      "local_path": "public/media/legacy/2017/09/Collaborative-Practice-Process-draft.png",
+      "content_type": "image/png",
+      "bytes": 34567,
+      "sha256": "80c495b1d5777e1a6b3ad3e36e98febd3bd560e54d636673dc880a85b6399f8b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-1024x768.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-1024x768.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 94312,
+      "sha256": "8802d883295e7fd6282afe1faf2b7f1096a138e86ff108cacc886d6710fafd95"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 61812,
+      "sha256": "4cb2233334b0e0bfbeb6be8906bee31357ed61446ad6f6c4069a1c1ac9772dea"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 5724,
+      "sha256": "da2de9803f8dc403ee1b7893912268802facd0dac02caf84211bd872aa75b435"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10511,
+      "sha256": "6f3f1cb5052724b845c781a194c3b4c5287b18f8cd2db62241763e9b297dab2b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-300x225.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-300x225.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 13647,
+      "sha256": "21eabc75bbbce02221c2171766d7b94f0ce3650ca7fef4f2ea366bd451be7ba9"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 20799,
+      "sha256": "1ea4f72f53ca4f04c7a45d17fd6c5d2e5433631c0fa41dbadb60a3f25c6cddf8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 41113,
+      "sha256": "ffa4ea29872f7d05b40b0150192c0609143ee9f7cbf989afb8b14a8821df5118"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-768x576.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-768x576.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 59692,
+      "sha256": "239fdfa0d7f6dd59c647689618bdf2c5894a678c35e3303f5e29590c44827f59"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 62751,
+      "sha256": "6d72908b02f65b6e02094977499b421d3b9800867a16cd06e3ff67e4e162aa25"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272.jpg",
+      "local_path": "public/media/legacy/2017/09/IMG_0272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 1811905,
+      "sha256": "fc8905d5cac65068969ae39aea1ea0463b946cbd77276cdb732b068d601ec356"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-1024x510.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-1024x510.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 86669,
+      "sha256": "e80c2bc2d956cd23f91e12451f793d757bf69fda8aa403970cd161885aa7ce49"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 80114,
+      "sha256": "9042a03ae6cd35def30387e94f52ef8259013f7e98a47367de87df619ba05994"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6446,
+      "sha256": "06f6be2e7334c9e9eff22008322b04955088e7c15d2142a4a04dc05fb46b61dd"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 11550,
+      "sha256": "771330d1f49f47164374902040f4a52363f5d88226af4b9c0515650c1cc6fbfc"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-300x150.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-300x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10252,
+      "sha256": "b8a50e28cd1d32931d1ca31a1f06f46b129b8fb8ef0bbc0f1704c4a70a4686a5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24263,
+      "sha256": "10ad1e59c66e4bd341d127ee92d49ba4e545b7e11865ad03724f29feaa53b043"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 48676,
+      "sha256": "464978b6b98b4b3054e62bf57dccb5640c5ca0892946a49e4ae24b6e48abf4d1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-768x383.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-768x383.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 51134,
+      "sha256": "e45e4d43c97e26663428e9555432724fb56e21cea7a087863d83f69756a95be3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 76456,
+      "sha256": "4237b216113bf15858fa5e7a192cfe34871191b9fe42075ef2dd53f776fd7476"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo.jpg",
+      "local_path": "public/media/legacy/2017/09/SSCP-Group-Photo.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 390115,
+      "sha256": "80cdc8eb3e7592ab1807547f72c18bb6bca4b31a5afb6d2bffd242ee36bcb3ff"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Marketing-Brochure.pdf",
+      "local_path": "public/media/legacy/2017/09/SSCP-Marketing-Brochure.pdf",
+      "content_type": "application/pdf",
+      "bytes": 523287,
+      "sha256": "8b9244595ecb27663e134895b19dab137d5f866d1d9ae6ce01ee1419c976f5b4"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-1024x793.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-1024x793.png",
+      "content_type": "image/png",
+      "bytes": 595215,
+      "sha256": "23749388ff6f8935eb396421145a2a2bccc608e437cf2ec342b4b54ef83fe6e6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-1080x380.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-1080x380.png",
+      "content_type": "image/png",
+      "bytes": 401711,
+      "sha256": "af6680ff93d80b17fa7751d0c5513fab95eb86d16c80411a4ebf93b03153b20c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-150x150.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-150x150.png",
+      "content_type": "image/png",
+      "bytes": 26688,
+      "sha256": "7da26753e126dd121298a70569c4a3b05f92d6c52d26d9d9a40574c90a47c181"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-272x182.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-272x182.png",
+      "content_type": "image/png",
+      "bytes": 51449,
+      "sha256": "bf5538951a2f17b8ac374503e443d3693e2e1bee81551cc88dad88c1e0349666"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-300x232.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-300x232.png",
+      "content_type": "image/png",
+      "bytes": 62500,
+      "sha256": "d8e1dde56e0c72932733b246b34c28204dffd35b407f5e14a2f39e46b40531d0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-436x272.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-436x272.png",
+      "content_type": "image/png",
+      "bytes": 122481,
+      "sha256": "8d3c04bb00a7d7bb47e066c7768c8656a129107f97c7b3a7af70302a901fa32b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-720x380.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-720x380.png",
+      "content_type": "image/png",
+      "bytes": 281346,
+      "sha256": "f91945d25b7aea29ee9c5ca1ea24f96a6986253d31fb07600cf1286cff9d51cf"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-768x595.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-768x595.png",
+      "content_type": "image/png",
+      "bytes": 349858,
+      "sha256": "ffa0ed76af04f8a32d1465e40f2b283bc297ca9098496aab6f29eab806ab7eef"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-960x480.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-960x480.png",
+      "content_type": "image/png",
+      "bytes": 473968,
+      "sha256": "97ad8a57ec8a579f9cfa21a3140008cde40e6fb1dbe40a50f24e0a1b3186095e"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm.png",
+      "local_path": "public/media/legacy/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm.png",
+      "content_type": "image/png",
+      "bytes": 570641,
+      "sha256": "70ca098a055610e475fb3a79057838fee06571320034b42c7730bd89460fcd8a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-1024x366.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-1024x366.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 50577,
+      "sha256": "6dfac1156604e8b6ce704190ec051692a7e7fc18fb99252bb4392183f6d45d8b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 54268,
+      "sha256": "76dfc99d723380c037f4ce28d85de04cede83f14e1d37fdc7a57186330405d40"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 5295,
+      "sha256": "d7fd8a42e99fcf68639ada803235f33ef63b421234f3c571983a031ae53ac069"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10699,
+      "sha256": "2094f016e2a0c85c5d6b0f463e7bf40d00b273a7e7a623bfe5b3a5b1aa4f61a3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-300x107.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-300x107.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 8298,
+      "sha256": "dba509f07945b415714a82db4e48349a6c7d4efbf0c2ec56d06bf53707b041f0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 20537,
+      "sha256": "9ce77f2b1951f75c8ca8c930fc3fbf97cd8a2518efb823fedbbfbab3d85d11d8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 38074,
+      "sha256": "538b9eb38e2f9d7a6238339b26ff8f9676fe6ad99ae912c29b049a1a07cf2729"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-768x274.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-768x274.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 33308,
+      "sha256": "450a79e7b13357a0975f93c9996db75fdff7b9e8332e27df0e24705c5b9b1feb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 55125,
+      "sha256": "37be2da1424a27ae44440cb946b7d400bd9ee297fc480f99851b24f6124417ca"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner1.jpg",
+      "local_path": "public/media/legacy/2017/09/banner1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 660960,
+      "sha256": "13b76c50f215c27ed86a7d289e3fbf173b7256e61b314ee0858725a281d54960"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-1024x366.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-1024x366.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31804,
+      "sha256": "3a6aa093905396e2bb5c305f78dae4ae7c081dc93faf95376b11e253d2911ccc"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 34445,
+      "sha256": "d84d15b98f1d2d5191f39eccc980e84c29f0acdec3c259bea2f447fb8936c549"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 3683,
+      "sha256": "64bbd858448dd4e3035173965dfff8fcb70649cb6b42e54d8cf0b1dca89a723b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7157,
+      "sha256": "1b543b1be9402c266180b31f7ff41b421a5aac4907c6c7beabcb95118ad54fb1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-300x107.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-300x107.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 5100,
+      "sha256": "5e88b4420ef0a000c4779f43f3d08164f841454702d8760eb363a38b731c63e1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 14127,
+      "sha256": "8c88c705788bdf0c6b43fe7914ed0c7dda58e7316723a45a7741cf9c2b1fd073"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 26749,
+      "sha256": "02a14e1c00519847e96f4e538161a998b3258e25971236689356538deb145ab0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-768x274.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-768x274.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 20360,
+      "sha256": "0314706778a4e49eee848caed957fd5b2419ba9c8ded5fc67adbe3258cea9177"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 39925,
+      "sha256": "b690af410c429eab944c44d2c5a0be6b95b489185d046c861b22e995e82c1fc6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner2.jpg",
+      "local_path": "public/media/legacy/2017/09/banner2.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 438758,
+      "sha256": "a0e624378139a2d5a233c953c45343e4237f740e0a188d6a5a4d54617074cef0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-1024x366.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-1024x366.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 66274,
+      "sha256": "cfdadfe1dce16aba49b6dbbd192dae20c166adc60628f15e01b1d2a89c432ce0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 71267,
+      "sha256": "f917b415da944cc22f82f3af42955ad66ccec3c643019047e3b2ff3da18b4fe7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6985,
+      "sha256": "a581af5a54845cb664077ee1b99120a7c9df275e24897540518a1fdaade81aeb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12855,
+      "sha256": "d963b1b68952bcb314495091b44ac5a308fee0251f30c79d8a41f2f945ecd42d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-300x107.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-300x107.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 9379,
+      "sha256": "e590e3f3db2a1bc97332281cbe66f8ec63f5c081f629b50b22eebac66cf4446c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 25417,
+      "sha256": "6590d596facd981bf8d6ed23036e26a24a7201a9f08aacc9fbb45bf52e21b378"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 51285,
+      "sha256": "6dce509808d99581d56f1d1690bf28d8efea5918664dd2541bd7663b6bf2e90a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-768x274.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-768x274.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 42110,
+      "sha256": "6024ceed1b2021edb91e5ab7c27a70301c04375eaf67bb47662f4118a62dc5e3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 77477,
+      "sha256": "4eb79d0bd9c6a8cf8c75e2f7af9f81b52246ccdfb33a30aa8b0d90824679bd5c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/banner3.jpg",
+      "local_path": "public/media/legacy/2017/09/banner3.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 727315,
+      "sha256": "ce87c9870787320a236d7f3fc386bbca81c9dbf875c3777e715fd99b49b9fda5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/clint.png",
+      "local_path": "public/media/legacy/2017/09/clint.png",
+      "content_type": "image/png",
+      "bytes": 5852,
+      "sha256": "84ee5814170eeed269ec5d8469e39fd56352a11a06a19aa4dd49451d22281e47"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-1024x708.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-1024x708.png",
+      "content_type": "image/png",
+      "bytes": 592135,
+      "sha256": "b8665326d0b85ad05b1ea4789d0d7817c248be3b7b9295347361334cd5cb8df5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-1080x380.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-1080x380.png",
+      "content_type": "image/png",
+      "bytes": 317911,
+      "sha256": "5c53b8b5eeb88f5fc273a35cdef207db18b9e7a3190e8b055d93ad5d8739f402"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-150x150.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-150x150.png",
+      "content_type": "image/png",
+      "bytes": 27599,
+      "sha256": "7a47eecda0993282f7ec97e97d728a860d004916ea075e52ea18932aa180a869"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-272x182.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-272x182.png",
+      "content_type": "image/png",
+      "bytes": 52795,
+      "sha256": "87f7072d230b7f5cad95f09310f7c01de8a54b8e94a2cf10d073efb01e03c121"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-300x208.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-300x208.png",
+      "content_type": "image/png",
+      "bytes": 65753,
+      "sha256": "811e68ebefc3662b1a3c9565b784938aeb045e051292c00c097e1ddd04c3548c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-436x272.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-436x272.png",
+      "content_type": "image/png",
+      "bytes": 114222,
+      "sha256": "b53167e508414823227f8e7b7d9c780f226e88c4ae2858fe9e127134753695c8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-720x380.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-720x380.png",
+      "content_type": "image/png",
+      "bytes": 237475,
+      "sha256": "660ca8fc39a7d424afc330ac6f33a886cb551f85a43c49ee5a510244ead4a6e3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-768x531.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-768x531.png",
+      "content_type": "image/png",
+      "bytes": 331153,
+      "sha256": "37370facbab61e1f98a8b35e6b17b3b72a4726a5cabbbc6582cfcf3dcb33af53"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-960x480.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920-960x480.png",
+      "content_type": "image/png",
+      "bytes": 316904,
+      "sha256": "853d8d96fbb6fb1c61ff6e9730bb4cca4e2e6af5d5f1a523583e9b881d8b21c9"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920.png",
+      "local_path": "public/media/legacy/2017/09/e13db3082af21c3e815d4401ee514793e373e7dc1eb51041_1920.png",
+      "content_type": "image/png",
+      "bytes": 1370186,
+      "sha256": "7dd19340d87ff587679acce3643584b70860dd23720f45ea28bd8f2b4e3b022a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-1024x683.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-1024x683.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 70094,
+      "sha256": "4076e437ff9155cfd27f534766612c12e0a8187c980bb55efe395e57781c38a3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 46944,
+      "sha256": "c86dd4efc0a79220a5200ce6c1ff0327e7fb7f7e046798956932381575ff5bd8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 4752,
+      "sha256": "c63ee6c9ed6cdee9f645e19c9eadf68930ac2ab9fedbc1eba248c26304c14ee6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 8304,
+      "sha256": "7a860cf17c1f170d3b7d1a94621577a42925c2cca713282127a078995f8f8f53"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-300x200.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-300x200.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 9510,
+      "sha256": "6b92e1f41b64aafcfda31aca3c9bb6685e48fdd2bf349c94e4cfd2f375cc4ae1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 16449,
+      "sha256": "3a9a37050e6258eba099bfb3c61444dbfdc9ec1e65cf89f69c116317c508aa2a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 33207,
+      "sha256": "aa41532f10652860fe292c71177ba01bab9503e36b9e579d5d2e3eaaccec6b38"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-768x512.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-768x512.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 43004,
+      "sha256": "50d6eebe655a0eaf0b04eaf822e049a6f43d436d971c6228f99f5062b937c72a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 52696,
+      "sha256": "ce3e1b83680fc83d850b3fa1a7ff2eda81cf59b827bc9e60a120de94d593f289"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920.jpg",
+      "local_path": "public/media/legacy/2017/09/ec3cb20c2ff51c3e815d4401ee514793e373e7dc1ab51347_1920.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 463600,
+      "sha256": "d8ed1750af682393804c206bc6635540c62384e5d160ee27b0f7a2f5901df499"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-1024x675.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-1024x675.png",
+      "content_type": "image/png",
+      "bytes": 785444,
+      "sha256": "e3806cf84db27c2249935b544cd70a91b3bc816f1f17c9d7bd5ff497b1ed18a6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-1080x380.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-1080x380.png",
+      "content_type": "image/png",
+      "bytes": 538161,
+      "sha256": "4fc078bd7e46a7187f0c1cc6517ca6c81830199fd4a4c20fa4bb8790f0437ae2"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-150x150.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-150x150.png",
+      "content_type": "image/png",
+      "bytes": 38168,
+      "sha256": "1fd1927e73a085bf3bce593c409f2b41f7fc87415fe5a8f97085cb0c6feae827"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-272x182.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-272x182.png",
+      "content_type": "image/png",
+      "bytes": 73065,
+      "sha256": "6fe38f91fe285c291b9013c0be34ae10c8805d1149dc283da88be1f09938ec75"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-300x198.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-300x198.png",
+      "content_type": "image/png",
+      "bytes": 85008,
+      "sha256": "4e8b5e0d57d01398d39647a94ae85497b986403b3a4c345c611b5eeeb29ac161"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-436x272.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-436x272.png",
+      "content_type": "image/png",
+      "bytes": 162100,
+      "sha256": "9c44859f3d2ef51cc2605f01a1c3390e0cc445cd316b14c26b2c5e7dc669c48c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-720x380.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-720x380.png",
+      "content_type": "image/png",
+      "bytes": 361550,
+      "sha256": "8e7624022b598cd36ad7a0cc855e95755c70e17a4868e67ab7104b52e9a61efa"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-768x506.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-768x506.png",
+      "content_type": "image/png",
+      "bytes": 474132,
+      "sha256": "3e89d4035ac220cc2746b96882ace1e8b39266745d464c86bb2ddfea01540b38"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-960x480.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-960x480.png",
+      "content_type": "image/png",
+      "bytes": 579415,
+      "sha256": "cacffb67c79c5afac8175244f5374d06f6990da87c06556b2adc22a667835d70"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-rev-150x150.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-rev-150x150.png",
+      "content_type": "image/png",
+      "bytes": 38391,
+      "sha256": "51b92e3de5d4d72dc583675bc56727a829f924ef377f728781304c894620f8ef"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-rev-272x182.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-rev-272x182.png",
+      "content_type": "image/png",
+      "bytes": 73028,
+      "sha256": "18774353b537fda02646fcae41dc3fa122f90e5e44d3948bdb9d0edba51ac4c3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-rev-300x198.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-rev-300x198.png",
+      "content_type": "image/png",
+      "bytes": 85029,
+      "sha256": "e276ac31dfbd23dbb7711136c97d4bcf8885e79c8119f3af5f1339ba7555042b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-rev-436x272.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-rev-436x272.png",
+      "content_type": "image/png",
+      "bytes": 158447,
+      "sha256": "264a3d630d87ce8cb96b4747bdd10e08c48e98f78c526d0045dbd854849c8bc1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-rev-584x380.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-rev-584x380.png",
+      "content_type": "image/png",
+      "bytes": 291127,
+      "sha256": "9ae1d2a364dde3879e38633c530280132a600bf7cecdc36e40d125dec8d637dd"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1-rev.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1-rev.png",
+      "content_type": "image/png",
+      "bytes": 294403,
+      "sha256": "449bc99af110e4b8009b9cf0c839cbe571e5e544d8de740934dde1bfc59c9d89"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/hinhlon1.png",
+      "local_path": "public/media/legacy/2017/09/hinhlon1.png",
+      "content_type": "image/png",
+      "bytes": 1096110,
+      "sha256": "56d099a9a5f10a5063dbf81e35a91c5deee10cfa417aa57de30c8fa22fcb3c66"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-1-150x78.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-1-150x78.png",
+      "content_type": "image/png",
+      "bytes": 1231,
+      "sha256": "908ac1e18d4954e402e44b07bd75f934cc2d81f9b54b23fe860d2bf5a6fd13db"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-1-272x78.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-1-272x78.png",
+      "content_type": "image/png",
+      "bytes": 10496,
+      "sha256": "b2fa640a01ad138635dbd75b627cfea4674796b52ea7eac79c7bc3e99da83a17"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-1-300x73.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-1-300x73.png",
+      "content_type": "image/png",
+      "bytes": 16798,
+      "sha256": "07e919bb10a63a040d3b5416fcc2c8018526569bcfcb697fead575a96f48f33d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-1.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-1.png",
+      "content_type": "image/png",
+      "bytes": 13813,
+      "sha256": "ddab75553eec753a231f5f2ac0a4dfa2ce2d8a6628fd790c157628ab64ff7933"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-150x78.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-150x78.png",
+      "content_type": "image/png",
+      "bytes": 1222,
+      "sha256": "b5f19c9fbec0be726c4f2e8155eb928383a5b66b4ac1675ca18889e299428b79"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-2-150x80.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-2-150x80.png",
+      "content_type": "image/png",
+      "bytes": 1213,
+      "sha256": "d1ce6840dc98b85a41ddfc7abb68b8ded566a8f740e589eaf882c8768aaf1764"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-2-272x80.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-2-272x80.png",
+      "content_type": "image/png",
+      "bytes": 8338,
+      "sha256": "266ea2984047554355caa7617332c1b125a4cc81b599ec6c8a9f382521d758ad"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-2-300x68.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-2-300x68.png",
+      "content_type": "image/png",
+      "bytes": 17732,
+      "sha256": "07ecf33300116736354f8231ccb83967010d40b755f88337f5fe65fb88db73d2"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-2.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-2.png",
+      "content_type": "image/png",
+      "bytes": 16128,
+      "sha256": "973a4da75b0891b5e5de54df6ff81d8e53fca0ac7fbf842bda0e0ed0c0a912a0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-272x78.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-272x78.png",
+      "content_type": "image/png",
+      "bytes": 10316,
+      "sha256": "13f32e33f91b1486fd9dd4cdd6d5be68b179398aab9531ea93651b07b60545e7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree-300x73.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree-300x73.png",
+      "content_type": "image/png",
+      "bytes": 18053,
+      "sha256": "f788953bd52d46b5c7ff6f823ba889513c4833641257f8d91e2e141ad7089dbe"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/logo-tree.png",
+      "local_path": "public/media/legacy/2017/09/logo-tree.png",
+      "content_type": "image/png",
+      "bytes": 13616,
+      "sha256": "1c4f81aa8cdc938ccaee4e9ed03e0e1f5ba2030a1b30f709c7c5eadac645dec6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/mobile-inner-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/mobile-inner-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 8173,
+      "sha256": "f902e08da6734052281e8da6d4c1e2939723ad7f2037b34d396b6693190c90d7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/mobile-inner-168x300.jpg",
+      "local_path": "public/media/legacy/2017/09/mobile-inner-168x300.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 11153,
+      "sha256": "b8bb040c6aac30c197fd60f792a39752fbd23e2770a39b41b882446f805a918a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/mobile-inner-224x182.jpg",
+      "local_path": "public/media/legacy/2017/09/mobile-inner-224x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 15242,
+      "sha256": "dcd793bac4c80e359e64dfca8a4b56d2d8917e6bdee709406f3cba4d520187e5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/mobile-inner-224x272.jpg",
+      "local_path": "public/media/legacy/2017/09/mobile-inner-224x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 17468,
+      "sha256": "13aa30ab1d45fc841a8c5ce18dae9445c74dedba1c52338ef5cc376c022568c6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/mobile-inner-224x380.jpg",
+      "local_path": "public/media/legacy/2017/09/mobile-inner-224x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 18564,
+      "sha256": "252b110f610b2482819d08f2cf96fefd2be90600ab97c5192d1f03627ecb3381"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/mobile-inner.jpg",
+      "local_path": "public/media/legacy/2017/09/mobile-inner.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 64044,
+      "sha256": "1c9f44315b095d3bcd761ac8b88d457bd417dab53bf039175d5707b3a29684e8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-1024x680.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-1024x680.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 112755,
+      "sha256": "001e7d1070d038899ecf306cdab771f7e0c0ca239e66aec3167637b170cfaa92"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 77724,
+      "sha256": "5e21238263f7507e8a97d8b48e2885b734fcea470ac08f3fb194295a0eda79e8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7275,
+      "sha256": "bba46d868c3175af894cbe6057a8ec841c4ce251a740d287f56e6a0e289c0345"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 13261,
+      "sha256": "f72b2160d5b3998ecec672cc49b00b9f4578fa7090af29876a18a10d547fbf38"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-300x199.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-300x199.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 15441,
+      "sha256": "0225dee6e52e42f8d5e5dfce14de7f8c99cff8dd6d34d96b45396c0f311175c2"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 26886,
+      "sha256": "cc6609a8cfa7b69cac9e0872b54f2d4a68fc05ad4aa8f9c332440903fafd7ba7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 53945,
+      "sha256": "666e2b20cbedd6192abb78d6f00c61171b2662c7c9687938ca4b10eadb4dc9dc"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-768x510.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-768x510.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 70833,
+      "sha256": "b6f81adf2a3fab4589c24db01845039bafeac71e38634f01e1ad3923723b6838"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 82386,
+      "sha256": "26cdb30260e4c201d90ee5a2cfe56573b2ace3014dbe0bcfb42ad8dc12186362"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 13041771,
+      "sha256": "0e4ba22051fab4788c578c1a036ba0ba892f51e347b7e66a2655f93cfb01cf58"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111_525w-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7129,
+      "sha256": "9ad24335bbdb4efff9a5d93b777e58eaa87892665dcb477841385f418b63ff8c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111_525w-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12901,
+      "sha256": "3c9a98c7401e7ab3685c759f44c8517d92f80a04cb45fe8ab94ad3de23f950c3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w-300x199.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111_525w-300x199.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 14979,
+      "sha256": "e900b3e0a1df30be8cda8f7c8405df0df7bbeb9e9bd81e547c87c56653f817b2"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111_525w-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 25435,
+      "sha256": "51d0c176bae9e057cb79cbaf75176271b00fd5e219109a779fc54e0f088c80c0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w.jpg",
+      "local_path": "public/media/legacy/2017/09/shutterstock_261293111_525w.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 215095,
+      "sha256": "6d7f90432e5f9bf37516c8f21ae77fb6c16e01f88697ffa546669ce831a63541"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-1024x752.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-1024x752.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 96512,
+      "sha256": "325e38aacda164af537c93e7dcb6c39811347051b3baad79ad8cf959d5d1a41f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 61969,
+      "sha256": "0c243e6dc2086715395dd1b5a79c0df297b2444491c48018dfb79aaae2ec122f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6551,
+      "sha256": "cc50c7783b20ccb93c7e4dd83c5b8513f0d7b2d053e92be4ba2c987ab7c561f7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12579,
+      "sha256": "58e28219d2d424453f46d8185280ac97daffb11e5cf068b1733c0d0aa7196927"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-300x220.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-300x220.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 15334,
+      "sha256": "1af67dc328d60adc2fb008a54395790ba933daf828d2e89174271b5048b882dd"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24697,
+      "sha256": "ddda7870516a6907e0252eab569722afaab5a81609eceaf395b618ee8ed5358f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 47152,
+      "sha256": "f6a4597dab73a3a5e5fbb9baf75e8af251b04f0ff0bc5fd0dd9fee8d9f7628ef"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-768x564.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-768x564.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 63263,
+      "sha256": "cd3b2e3b443fb31b03257e697d2fe5146b0bc080b5559362eeb75018923f60e1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 70348,
+      "sha256": "8effb1345dc4f541f0a9def00e6457a62c466f210c9e452ba95ccc9df05257f8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-meeting-in-an-office-79764832.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-meeting-in-an-office-79764832.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 468145,
+      "sha256": "26f58375e2c5b24d4af779551a48dac93f23fb4dbac4c600cd26b81ef7e29d38"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-1024x736.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-1024x736.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 99219,
+      "sha256": "08e348dd59416a0e28f113e54fedb625747a107f32fe2b49bf14e83036e26110"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 67810,
+      "sha256": "049d233fdb20f695cdc8f96b6347814dcf23a34084874920750586ebfa77da1e"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6766,
+      "sha256": "cc78c132227d96e1cfa46238f6f79d9802d54529c15bcfdb8255268a1608204f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12855,
+      "sha256": "6fe0f1984472ef88d17dc2ec4c21412d32912d177edcd839a8567aef41b16721"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-300x216.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-300x216.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 15854,
+      "sha256": "dee44a69d02d070dfd1e0bafba9035e6af2c56cefd747ce01a306b52206a81a0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24769,
+      "sha256": "18e63e0d4edc9cf572a3c55f47b554599c609ac9e9b5b5059e7e0ce58f6dc3ee"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 46960,
+      "sha256": "e36b0fb669d43bb4932224dd5006d819f17b1a556e5dfae5a861c6994496eeb1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-768x552.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-768x552.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 64887,
+      "sha256": "b90390e6a996d3ad2bf040a0bde634e38892f0853b5675d30338a6be062d4022"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 69708,
+      "sha256": "3dbd2689e37b2400ab6a2f8f69ee6a07230b3b4cc19dd7af041d178a7e123a39"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-business-people-meeting-corporate-teamwork-collaboration-concept-346550183.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 449747,
+      "sha256": "cdf84df490c7030bed7c6058f5c4d921b3c76d79895e35e711c707562d79f589"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-1024x748.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-1024x748.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 119734,
+      "sha256": "a3f1f52c2eefe3f384db21b9ce6baef07db20f61bc91f21ac4cd1e97d4319ea9"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 74801,
+      "sha256": "7b61e75edb43962a22a42219b6fce14d964c85404294f51483cf69f5d30b373d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-150x150.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7352,
+      "sha256": "76a3a9b12847475a1f5d2886d9027b0d1070ab2989aabe1897286ba0367dab4a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-272x182.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 13747,
+      "sha256": "824285862bd3b3afa740f452f45867d90088ca94aba8fff2cc5001cf03a1a0d6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-300x219.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-300x219.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 17299,
+      "sha256": "84bc19ea466cacb33944c4d50d3f243433e614a4fec9a668ef4bb30441e862af"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-436x272.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 27837,
+      "sha256": "ce52caa1050cd3574e6f69bc7365fdfde20a1cda974d6a936418123937398e90"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-720x380.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 54783,
+      "sha256": "e4afe6b216b1704de28073fd6492a088f628479d947efb3e17782343882073b3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-768x561.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-768x561.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 76927,
+      "sha256": "c4706407dbc78adc88c7d571988d235d513d6607e4a90c295344b336e936d333"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-960x480.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 82371,
+      "sha256": "dc9eaa0db8e35f8fefb44dd2b010b7bd1fe69037636ccc6edf1389b4fbea65c3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111.jpg",
+      "local_path": "public/media/legacy/2017/09/stock-photo-closeup-of-businessman-and-woman-with-jigsaw-puzzle-pieces-in-office-261293111.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 568091,
+      "sha256": "e143d95177930747e06290d178ee907bc377619e790f2f4c44f33b6f761e9f72"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Collaborative-Practice-Talk.docx",
+      "local_path": "public/media/legacy/2017/10/Collaborative-Practice-Talk.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "bytes": 6679,
+      "sha256": "6b145adb0567265ba89f3b857c84e5e1cb25382693385ea834a9390cba237f60"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Family-Law-Section-article-by-SAT-April-2017.pdf",
+      "local_path": "public/media/legacy/2017/10/Family-Law-Section-article-by-SAT-April-2017.pdf",
+      "content_type": "application/pdf",
+      "bytes": 244222,
+      "sha256": "506d9e41d8255270ef7124ab6c5fda576b29912711dade100735b72f9ed71dff"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/SSCP-Marketing-Brochure.pdf",
+      "local_path": "public/media/legacy/2017/10/SSCP-Marketing-Brochure.pdf",
+      "content_type": "application/pdf",
+      "bytes": 523287,
+      "sha256": "8b9244595ecb27663e134895b19dab137d5f866d1d9ae6ce01ee1419c976f5b4"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-150x150.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-150x150.png",
+      "content_type": "image/png",
+      "bytes": 20234,
+      "sha256": "b9c5a804f4b3f5225de787f892545942adc31ecf3a2374d0cd95fc9db299bc40"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-212x300.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-212x300.png",
+      "content_type": "image/png",
+      "bytes": 48225,
+      "sha256": "631c575d3ecc6221ec2ce225a9356556335f40d5985bcebb2dfd8e6e4edf8c9a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-272x182.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-272x182.png",
+      "content_type": "image/png",
+      "bytes": 40660,
+      "sha256": "2dc3bed38b51d6b56dc60aec11a0bc29e7852e1c832e6b8eeed53310c39af061"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-436x272.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-436x272.png",
+      "content_type": "image/png",
+      "bytes": 92509,
+      "sha256": "f3a03e74a94c1929b2ac15fc03f9b72e83d11b5c205436b9e70e05eb695a7da7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-617x380.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-617x380.png",
+      "content_type": "image/png",
+      "bytes": 126849,
+      "sha256": "79b88e594d0c19c5817e797808c4d38f91ab0fc5607b76255a7408af08002c5c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-617x480.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-617x480.png",
+      "content_type": "image/png",
+      "bytes": 160382,
+      "sha256": "20d8af4c5256d545049c1c5471150e04b363540cacf0313a324bb1c15f2d0252"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm.png",
+      "content_type": "image/png",
+      "bytes": 260397,
+      "sha256": "7effebf63682faa1122cc8c820eba67649dc944f25c9cb7a7552b675581598b5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-150x150.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-150x150.png",
+      "content_type": "image/png",
+      "bytes": 22828,
+      "sha256": "a3580394d7059897997477adf198e7ac190b8439c4f9aa8a5bad2ef4fbdeb0cb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-212x300.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-212x300.png",
+      "content_type": "image/png",
+      "bytes": 60999,
+      "sha256": "e0d7ef281209590573ea40b0402f718537c774803f8058a184cc21d7a8252925"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-272x182.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-272x182.png",
+      "content_type": "image/png",
+      "bytes": 43469,
+      "sha256": "ce0a908ff4633988abaca4482190cf3c577fc6a86f0ed2a39c9edf2636a52b06"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-436x272.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-436x272.png",
+      "content_type": "image/png",
+      "bytes": 94455,
+      "sha256": "c94b694ef0a13ba4821cffc5f8fd03d879ee07604f2a1a1ccc73e0952230a912"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-618x380.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-618x380.png",
+      "content_type": "image/png",
+      "bytes": 56454,
+      "sha256": "8416be81facea894a0d27757bd8c7cf9cb58d1ad8dc40944e5affe2080bb6b4a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-618x480.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-618x480.png",
+      "content_type": "image/png",
+      "bytes": 75820,
+      "sha256": "8e4b3a134863c36066657b600b1e49685c8858f49eaadc3584a3845e85944348"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm.png",
+      "content_type": "image/png",
+      "bytes": 136273,
+      "sha256": "af9db5951855ecb9cec9b68b4d5bd144a691d93ca57afdaffe45e06c80727f8d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-150x150.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-150x150.png",
+      "content_type": "image/png",
+      "bytes": 36483,
+      "sha256": "10a632278e5edf4187ceef36360c222dc957bf22ed06af535ebf70d21d14ce6a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-272x182.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-272x182.png",
+      "content_type": "image/png",
+      "bytes": 80294,
+      "sha256": "2bbc60f70408d9bfad7367df22356e34474ad267f89b9743b8b458bcc0b588da"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-300x168.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-300x168.png",
+      "content_type": "image/png",
+      "bytes": 79721,
+      "sha256": "c7456d621cfef7bb0c97e22b3c3a93d02f62bd4c2da4482134e6a45f0bd8b106"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-436x272.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-436x272.png",
+      "content_type": "image/png",
+      "bytes": 175255,
+      "sha256": "17bdd3eecefed1929cdb787d7d98b1aef84f63c5788b379b51c54668d90bea3d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-720x380.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-720x380.png",
+      "content_type": "image/png",
+      "bytes": 362873,
+      "sha256": "3708a6aac2cfa03133ba4a6f9dc609363d154acfd24c30e403c9e88d56f7fe30"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-768x431.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-768x431.png",
+      "content_type": "image/png",
+      "bytes": 421380,
+      "sha256": "636d0b4339af33c665b222a0914f8841ba3c7654a57c627c7afcb05ce8f47a2c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-960x480.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-960x480.png",
+      "content_type": "image/png",
+      "bytes": 570257,
+      "sha256": "1767d0f93446552125b9cf7de8e5912b742d966e1a8eddc3024ebc18abd37568"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-962x380.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-962x380.png",
+      "content_type": "image/png",
+      "bytes": 500569,
+      "sha256": "ed83fbb1e9f061dd4915392746e69724972a38d7aa4c44d47b624b5899488ab0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm.png",
+      "content_type": "image/png",
+      "bytes": 646161,
+      "sha256": "c028c8fe4f8309e2f287bb9c5f223423adac29aed50b940ff51c79d9d5485006"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-150x150.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-150x150.png",
+      "content_type": "image/png",
+      "bytes": 20332,
+      "sha256": "ccddacea0e20116c4a0dff98ca39c6995cc95d8c8671470d46c9d1838d56e4d8"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-211x300.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-211x300.png",
+      "content_type": "image/png",
+      "bytes": 48462,
+      "sha256": "db3011caa4fdbcfa445e31e72ca5c4275161ee45f39eaa074424809ba207a485"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-272x182.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-272x182.png",
+      "content_type": "image/png",
+      "bytes": 41707,
+      "sha256": "7647e62a42f573cdacf8277a32125705205f5fbbbeb82a0eab11c20241f7dffe"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-436x272.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-436x272.png",
+      "content_type": "image/png",
+      "bytes": 83790,
+      "sha256": "53123733b366e9d0d65eee9f761ecc7b073fc1a9000f06cbeb9075157bc6f1d7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-616x380.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-616x380.png",
+      "content_type": "image/png",
+      "bytes": 53872,
+      "sha256": "0818979788b086aa4c30b8fa1ba2c904f6fad0db2f2dc0ad3b5b30865901848d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-616x480.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-616x480.png",
+      "content_type": "image/png",
+      "bytes": 63642,
+      "sha256": "8ddd8c207e9084ea7dda60afa0db951af41a12f0aa131a723f933e589437c80b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm.png",
+      "content_type": "image/png",
+      "bytes": 110821,
+      "sha256": "575d605367d716bb332aa581e47609ec95b92f0ad493129850dd9dd004b3a3f0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-150x150.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-150x150.png",
+      "content_type": "image/png",
+      "bytes": 29905,
+      "sha256": "65e39c43194a6f60bd299348e657b19e47d1b08dc26b57f76e92dda34b450ba9"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-170x300.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-170x300.png",
+      "content_type": "image/png",
+      "bytes": 54895,
+      "sha256": "e3c984560a03a76d2d82014819990b72bba4b516eba8020fe8f56678b789793f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-272x182.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-272x182.png",
+      "content_type": "image/png",
+      "bytes": 56208,
+      "sha256": "9ce2d5182e28f939d8f51247ce1c115ca8630e5fc2d7dcb71a1f98386f13f24f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-363x272.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-363x272.png",
+      "content_type": "image/png",
+      "bytes": 100221,
+      "sha256": "19134506559fda568d50d35f3a894ceff3b7a0766ef06a0a5dc1d919e8da5007"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-363x380.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-363x380.png",
+      "content_type": "image/png",
+      "bytes": 128661,
+      "sha256": "67b2d39de811ecd12a881a4dfc7d2e62647ceacd85bfca6dff733cdc567f98fc"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-363x480.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm-363x480.png",
+      "content_type": "image/png",
+      "bytes": 158709,
+      "sha256": "07fa203f42c75bf6cd370515521a140ec034930acaab6cd004955f143c34b2da"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-11-at-5.03.56-pm.png",
+      "content_type": "image/png",
+      "bytes": 180032,
+      "sha256": "da57f2f6791d01b959b175bf023b8ad8c282f2862ec0efa8c09307ca7001a9e4"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-150x150.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-150x150.png",
+      "content_type": "image/png",
+      "bytes": 21673,
+      "sha256": "9973f33be80323f0d0ca6fc66727f2ec0d1dcfc9deace10294f3dc2eceabb03a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-242x300.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-242x300.png",
+      "content_type": "image/png",
+      "bytes": 54758,
+      "sha256": "013c4eed06d70b7e5e7bc5a490a42acd5af7b9ffc38d5609b5121d9667c4d32b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-272x182.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-272x182.png",
+      "content_type": "image/png",
+      "bytes": 40658,
+      "sha256": "d598e5b517272b82d77e9f2e4e183de673e4b8a0f8ef3084de93b9bd259e88ea"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-436x272.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-436x272.png",
+      "content_type": "image/png",
+      "bytes": 90372,
+      "sha256": "071852c210921b538083e965f37b67d9cd5eebddb8e9f576c5e5289ae1ca8b6b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-637x380.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-637x380.png",
+      "content_type": "image/png",
+      "bytes": 43874,
+      "sha256": "5f48b1ef31782699c95727892636dfa04d8511ff641145f5b053e7ebbdc33cf5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-637x480.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-637x480.png",
+      "content_type": "image/png",
+      "bytes": 52891,
+      "sha256": "06d3db60087778525fdc95f8460112f103c7cc6348a053af27ff5ce497bb97ba"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm.png",
+      "local_path": "public/media/legacy/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm.png",
+      "content_type": "image/png",
+      "bytes": 81655,
+      "sha256": "2d5f2d89062af918ceebc8c4aafced4f51791f65c3bb9f4f7bfab6780244f212"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Shane-Smith-78247-Are-You-a-Good-Fit-for-Collaborative-Practice-vF....pdf",
+      "local_path": "public/media/legacy/2017/10/Shane-Smith-78247-Are-You-a-Good-Fit-for-Collaborative-Practice-vF....pdf",
+      "content_type": "application/pdf",
+      "bytes": 439454,
+      "sha256": "4cbad773a47bee685294f098afb8a9dda88974992ef295dfde884e02197946f5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Thinking_Outside_the_Box_Law_Society_Journal_Article.pdf",
+      "local_path": "public/media/legacy/2017/10/Thinking_Outside_the_Box_Law_Society_Journal_Article.pdf",
+      "content_type": "application/pdf",
+      "bytes": 239963,
+      "sha256": "439e6c619db189428f5fbb804cc64e40465e0c15e6509a9c4a4342b7581e5f34"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/laptop-150x150.png",
+      "local_path": "public/media/legacy/2017/10/laptop-150x150.png",
+      "content_type": "image/png",
+      "bytes": 2984,
+      "sha256": "c355af3a7d6063df40bcac83fc143c849dfcc9a3108e4f2c2c23ae35559c982e"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/laptop-272x182.png",
+      "local_path": "public/media/legacy/2017/10/laptop-272x182.png",
+      "content_type": "image/png",
+      "bytes": 7195,
+      "sha256": "abd93d8e32348b1a5c713a9ab082acb72c239a2f6dff7bb82b54e30058b6788b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/laptop-300x177.png",
+      "local_path": "public/media/legacy/2017/10/laptop-300x177.png",
+      "content_type": "image/png",
+      "bytes": 8443,
+      "sha256": "43b19a4bdfaa82c1d9f4419a23904a1b3c5cf348163662f6daad7bf8f2971b85"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/laptop-436x272.png",
+      "local_path": "public/media/legacy/2017/10/laptop-436x272.png",
+      "content_type": "image/png",
+      "bytes": 18331,
+      "sha256": "24117ca2618472cad1b0c0fa135be92a21283e9d6c6a423a3898df2e735eab9b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/laptop-720x380.png",
+      "local_path": "public/media/legacy/2017/10/laptop-720x380.png",
+      "content_type": "image/png",
+      "bytes": 40106,
+      "sha256": "ee803af336f702f5b1778f7d3a2506cc93f7fa74e546efcba1f4c1b8035276bb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/laptop-763x380.png",
+      "local_path": "public/media/legacy/2017/10/laptop-763x380.png",
+      "content_type": "image/png",
+      "bytes": 4463,
+      "sha256": "ec29c470ce27ca9abb2045f06605e8bf21cb06321c1e9deb34bb402a90ab87fb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/laptop.png",
+      "local_path": "public/media/legacy/2017/10/laptop.png",
+      "content_type": "image/png",
+      "bytes": 11370,
+      "sha256": "56bb89a1f37aa7dc7250f40179f729d3e07637eadf4d188f4af937bb9ac14bf9"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v2-150x80.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v2-150x80.png",
+      "content_type": "image/png",
+      "bytes": 2373,
+      "sha256": "618ec2035755559c4ad17d832b19fc27bb8b531f608cfd7220e52f58a7965513"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v2-272x80.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v2-272x80.png",
+      "content_type": "image/png",
+      "bytes": 9194,
+      "sha256": "1a49ca75a01c2e368af50a3fea3b03ffcb377352fc301190a0ca53070c61a310"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v2-300x68.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v2-300x68.png",
+      "content_type": "image/png",
+      "bytes": 18371,
+      "sha256": "268c0613063fd724e8bf700498fcf9a78f2e243db38e69d8036ad730176538aa"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v2.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v2.png",
+      "content_type": "image/png",
+      "bytes": 17135,
+      "sha256": "900a62a4156fbc3cabf0965571b2dcc37d248232e35b9059e0c07d2f88b6b464"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v3-150x80.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v3-150x80.png",
+      "content_type": "image/png",
+      "bytes": 2382,
+      "sha256": "0ab2d9f2ef869368023f3a038874d70ec90c675e174e97cd0af960122f42dd9f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v3-272x80.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v3-272x80.png",
+      "content_type": "image/png",
+      "bytes": 9206,
+      "sha256": "fee10bd86b1b3fb25d4696d90d3f0bb42d3ff3ce08505a745b7aee938cacac20"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v3-300x68.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v3-300x68.png",
+      "content_type": "image/png",
+      "bytes": 18554,
+      "sha256": "615f68692943541149ec71a1f6c95aeda177dde6beeeeb3863231924a87bf28b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/logo-tree_v3.png",
+      "local_path": "public/media/legacy/2017/10/logo-tree_v3.png",
+      "content_type": "image/png",
+      "bytes": 17177,
+      "sha256": "7acb1f0bdfd31deb0479b3ba834415221e4e8d61e7f424434234685d25f32f4d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT-150x92.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT-150x92.png",
+      "content_type": "image/png",
+      "bytes": 1782,
+      "sha256": "a8064549e3595de4c2bf758a4849f40f8fab2aad72f41f8facd6ba30dbb56b34"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT-272x92.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT-272x92.png",
+      "content_type": "image/png",
+      "bytes": 3468,
+      "sha256": "60c2e44dcfd917708c34580385bc61d596c641ba521732746baf49ef2055ad46"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT-300x39.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT-300x39.png",
+      "content_type": "image/png",
+      "bytes": 6152,
+      "sha256": "31a78d32e968d22652cc9ee4be3dbfa4d365e1ac9ba2fd485b668a11bdab94f7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT-436x92.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT-436x92.png",
+      "content_type": "image/png",
+      "bytes": 6124,
+      "sha256": "0def6e6c9ce867698593eda1f041503e6d0c62181a1afeda8e98914eb60fd94a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT.png",
+      "content_type": "image/png",
+      "bytes": 12644,
+      "sha256": "bfc98f52d5c6129f7e18287f3797d27a923441bace12a72f6118b18e38ae4544"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT_200w-150x26.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT_200w-150x26.png",
+      "content_type": "image/png",
+      "bytes": 2078,
+      "sha256": "58f8394346e06ac87f1d0252c46ba4696178f60804c093335ff6963e9688dced"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT_200w.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT_200w.png",
+      "content_type": "image/png",
+      "bytes": 2871,
+      "sha256": "1462a380fbde4a50115a64b4b4892139a58a529fac096592e2fb9987e76013f1"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT_400w-150x52.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT_400w-150x52.png",
+      "content_type": "image/png",
+      "bytes": 2091,
+      "sha256": "a20d54ebd17581a5be1181b5c20f212a09b4d085f761b7401c822406d9d444eb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT_400w-272x52.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT_400w-272x52.png",
+      "content_type": "image/png",
+      "bytes": 4664,
+      "sha256": "f0d4b854f03ba14e5a5d9de2166e743b105a423853d04fc2004acad2e0ecec90"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT_400w-300x39.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT_400w-300x39.png",
+      "content_type": "image/png",
+      "bytes": 6575,
+      "sha256": "d9b45cad5e5423776199c3ba36eb26197d618bde1f36a0c420e63f6f832b009f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/redcrow_wordmark_LIGHT_400w.png",
+      "local_path": "public/media/legacy/2017/10/redcrow_wordmark_LIGHT_400w.png",
+      "content_type": "image/png",
+      "bytes": 8276,
+      "sha256": "7be615a86f5ab9c3a974ea4f1acb72ea30b35a96c5830ae92d52987cd3257dff"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-1024x683.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-1024x683.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 86259,
+      "sha256": "ced108cc8019d665411739d1dcfdee49c8436cd12398367ceb01c94ed6e01eae"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 61716,
+      "sha256": "07e8610fabd837e5bb165af526882ec85ebae7443b57ff768ac8c037db4737cb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-150x150.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6354,
+      "sha256": "ddf2126f3409bbf6e50948f67fece07d2fa377f46cbdeebb1305668d289a5ffb"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-272x182.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12123,
+      "sha256": "798171f8cae2217869889082ca0eb2761fcc1c622729d23ce5237b13f3e38b19"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-300x200.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-300x200.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 14129,
+      "sha256": "22936bd88c0e44749532143b2796b633a28f875696733cdcd7b12ac011646abc"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-436x272.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 23900,
+      "sha256": "3ce6c42fec51326d28c85c337c03595ea3bef4a00e1893e8694318c218e2a2c7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-720x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 46125,
+      "sha256": "f9f68e7c5be73fce4c4f1259dd3dc4760640ce9df1b5592b46011ab2796c8c7b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-768x512.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-768x512.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 56558,
+      "sha256": "381a36d829875d141a166089916409683da3f836382f6ab498fe86abf159011f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832-960x480.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 68207,
+      "sha256": "2e8b0f96c9ea488296829f232621ede76c9a8b4e03bcb4fabe33be24f1eb0b63"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 8837587,
+      "sha256": "b44d72a2a0d42319d40c49e938593495dc524f52e8ebd56b9348aa8669280f54"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-1024x683.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-1024x683.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 85096,
+      "sha256": "4686da00eadda59e55896542e772d8afb27f50d5e724c90a43241d8c264fc27e"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 60766,
+      "sha256": "209806867c2ad86f291602d32dda965350d8492a708c1bf132718efc561c7830"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-150x150.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6358,
+      "sha256": "9bc968a9a6f0434b5e7642228ed4cc9639ba2b294a264ed21a313d98d62619c3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-272x182.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12086,
+      "sha256": "fc8794e924ba7a1f1023727910068c45a5484e769b5c52a74aed655e752d4127"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-300x200.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-300x200.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 14114,
+      "sha256": "b8a3ad0d53be9f212015f8457b19233285f46d919186087ad80c6bccdf8e6ad9"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-436x272.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 23832,
+      "sha256": "12727e3c1210b13e65a9d8bfdae635a3d1f8c630c578bc66cb28cf9e40ade8b7"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-720x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 45827,
+      "sha256": "d157fc76c8545c9cdab76e35d7e531f774671a157a6a97f0648d201448f8a55b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-768x512.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-768x512.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 56122,
+      "sha256": "531aa05f1123fdeebeeb8081403a2a5c57af6f6e5a87046f6fa007ff35f8536a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w-960x480.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 68719,
+      "sha256": "5b5799788728d9f796e090a9e276a952abf9db46482ba553b996f1c388d04dc2"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 1960591,
+      "sha256": "cd26958cc84ecf66a83563ee95210526b1ab73ffc90737337f4f1ee219abcbc9"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-1024x505.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-1024x505.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 73722,
+      "sha256": "41c970914e6fbd30a3b99379a60850fff36b8bea134b91dc0de69e2734c85115"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 60016,
+      "sha256": "ebf3f1cbe4b7e48b58b58a4fa6b0fa192a6c15836e67354599803332e2d34146"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-150x150.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6258,
+      "sha256": "054dee76bd80ca0145a4a617527b4c443daaf71f90d663b1b5e985485d0c75ad"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-272x182.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12373,
+      "sha256": "1ec7542bc7304101afc33299c03f2c7340e38691b6b07e0289327b4452bd9192"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-300x148.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-300x148.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12054,
+      "sha256": "92cfa2e6aed4cd49447e0bffada6781e1dd86f8d836d7a632e14d37f7c6b2dd5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-436x272.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24420,
+      "sha256": "cb038ae135a8fb98c2d55dd047b3122669b2e5fd00656f8fa0b77a18643b6daa"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-720x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 46367,
+      "sha256": "9d5327d9f82a3913f2fac2ac743a0b5bd8f83c33820b8a3811db7549ae39c0ea"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-768x378.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-768x378.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 48611,
+      "sha256": "771170173d880daac4b1be2b66bddf375850628f4b94fbfe51fcbe222de76e12"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped-960x480.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 67646,
+      "sha256": "a24a1e15f3bc2c5dd9f760087fa3d23fa8af1e947bb3aca28e2c12800fbf4777"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 1601162,
+      "sha256": "94dc2feea5cc3e1043281865550f3deb89fc41a860c2f9f720d63de07f34bebe"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-1024x320.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-1024x320.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 50247,
+      "sha256": "728f62c44cfa0aa03c6ccde1952de07782ee7e6983aa26255c97c67bd6e54ba4"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 59834,
+      "sha256": "8ae62629d262dfae887f67e3837f3bf3d596fe89f7bf61d3cff5738a9d424659"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-150x150.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 5603,
+      "sha256": "aba268458698ee66697d8bc7b6bc40fd7286e2732acd9a1d83ed77e9400593d5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-272x182.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10125,
+      "sha256": "422686a3d71d37cd0a65c68d9605f04a901865437f052a4a8563a39b1a0eb07b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-300x94.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-300x94.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 8021,
+      "sha256": "e0c413af5f45676f98327f665b920f4680aaf3e0ae41779032772b4edcc4b87a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-436x272.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 19771,
+      "sha256": "9c716ed7026ed720557a9c06d7c5317b0fb5015ae59929ead4b3d03883ae514a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-720x380.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 38808,
+      "sha256": "de9a2812c72c4b4f802cdac62521a73e0eafbb9e7a98cc014661ef006c520c60"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-768x240.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-768x240.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 32732,
+      "sha256": "77524031d354bdd5639918a85e6c5d43d89d7c9b9b2d40d89751a9d512b1e742"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2-960x480.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 58001,
+      "sha256": "aef2a2a574168c3916efffdcda4c5293da2627adbeb3d7b9bea18e647fb4ceae"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/shutterstock_79764832_1920w_cropped_v2.jpg",
+      "local_path": "public/media/legacy/2017/10/shutterstock_79764832_1920w_cropped_v2.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 1084172,
+      "sha256": "f5ed3b4fd19a77bcbc5596bbc14c8dc5ca8223da8a08ede43ede4d57879b2025"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-1024x466.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-1024x466.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 73732,
+      "sha256": "1da7249a9c8fe1a7744e00767d585f525aff451f91d9059935bb71a80a3747d2"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 62592,
+      "sha256": "d5efb37acff0af41f81e12576408e0152862db9c209d7fad0d5e5afcbaa93fd5"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-150x150.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6370,
+      "sha256": "36b62d05299aec512281d77a979009d9fc9668e12e1eb7b1d2414c466655b29f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-1024x393.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-1024x393.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 62495,
+      "sha256": "d8f7328b1ffdbb59d48d7895806be2d27c9cbe6b92f23a9595f065752944b11a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-1080x380.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-1080x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 63566,
+      "sha256": "9c0ecf0d0ed34936a5b0ff1c4162d1b52619ac28dc9f8f03d03d36298a672fa3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-150x150.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-150x150.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 5681,
+      "sha256": "afa635747ce80ea34eaf7a13dd321c06981d78e0e3fcffe1fe70dfdc9a735621"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-272x182.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 11211,
+      "sha256": "736796414567e6c33d1d38dccab4cadb912740728000ea70869598061d59923f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-300x115.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-300x115.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 9847,
+      "sha256": "aeb80f75c97cda273c6a0c4c034502619166de0df4a0b6c3a292cbd406e569a6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-436x272.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 22580,
+      "sha256": "8dd2b5e4e1d00988788993d60f1d4c489974e769b2fe700f8cb936908bf76a7b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-720x380.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 44187,
+      "sha256": "d5c6a77c2e5e05dd7a223cf696dd619d94cb0bceb39978bbf7ece554aa882443"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-768x295.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-768x295.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 40579,
+      "sha256": "097b85d9a6f8fe26397bd5622f123ce773fd6174885c3666ea996c25d7033417"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-960x480.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 66982,
+      "sha256": "98890639f732a8de8a0aa21cccbebee99b2235fbab199e079d2ac61dc9d0be0b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-2.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 313869,
+      "sha256": "4d70830795bf248fe78d82c9c9ccd3f9202a39ac4cbdf3aa7f2c2bbe2b6bb018"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-272x182.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-272x182.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12644,
+      "sha256": "984023a0308ede542192b83ff19cf75f652351e01f6b2f54674af1bc1afb3bb2"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-300x137.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-300x137.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 11572,
+      "sha256": "24a7d77ea18cde628463b4e0774f659d9ba46bff358ae4c0f9af346e93b51ca4"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-436x272.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-436x272.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24916,
+      "sha256": "622a93163164201e563e7c0a854161499e5ccb13afa63e33708fa5ca6cdad315"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-720x380.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-720x380.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 47785,
+      "sha256": "baf5343bc704b02c88215453f35adcd4f7dfc882522fbcccb1243dfb18477c75"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-768x350.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-768x350.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 47939,
+      "sha256": "773062b644417f7d8c9387ca49bcca43615571f01123baf7d216e98611f3ab3b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-960x480.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy-960x480.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 70496,
+      "sha256": "2c1975711c41a029168b393fd9e6a7ba236ab2b0016d9d289ad1567e79024d29"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy.jpg",
+      "local_path": "public/media/legacy/2017/10/stock-photo-business-meeting-in-an-office-79764832-copy.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 365122,
+      "sha256": "b2baca96041da9bc8cf010569dbdbe66e67312767e0cabc4e8f2440cdbebc09a"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-1024x380.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-1024x380.png",
+      "content_type": "image/png",
+      "bytes": 618001,
+      "sha256": "2a6acc402a01489438262e577a2e45263d540f8f09e6839cfb8140e9d496f817"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-150x150.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-150x150.png",
+      "content_type": "image/png",
+      "bytes": 37274,
+      "sha256": "460ae4c828865adb074308dfb2e5fa6b85bc606534781fe806fa8aa7f8889106"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-272x182.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-272x182.png",
+      "content_type": "image/png",
+      "bytes": 80267,
+      "sha256": "35b2b053f68f78c066dbb722c904f484f13ca3ea9b5bde823f8256b03cc5a879"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-300x300.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-300x300.png",
+      "content_type": "image/png",
+      "bytes": 126546,
+      "sha256": "d3262022918feb5e7c3ff1dbd888aec732bfebec14ed6582a41a7739c9875f34"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-436x272.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-436x272.png",
+      "content_type": "image/png",
+      "bytes": 174691,
+      "sha256": "2f9a7dca31aaa259214d8a9e238b4d132ceba81b6e10c15af2adf6aae2649f42"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-720x380.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-720x380.png",
+      "content_type": "image/png",
+      "bytes": 386520,
+      "sha256": "d6027380b3260fe00ad2be8e707280df701a9545bd724709b1670470bb755326"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-768x768.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-768x768.png",
+      "content_type": "image/png",
+      "bytes": 729602,
+      "sha256": "3c55776e2fe3b57227c18bfdfc0b1ca7578262f8b2b2f4b6003b1757f8d6c38e"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-960x480.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-960x480.png",
+      "content_type": "image/png",
+      "bytes": 639113,
+      "sha256": "175d8563b56f492d08a07ac39061e06b083fc9fc69960464cef4e8f796f8dc89"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef.png",
+      "local_path": "public/media/legacy/2023/07/children-sscp-6001-4313-8c28-9275c66419ef.png",
+      "content_type": "image/png",
+      "bytes": 1470219,
+      "sha256": "4e0fe7b00fa0462ea7a30ea59756fe98a60c7be54b4632db426a1dc2bad73573"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-1024x1024.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-1024x1024.png",
+      "content_type": "image/png",
+      "bytes": 519637,
+      "sha256": "47ea4b77dbe534829003911e269f279ff3a289c77f75129552e65a1c068191a6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-1080x380.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-1080x380.png",
+      "content_type": "image/png",
+      "bytes": 219165,
+      "sha256": "e620dd323a2ca17e584a024ef44c1ae2f8094e23626e92d195536f219f9d0ea3"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-150x150.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-150x150.png",
+      "content_type": "image/png",
+      "bytes": 25330,
+      "sha256": "0236ba9cc8dc0bfaaf4a0e2308a44e126a2d47adc2afed244945c73a0ca9eb84"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-272x182.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-272x182.png",
+      "content_type": "image/png",
+      "bytes": 46510,
+      "sha256": "d98fff85de06aa4b6f81a1dff93d523aba4724307f401a1442c12d46cb3b3ddd"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-300x300.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-300x300.png",
+      "content_type": "image/png",
+      "bytes": 71056,
+      "sha256": "6ef5f8fc5068ff92a9ff7fe91e2ae1babff0a9a907281b24ebf3e375a78d131f"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-436x272.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-436x272.png",
+      "content_type": "image/png",
+      "bytes": 86476,
+      "sha256": "bc1d7d9ebc7a0b6b0ee6aa62994cf40812e22f09aa5cf3da1e82eec69c0e0d98"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-720x380.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-720x380.png",
+      "content_type": "image/png",
+      "bytes": 163241,
+      "sha256": "c9752f4af272a651a577e30094253a32d75e187e1037a0ec3bfbd8ebce666dea"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-768x768.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-768x768.png",
+      "content_type": "image/png",
+      "bytes": 310798,
+      "sha256": "a9bb1a3fc7cac33c7592186f448156518fb1fe1f32f96ed321a52aae8e256d60"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-960x480.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2-960x480.png",
+      "content_type": "image/png",
+      "bytes": 250213,
+      "sha256": "6547e00ad3bc857be33a391445566dad3e2ca539b7e32c7c3448a2a538cc0ece"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2.png",
+      "local_path": "public/media/legacy/2023/08/Initial-Meetings-2.png",
+      "content_type": "image/png",
+      "bytes": 571505,
+      "sha256": "7b59cc2c74e8302da48ef8aeec02c1a35bf9d40a419e418b6194f4c3fff7e644"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-1024x1024.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-1024x1024.png",
+      "content_type": "image/png",
+      "bytes": 973960,
+      "sha256": "ee3be14f88ab6689724ee3483c698391a034cc41148772f7e11b9164240c41ec"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-1080x380.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-1080x380.png",
+      "content_type": "image/png",
+      "bytes": 376592,
+      "sha256": "c7ab3de43643b4491ffdc8aac5ff48bff5098209e0c1acfb55a60152d524ef27"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-150x150.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-150x150.png",
+      "content_type": "image/png",
+      "bytes": 32034,
+      "sha256": "aad4776ab240d5c761ba78b72e66060b2bd2853562076cacd0d66c9415109570"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-272x182.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-272x182.png",
+      "content_type": "image/png",
+      "bytes": 61312,
+      "sha256": "80eed4ef6e2cd00d292193618cdb219d1d02e68275a6c8b75742dbfe0de0f27b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-300x300.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-300x300.png",
+      "content_type": "image/png",
+      "bytes": 103967,
+      "sha256": "64b6960efdc139ed592cf28713d50548f0d504ebffdcbad7e2f8d0206b6d200e"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-436x272.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-436x272.png",
+      "content_type": "image/png",
+      "bytes": 129118,
+      "sha256": "02adce1ddf7d42e0a321987f68dd88e45a01513e3c28d527ca5ae1fbbb2fb248"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-720x380.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-720x380.png",
+      "content_type": "image/png",
+      "bytes": 259522,
+      "sha256": "390e1e1aecdfbcb23222dd8c70731962c56564a4e2389db2f26f8654495c9bf0"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-768x768.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-768x768.png",
+      "content_type": "image/png",
+      "bytes": 568151,
+      "sha256": "3da27e896561020c83f5b83e33465fe6fad3c9bf65f4153281ca53f6ef0f139d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-960x480.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post-960x480.png",
+      "content_type": "image/png",
+      "bytes": 418028,
+      "sha256": "74f38b5b8cf56de99df8c8160db079e25bf704d1106708412f35795650604db6"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post.png",
+      "local_path": "public/media/legacy/2023/09/Quotes-Instagram-Post.png",
+      "content_type": "image/png",
+      "bytes": 1188886,
+      "sha256": "42da86287c15ef1e487d69add96f13ba2fe966dd8e4331c8b9456f7640a67e8d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--1024x1024.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--1024x1024.png",
+      "content_type": "image/png",
+      "bytes": 388712,
+      "sha256": "5a748deb86adaf03a517307bc9d26d218dcb7c9f289db0b3242b538caccd327c"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--1080x380.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--1080x380.png",
+      "content_type": "image/png",
+      "bytes": 220201,
+      "sha256": "0233870c9c8f3177365d3cda76141ee02f5733782fc240ec9a4234629fe08271"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--150x150.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--150x150.png",
+      "content_type": "image/png",
+      "bytes": 24267,
+      "sha256": "27f35f68d37e335b08cdf25d3a60c311e6c7b04a71363952caacd18e0a2b001b"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--1536x1536.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--1536x1536.png",
+      "content_type": "image/png",
+      "bytes": 696563,
+      "sha256": "8d8b5e5e10e6471d97bd67e470b7d84d3d06148042b49570b5f507007e680c3e"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--2048x2048.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--2048x2048.png",
+      "content_type": "image/png",
+      "bytes": 1050770,
+      "sha256": "f400d838de958e60b99aed798f4cfe900d3411b1acd7ad4a5c9e9ed538768e56"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--272x182.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--272x182.png",
+      "content_type": "image/png",
+      "bytes": 45605,
+      "sha256": "01b8748e0caa92bd637b7b86e08fd2f4d0f398b4f348e7844d555672a8c77b4d"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--300x300.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--300x300.png",
+      "content_type": "image/png",
+      "bytes": 68703,
+      "sha256": "8afa96bd04a3ff159b5fcd9908a0a5e10f3aad5bbfe3451fdedb4c6735e71198"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--436x272.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--436x272.png",
+      "content_type": "image/png",
+      "bytes": 85854,
+      "sha256": "7ca302784a45509f34533c9db660c29910cc9ecb947156483d3422d0d0832c52"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--720x380.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--720x380.png",
+      "content_type": "image/png",
+      "bytes": 155590,
+      "sha256": "5a4d570e7d526c2d2efa4a86e305491b99340c2f172be749c993c7adfa1f6305"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--768x768.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--768x768.png",
+      "content_type": "image/png",
+      "bytes": 259508,
+      "sha256": "f69dc99f2e55d23dcaf6c608240b366ffafdb68e52eb0d9ff35e4dd2b0ad7631"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--960x480.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals--960x480.png",
+      "content_type": "image/png",
+      "bytes": 223172,
+      "sha256": "a737f91acad35f47f8f3e9d099d2afb2e3afb101360d8c9b19b9c2a4dc6f9074"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals-.png",
+      "local_path": "public/media/legacy/2023/12/Southern-Sydney-Collaborative-Professionals-.png",
+      "content_type": "image/png",
+      "bytes": 2096550,
+      "sha256": "9a9d36af8bca6e09d74559bea60fc374fafc1d0360c4da481c2f2791c11b7c61"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/slider4/iphonebig.png",
+      "local_path": "public/media/legacy/slider4/iphonebig.png",
+      "content_type": "image/png",
+      "bytes": 9254,
+      "sha256": "9855963acf370877e35ce885e358c29ad73edb8326afc8ce5d5c4388db9a7dce"
+    },
+    {
+      "source_url": "https://collaborativeprofessionals.com.au/wp-content/uploads/slider4/iphonesmall.png",
+      "local_path": "public/media/legacy/slider4/iphonesmall.png",
+      "content_type": "image/png",
+      "bytes": 7209,
+      "sha256": "0029f760870f17a85f02538bdb1f400a6f8e8704bd183351adc45c27a4c61864"
+    }
+  ],
+  "failures": []
+}

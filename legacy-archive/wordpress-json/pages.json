@@ -1,0 +1,718 @@
+[
+  {
+    "id": 728,
+    "date": "2024-10-04T19:28:56",
+    "date_gmt": "2024-10-04T08:28:56",
+    "guid": {
+      "rendered": "https://collaborativeprofessionals.com.au/?page_id=728"
+    },
+    "modified": "2024-10-04T19:29:46",
+    "modified_gmt": "2024-10-04T08:29:46",
+    "slug": "news-2",
+    "status": "publish",
+    "type": "page",
+    "link": "https://collaborativeprofessionals.com.au/process/news-2/",
+    "title": {
+      "rendered": "News"
+    },
+    "content": {
+      "rendered": "<div id=\"pl-728\"  class=\"panel-layout\" ><div id=\"pg-728-0\"  class=\"panel-grid panel-no-style\" ><div id=\"pgc-728-0-0\"  class=\"panel-grid-cell\" ><div id=\"panel-728-0-0-0\" class=\"so-panel widget widget_sow-post-carousel panel-first-child panel-last-child\" data-index=\"0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-post-carousel so-widget-sow-post-carousel-base-0471499d4c66-728\"\n\t\t\t\n\t\t>\t<div\n\t\tclass=\"sow-post-carousel-wrapper sow-post-carousel-theme-base\"\n\t\tstyle=\"overflow: hidden; max-width: 100%; min-height: 182px\"\n\t>\n\t\t<div class=\"sow-carousel-title has-title\">\n\t<h3 class=\"widget-title\">Recent Posts</h3>\t\t<div class=\"sow-carousel-navigation \">\n\t\t\t\t\t\t<a href=\"#\" class=\"sow-carousel-next\" title=\"Next\" aria-label=\"Next Posts\" role=\"button\"></a>\n\t\t\t\t\t\t<a href=\"#\" class=\"sow-carousel-previous\" title=\"Previous\" aria-label=\"Previous Posts\" role=\"button\"></a>\n\t\t\t\t\t</div>\n\t</div>\n\n<div class=\"sow-carousel-container \">\n\t\t<div class=\"sow-carousel-wrapper\"\n\t\tdata-dir=\"ltr\"\n\t\tstyle=\"opacity: 0;\"\n\t\tdata-widget=\"post\" data-fetching=\"false\" data-page=\"1\" data-ajax-url=\"https://collaborativeprofessionals.com.au/wp-admin/admin-ajax.php?_widgets_nonce=789482a3d9\" data-item_count=\"10\" data-carousel_settings=\"{&quot;loop&quot;:true,&quot;animation&quot;:&quot;Ease&quot;,&quot;animation_speed&quot;:800,&quot;autoplay&quot;:&quot;&quot;,&quot;pauseOnHover&quot;:&quot;&quot;,&quot;autoplaySpeed&quot;:8000,&quot;item_overflow&quot;:true,&quot;autoplay_continuous_scroll&quot;:false}\" data-responsive=\"{&quot;desktop_slides_to_scroll&quot;:1,&quot;tablet_landscape_breakpoint&quot;:1366,&quot;tablet_landscape_slides_to_scroll&quot;:2,&quot;tablet_portrait_breakpoint&quot;:1025,&quot;tablet_portrait_slides_to_scroll&quot;:2,&quot;mobile_breakpoint&quot;:480,&quot;mobile_slides_to_scroll&quot;:1}\" data-variable_width=\"true\" \t>\n\t\t<div\n\t\t\tclass=\"sow-carousel-items\"\n\t\t\t\t\t>\n\t\t\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/understanding-collaborative-divorce-how-working-together-helps-everyone/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2023/12/Southern-Sydney-Collaborative-Professionals--272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-717\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/understanding-collaborative-divorce-how-working-together-helps-everyone/\"\n\t\t\t\tid=\"sow-carousel-id-717\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tUnderstanding Collaborative Divorce: How Working Together Helps Everyone\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/neutralexperts/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2023/09/Quotes-Instagram-Post-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-706\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/neutralexperts/\"\n\t\t\t\tid=\"sow-carousel-id-706\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tThe Role of Neutral Experts in Collaborative Family Law\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/step-by-step-collaborative-family-law-settlement-process/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2023/08/Initial-Meetings-2-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-693\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/step-by-step-collaborative-family-law-settlement-process/\"\n\t\t\t\tid=\"sow-carousel-id-693\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tThe Step by Step Process for Collaborative Family Law Settlements\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/benefits-of-collaborative-practice-for-children/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2023/07/children-sscp-6001-4313-8c28-9275c66419ef-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-631\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/benefits-of-collaborative-practice-for-children/\"\n\t\t\t\tid=\"sow-carousel-id-631\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tHow Can Collaborative Practice Benefit My Children?\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/collaborative-practice-talk/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-16-at-12.21.49-pm-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-557\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/collaborative-practice-talk/\"\n\t\t\t\tid=\"sow-carousel-id-557\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tCollaborative Practice Talk\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/southern-sydney-collaborative-professionals-first-meeting/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/IMG_0272-272x182.jpg )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-532\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/southern-sydney-collaborative-professionals-first-meeting/\"\n\t\t\t\tid=\"sow-carousel-id-532\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tSouthern Sydney Collaborative Professionals &#8211; First Meeting\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/are-you-a-good-fit-for-collaborative-practice-building-a-team-of-conflict-resolution-advocates-towards-achieving-enduring-settlement-for-clients/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.04.20-pm-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-489\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/are-you-a-good-fit-for-collaborative-practice-building-a-team-of-conflict-resolution-advocates-towards-achieving-enduring-settlement-for-clients/\"\n\t\t\t\tid=\"sow-carousel-id-489\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tAre You a Good Fit for Collaborative Practice? Building a Team of Conflict Resolution Advocates towards Achieving enduring Settlement for Clients.\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/preview-collaborative-practice/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-2.03.02-pm-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-483\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/preview-collaborative-practice/\"\n\t\t\t\tid=\"sow-carousel-id-483\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tPreview: Collaborative Practice\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/collaborative-practice-why-i-chose-to-stop-litigating-and-embraced-divorce-done-differently/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.55.09-pm-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-477\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/collaborative-practice-why-i-chose-to-stop-litigating-and-embraced-divorce-done-differently/\"\n\t\t\t\tid=\"sow-carousel-id-477\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tCollaborative Practice – Why I chose to stop litigating and embraced divorce done differently\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t<div class=\"sow-carousel-item\" tabindex=\"-1\" style=\"float: left;\">\n\t\t<div class=\"sow-carousel-thumbnail\">\n\t\t\t\t\t\t\t<a\n\t\t\t\t\thref=\"https://collaborativeprofessionals.com.au/thinking-outside-the-box-collaborative-practice-in-family-law/\"\n\t\t\t\t\t\t\t\t\t\tstyle=\"background-image: url( https://collaborativeprofessionals.com.au/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-1.43.56-pm-272x182.png )\"\n\t\t\t\t\taria-labelledby=\"sow-carousel-id-462\"\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t>\n\t\t\t\t\t<span class=\"overlay\"></span>\n\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t<h3 class=\"sow-carousel-item-title\">\n\t\t\t<a\n\t\t\t\thref=\"https://collaborativeprofessionals.com.au/thinking-outside-the-box-collaborative-practice-in-family-law/\"\n\t\t\t\tid=\"sow-carousel-id-462\"\n\t\t\t\t\t\t\t\ttabindex=\"-1\"\n\t\t\t>\n\n\t\t\t\tThinking Outside the Box: Collaborative Practice in Family Law\t\t\t</a>\n\t\t</h3>\n\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\n\t</div>\n\t\t<input type=\"hidden\" name=\"instance_hash\" value=\"c56740b0\"/>\n\t</div>\n</div></div></div></div></div>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Recent Posts Understanding Collaborative Divorce: How Working Together Helps Everyone The Role of Neutral Experts in Collaborative Family Law The Step by Step Process for Collaborative Family Law Settlements How Can Collaborative Practice Benefit My Children? Collaborative Practice Talk Southern Sydney Collaborative Professionals &#8211; First Meeting Are You a Good Fit for Collaborative Practice? Building&hellip;</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 10,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_exactmetrics_skip_tracking": false,
+      "_exactmetrics_sitenote_active": false,
+      "_exactmetrics_sitenote_note": "",
+      "_exactmetrics_sitenote_category": 0,
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-728",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "post"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/728",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/comments?post=728"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/728/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/10"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/media?parent=728"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 2,
+          "name": "Adrian Stock",
+          "url": "",
+          "description": "",
+          "link": "https://collaborativeprofessionals.com.au/author/adrian/",
+          "slug": "adrian",
+          "_links": {
+            "self": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/2",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ],
+      "up": [
+        {
+          "id": 10,
+          "date": "2017-09-05T05:48:58",
+          "slug": "process",
+          "type": "page",
+          "link": "https://collaborativeprofessionals.com.au/process/",
+          "title": {
+            "rendered": "Process"
+          },
+          "excerpt": {
+            "rendered": "<p>What is Collaborative Practice? Collaborative practice is a recognised method of resolving your family law issues without having to resort to litigation. It is a voluntary dispute resolution process, in which you and your partner work with collaborative lawyers, collaborative coaches and other experts to creatively problem-solve issues using face-to-face communication. It allows you and your&hellip;</p>\n",
+            "protected": false
+          },
+          "author": 1,
+          "featured_media": 0,
+          "_links": {
+            "self": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/10",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/types/page"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/comments?post=10"
+              }
+            ],
+            "version-history": [
+              {
+                "count": 0,
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/10/revisions"
+              }
+            ],
+            "wp:attachment": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/media?parent=10"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "date": "2017-09-05T05:49:51",
+    "date_gmt": "2017-09-05T05:49:51",
+    "guid": {
+      "rendered": "http://ftutors.com/sscp/?page_id=12"
+    },
+    "modified": "2017-10-16T12:13:48",
+    "modified_gmt": "2017-10-16T01:13:48",
+    "slug": "contact",
+    "status": "publish",
+    "type": "page",
+    "link": "https://collaborativeprofessionals.com.au/contact/",
+    "title": {
+      "rendered": "Contact Us"
+    },
+    "content": {
+      "rendered": "<div id=\"pl-12\"  class=\"panel-layout\" ><div id=\"pg-12-0\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-12-0\" data-stretch-type=\"full-stretched\" ><div id=\"pgc-12-0-0\"  class=\"panel-grid-cell\" ><div class=\"panel-cell-style panel-cell-style-for-12-0-0\" ></div></div></div></div><div id=\"pg-12-1\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-12-1\" style=\"background-color: #526163; \" data-stretch-type=\"full\" ><div id=\"pgc-12-1-0\"  class=\"panel-grid-cell\" ><div class=\"panel-cell-style panel-cell-style-for-12-1-0\" ><div id=\"panel-12-1-0-0\" class=\"so-panel widget widget_sow-hero panel-first-child panel-last-child\" data-index=\"1\" ><div class=\"panel-widget-style panel-widget-style-for-12-1-0-0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-hero so-widget-sow-hero-default-b53b86b3efaf-12 so-widget-fittext-wrapper\"\n\t\t\t data-fit-text-compressor=\"0.85\"\n\t\t>\t\t\t\t<div class=\"sow-slider-base\" style=\"display: none\" tabindex=\"0\">\n\t\t\t\t\t<ul\n\t\t\t\t\tclass=\"sow-slider-images\"\n\t\t\t\t\tdata-settings=\"{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;paused&quot;:false,&quot;pause_on_hover&quot;:false,&quot;swipe&quot;:true,&quot;nav_always_show_desktop&quot;:&quot;&quot;,&quot;nav_always_show_mobile&quot;:&quot;&quot;,&quot;breakpoint&quot;:&quot;780px&quot;,&quot;unmute&quot;:false,&quot;anchor&quot;:null}\"\n\t\t\t\t\tstyle=\"min-height: 420px\"\t\t\t\t\tdata-anchor-id=\"\"\n\t\t\t\t>\t\t<li class=\"sow-slider-image\" style=\"visibility: visible;;background-color: #333333\" >\n\t\t\t\t\t<div class=\"sow-slider-image-container\">\n\t\t\t<div class=\"sow-slider-image-wrapper\">\n\t\t\t\t<h1 class=\"hero-heading\">GET IN</h1>\n<h1 class=\"hero-heading\">TOUCH</h1>\t\t\t</div>\n\t\t</div>\n\t\t\t\t</li>\n\t\t</ul>\t\t\t\t<ol class=\"sow-slider-pagination\">\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\" data-goto=\"0\" aria-label=\"Display slide 1\"></a></li>\n\t\t\t\t\t\t\t\t\t</ol>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-next\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"next\" aria-label=\"Next slide\" data-action=\"next\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-right\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-prev\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"previous\" aria-label=\"Previous slide\" data-action=\"prev\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-left\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t</div></div></div></div></div></div><div id=\"pgc-12-1-1\"  class=\"panel-grid-cell\" ><div class=\"panel-cell-style panel-cell-style-for-12-1-1\" ><div id=\"panel-12-1-1-0\" class=\"so-panel widget widget_sow-editor panel-first-child panel-last-child\" data-index=\"2\" ><div class=\"panel-widget-style panel-widget-style-for-12-1-1-0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-editor so-widget-sow-editor-base\"\n\t\t\t\n\t\t>\n<div class=\"siteorigin-widget-tinymce textwidget\">\n\t\n<div class=\"wpcf7 no-js\" id=\"wpcf7-f192-o1\" lang=\"en-US\" dir=\"ltr\">\n<div class=\"screen-reader-response\"><p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"></p> <ul></ul></div>\n<form action=\"/wp-json/wp/v2/pages?per_page=100&#038;_embed=1#wpcf7-f192-o1\" method=\"post\" class=\"wpcf7-form init\" aria-label=\"Contact form\" novalidate=\"novalidate\" data-status=\"init\">\n<div style=\"display: none;\">\n<input type=\"hidden\" name=\"_wpcf7\" value=\"192\" />\n<input type=\"hidden\" name=\"_wpcf7_version\" value=\"5.9.8\" />\n<input type=\"hidden\" name=\"_wpcf7_locale\" value=\"en_US\" />\n<input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f192-o1\" />\n<input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" />\n<input type=\"hidden\" name=\"_wpcf7_posted_data_hash\" value=\"\" />\n<input type=\"hidden\" name=\"_wpcf7_recaptcha_response\" value=\"\" />\n</div>\n<h2 class=\"form-headings\"><span>Contact SSCP</span>\n</h2>\n<p><label><span class=\"wpcf7-form-control-wrap\" data-name=\"your-name\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" placeholder=\"Name\" value=\"\" type=\"text\" name=\"your-name\" /></span> </label>\n</p>\n<p><label><span class=\"wpcf7-form-control-wrap\" data-name=\"your-email\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" placeholder=\"Email\" value=\"\" type=\"email\" name=\"your-email\" /></span> </label>\n</p>\n<p><label><span class=\"wpcf7-form-control-wrap\" data-name=\"your-subject\"><input size=\"40\" maxlength=\"400\" class=\"wpcf7-form-control wpcf7-text\" aria-invalid=\"false\" placeholder=\"Subject\" value=\"\" type=\"text\" name=\"your-subject\" /></span> </label>\n</p>\n<p><label><span class=\"wpcf7-form-control-wrap\" data-name=\"your-message\"><textarea cols=\"40\" rows=\"4\" maxlength=\"2000\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\" placeholder=\"Message\" name=\"your-message\"></textarea></span> </label>\n</p>\n<p><input class=\"wpcf7-form-control wpcf7-submit has-spinner\" type=\"submit\" value=\"Send Message\" />\n</p><div class=\"wpcf7-response-output\" aria-hidden=\"true\"></div>\n</form>\n</div>\n\n</div>\n</div></div></div></div></div></div></div><div id=\"pg-12-2\"  class=\"panel-grid panel-has-style\" ><div class=\"panel-row-style panel-row-style-for-12-2\" ><div id=\"pgc-12-2-0\"  class=\"panel-grid-cell\" ><div id=\"panel-12-2-0-0\" class=\"widget_text so-panel widget widget_custom_html panel-first-child panel-last-child\" data-index=\"3\" ><div class=\"widget_text panel-widget-style panel-widget-style-for-12-2-0-0\" ><div class=\"textwidget custom-html-widget\"><center>\n<iframe loading=\"lazy\" src=\"https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsouthernsydneycollaborativeprofessionals%2F&tabs=timeline&width=500&height=420&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=281483845670493\" width=\"500\" height=\"420\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>\n</center></div></div></div></div><div id=\"pgc-12-2-1\"  class=\"panel-grid-cell\" ><div id=\"panel-12-2-1-0\" class=\"so-panel widget widget_sow-hero panel-first-child panel-last-child\" data-index=\"4\" ><div class=\"panel-widget-style panel-widget-style-for-12-2-1-0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-hero so-widget-sow-hero-default-b53b86b3efaf-12 so-widget-fittext-wrapper\"\n\t\t\t data-fit-text-compressor=\"0.85\"\n\t\t>\t\t\t\t<div class=\"sow-slider-base\" style=\"display: none\" tabindex=\"0\">\n\t\t\t\t\t<ul\n\t\t\t\t\tclass=\"sow-slider-images\"\n\t\t\t\t\tdata-settings=\"{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;paused&quot;:false,&quot;pause_on_hover&quot;:false,&quot;swipe&quot;:true,&quot;nav_always_show_desktop&quot;:&quot;&quot;,&quot;nav_always_show_mobile&quot;:&quot;&quot;,&quot;breakpoint&quot;:&quot;780px&quot;,&quot;unmute&quot;:false,&quot;anchor&quot;:null}\"\n\t\t\t\t\tstyle=\"min-height: 420px\"\t\t\t\t\tdata-anchor-id=\"\"\n\t\t\t\t>\t\t<li class=\"sow-slider-image\" style=\"visibility: visible;;background-color: #333333\" >\n\t\t\t\t\t<div class=\"sow-slider-image-container\">\n\t\t\t<div class=\"sow-slider-image-wrapper\">\n\t\t\t\t<h1 class=\"hero-heading\">FIND US ON</h1>\n<h1 class=\"hero-heading\">FACEBOOK</h1>\t\t\t</div>\n\t\t</div>\n\t\t\t\t</li>\n\t\t</ul>\t\t\t\t<ol class=\"sow-slider-pagination\">\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\" data-goto=\"0\" aria-label=\"Display slide 1\"></a></li>\n\t\t\t\t\t\t\t\t\t</ol>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-next\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"next\" aria-label=\"Next slide\" data-action=\"next\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-right\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-prev\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"previous\" aria-label=\"Previous slide\" data-action=\"prev\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-left\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t</div></div></div></div></div></div></div><div id=\"pg-12-3\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-12-3\" style=\"background-color: #526163; \" data-stretch-type=\"full\" ><div id=\"pgc-12-3-0\"  class=\"panel-grid-cell\" ><div id=\"panel-12-3-0-0\" class=\"so-panel widget widget_sow-hero panel-first-child panel-last-child\" data-index=\"5\" ><div class=\"panel-widget-style panel-widget-style-for-12-3-0-0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-hero so-widget-sow-hero-default-b53b86b3efaf-12 so-widget-fittext-wrapper\"\n\t\t\t data-fit-text-compressor=\"0.85\"\n\t\t>\t\t\t\t<div class=\"sow-slider-base\" style=\"display: none\" tabindex=\"0\">\n\t\t\t\t\t<ul\n\t\t\t\t\tclass=\"sow-slider-images\"\n\t\t\t\t\tdata-settings=\"{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;paused&quot;:false,&quot;pause_on_hover&quot;:false,&quot;swipe&quot;:true,&quot;nav_always_show_desktop&quot;:&quot;&quot;,&quot;nav_always_show_mobile&quot;:&quot;&quot;,&quot;breakpoint&quot;:&quot;780px&quot;,&quot;unmute&quot;:false,&quot;anchor&quot;:null}\"\n\t\t\t\t\tstyle=\"min-height: 420px\"\t\t\t\t\tdata-anchor-id=\"\"\n\t\t\t\t>\t\t<li class=\"sow-slider-image\" style=\"visibility: visible;;background-color: #333333\" >\n\t\t\t\t\t<div class=\"sow-slider-image-container\">\n\t\t\t<div class=\"sow-slider-image-wrapper\">\n\t\t\t\t<h1 style=\"text-align: center\">OUR</h1>\n<h1 style=\"text-align: center\">BROCHURE</h1>\t\t\t</div>\n\t\t</div>\n\t\t\t\t</li>\n\t\t</ul>\t\t\t\t<ol class=\"sow-slider-pagination\">\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\" data-goto=\"0\" aria-label=\"Display slide 1\"></a></li>\n\t\t\t\t\t\t\t\t\t</ol>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-next\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"next\" aria-label=\"Next slide\" data-action=\"next\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-right\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-prev\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"previous\" aria-label=\"Previous slide\" data-action=\"prev\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-left\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t</div></div></div></div></div><div id=\"pgc-12-3-1\"  class=\"panel-grid-cell\" ><div id=\"panel-12-3-1-0\" class=\"so-panel widget widget_sow-image panel-first-child panel-last-child\" data-index=\"6\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-image so-widget-sow-image-default-8b5b6f678277-12\"\n\t\t\t\n\t\t>\n<div class=\"sow-image-container\">\n\t\t\t<a href=\"http://ec2-54-164-74-3.compute-1.amazonaws.com/wp-content/uploads/2017/09/SSCP-Marketing-Brochure.pdf\"\n\t\t\ttarget=\"_blank\" rel=\"noopener noreferrer\" \t\t>\n\t\t\t<img \n\tsrc=\"https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm.png\" width=\"1357\" height=\"1051\" srcset=\"https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm.png 1357w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-300x232.png 300w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-768x595.png 768w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Screen-Shot-2017-10-16-at-12.04.18-pm-1024x793.png 1024w\" sizes=\"(max-width: 1357px) 100vw, 1357px\" title=\"Screen Shot 2017-10-16 at 12.04.18 pm\" alt=\"\" \t\tclass=\"so-widget-image\"/>\n\t\t\t</a></div>\n\n</div></div></div></div></div></div>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>GET IN TOUCH Contact SSCP FIND US ON FACEBOOK OUR BROCHURE</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "templates/template-full.php",
+    "meta": {
+      "_exactmetrics_skip_tracking": false,
+      "_exactmetrics_sitenote_active": false,
+      "_exactmetrics_sitenote_note": "",
+      "_exactmetrics_sitenote_category": 0,
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-12",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "post"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/12",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/comments?post=12"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/12/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/media?parent=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 1,
+          "name": "sscp_admin",
+          "url": "",
+          "description": "",
+          "link": "https://collaborativeprofessionals.com.au/author/sscp_admin/",
+          "slug": "sscp_admin",
+          "_links": {
+            "self": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "date": "2017-09-05T05:48:58",
+    "date_gmt": "2017-09-05T05:48:58",
+    "guid": {
+      "rendered": "http://ftutors.com/sscp/?page_id=10"
+    },
+    "modified": "2017-10-16T12:17:14",
+    "modified_gmt": "2017-10-16T01:17:14",
+    "slug": "process",
+    "status": "publish",
+    "type": "page",
+    "link": "https://collaborativeprofessionals.com.au/process/",
+    "title": {
+      "rendered": "Process"
+    },
+    "content": {
+      "rendered": "<div id=\"pl-10\"  class=\"panel-layout\" ><div id=\"pg-10-0\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-10-0\" data-stretch-type=\"full\" ><div id=\"pgc-10-0-0\"  class=\"panel-grid-cell\" ></div></div></div><div id=\"pg-10-1\"  class=\"panel-grid panel-no-style\" ><div id=\"pgc-10-1-0\"  class=\"panel-grid-cell\" ><div id=\"panel-10-1-0-0\" class=\"so-panel widget widget_sow-editor panel-first-child panel-last-child\" data-index=\"1\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-editor so-widget-sow-editor-base\"\n\t\t\t\n\t\t>\n<div class=\"siteorigin-widget-tinymce textwidget\">\n\t<h3>What is Collaborative Practice?</h3>\n<p>Collaborative practice is a recognised method of resolving your family law issues without having to resort to litigation. It is a voluntary dispute resolution process, in which you and your partner work with collaborative lawyers, collaborative coaches and other experts to creatively problem-solve issues using face-to-face communication. It allows you and your partner to negotiate a resolution that targets priorities (whether they are financial or child-related) and that works for your family. It focuses on an end result, which satisfies both you and your partner, with little conflict.</p>\n<h3>How does it work?</h3>\n<p>In the collaborative practice process you and your partner each have your own collaborative lawyer. Often the process is facilitated by a collaborative coach who directs and guides you and your partner and your respective collaborative lawyers through the process, while ensuring everyone adheres to the objectives. Financial professionals, child consultants and/or other experts may also be appointed to work impartially as part of the collaborative professional team to help you and your partner make informed decisions.<br /> All participants sign a Participation Agreement prior to committing to the collaborative practice process. This is a contract that includes an agreement to settle the family law issues without involving the Court.</p>\n<p>The collaborative practice process involves a series of meetings where you sit down both privately and together with your collaborative lawyers, coach and/or other experts to discuss options to best satisfy both your and your partner’s goals and interests. Legal advice is provided by the collaborative lawyers in the presence of both you and your partner and all negotiations are conducted during the meetings. Correspondence is kept to a minimum, with minutes recorded and circulated as to what takes place in the meetings.<br /> Often the steps involved in the collaborative practice process are as follows: </p>\n<p><a href=\"http://ec2-54-164-74-3.compute-1.amazonaws.com/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft.png\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-151 size-large\" src=\"http://ec2-54-164-74-3.compute-1.amazonaws.com/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-1024x700.png\" alt=\"\" width=\"720\" height=\"492\" srcset=\"https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-1024x700.png 1024w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-300x205.png 300w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft-768x525.png 768w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/Collaborative-Practice-Process-draft.png 1132w\" sizes=\"auto, (max-width: 720px) 100vw, 720px\" /></a><br /> Depending on the complexity of the issues, the collaborative practice process may take time, and require multiple meetings and help from different members of the collaborative professional team. After reaching an agreement, it may be submitted to the Court for orders to be made.</p>\n<p>Collaborative practice relies on open communication and the sharing of information between you and your partner and the collaborative professional team. To ensure the process works, you and your partner need to voluntarily and freely disclose all information relevant to the matter and then make an effort to negotiate a mutually acceptable plan.</p>\n<h3 class=\"p1\"><span class=\"s1\">Who may be involved in the Collaborative Practice Process?</span></h3>\n<ul class=\"ul1\">\n<li class=\"li1\"><b></b><span class=\"s1\"><b>You and your partner. </b></span></li>\n</ul>\n<p class=\"p2\"><span class=\"s1\">By committing to the collaborative practice process you and your partner agree to focus on the future, work in the best interests of your children, openly share information<span class=\"Apple-converted-space\">  </span>wellbeing of both of you and any children, work to reach agreement and find solutions that are acceptable to both of you.</span></p>\n<ul class=\"ul1\">\n<li class=\"li1\"><b></b><span class=\"s1\"><b>Collaborative Lawyers.</b></span></li>\n</ul>\n<p class=\"p3\"><span class=\"s1\">Your collaborative lawyers will identify what is important to each of you and your partner and identify the questions to be asked and provide legal advice. Your collaborative lawyers will help you gather relevant information, create options to help you both meet your goals and help you negotiate an agreement. They may also draft the agreement into orders for the Court.</span></p>\n<ul class=\"ul1\">\n<li class=\"li4\"><b></b><span class=\"s1\"><b>Collaborative Coach.</b></span></li>\n</ul>\n<p class=\"p3\"><span class=\"s1\">Your Collaborative Coach is a neutral third party that case manages and facilitates the collaborative practice process. This includes carrying out an assessment at the beginning of your matter and facilitating meetings individually and jointly with you and your partner, your respective collaborative lawyers and other experts. The Collaborative Coach may also assist you and your partner with communication issues, negotiating an agreement and drafting the agreement into orders for the Court.</span></p>\n<ul class=\"ul1\">\n<li class=\"li1\"><b></b><span class=\"s1\"><b>Financial Professional.</b></span></li>\n</ul>\n<p class=\"p2\"><span class=\"s1\">Your financial professional is an accountant or financial planner/advisor, business/property valuer or other financial expert and may also be trained in collaborative practice. Your financial professional </span><span class=\"s2\">may recommend you initially to the collaborative practice process and may meet with both of you, individually and/or together to provide options and ideas as to how best to manage your finances and property. The appointment of your financial professional may be useful where you </span><span class=\"s1\">need to create dialogues around money, help to understand your finances and/or generate ideas. Your financial professional will provide information including by way of cash flows, inventories and reports, not recommendations.</span></p>\n<ul class=\"ul1\">\n<li class=\"li4\"><b></b><span class=\"s1\"><b>Child Consultant.</b></span></li>\n</ul>\n<p class=\"p5\"><span class=\"s3\">Your Child Consultant is </span><span class=\"s4\">an expert in child development, such as a child &amp; adolescent psychologist or psychiatrist and may also be trained in collaborative practice. The appointment of your Child Consultant may be useful where it would be helpful to have someone skilled in assessment and engagement with children and working with parents. It may also be helpful where one of your family members has a<span class=\"Apple-converted-space\">  </span>mental health issue. Your Child Consultant will be an advocate for your children (not a child therapist) and will guide you in making arrangements that are in the best interests of your children.</span></p>\n</div>\n</div></div></div></div><div id=\"pg-10-2\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-10-2\" style=\"background-color: #eeeeee; \" data-stretch-type=\"full\" ><div id=\"pgc-10-2-0\"  class=\"panel-grid-cell\" ><div id=\"panel-10-2-0-0\" class=\"so-panel widget widget_sow-editor panel-first-child panel-last-child\" data-index=\"2\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-editor so-widget-sow-editor-base\"\n\t\t\t\n\t\t>\n<div class=\"siteorigin-widget-tinymce textwidget\">\n\t<h3 id=\"faq-process\" class=\"arconix-faq-term-title arconix-faq-term-process\">Collaborative Process FAQs</h3><div class=\"arconix-faq-accordion-wrap\"><div id=\"faq-283\" class=\"arconix-faq-accordion-title\">How does Collaborative Practice differ from mediation or other dispute resolution processes?</div><div id=\"faq-HowdoesCollaborativePracticedifferfrommediationorotherdisputeresolutionprocesses\" class=\"arconix-faq-accordion-content\"><p>In addition to collaborative practice, the main dispute resolution options to resolve your family law issues are as follows:</p>\n<ul>\n<li>Negotiation (direct or assisted by your lawyers). This is often position based and characterised by an offer, counter-offer and incremental bargaining until a final agreement is reached.</li>\n<li>Mediation. This is a structured negotiation where an objective and independent third party, the collaborative coach, assists you and your partner reach an agreement. The collaborative coach does not provide legal advice.</li>\n<li>Arbitration. This is a private determination by an impartial third party who can make a binding award.</li>\n</ul>\n<p>While all of the above dispute resolution options may effectively resolve your family issues, the key differences between Collaborative Practice and mediation are as follows:</p>\n<ul>\n<li><strong>Timing.</strong><br />\nWhilst mediation can be used prior to or after the commencement of Court proceedings, people often turn to mediation too late (e.g. just prior to final hearing). As a result, people may have already spent significant time and money and have suffered the collateral damage of litigation and therefore approach resolution from an adversarial and position-based perspective.<br />\nCollaborative practice is designed as an early intervention, to be used instead of litigation. As a result, you and your partner will save money, time and avoid the collateral damage of any litigation and keep the decision-making in your control.</li>\n<li><strong>Assistance from lawyers</strong><br />\nIn mediation, negotiations may be conducted with or without the assistance of lawyers and therefore you may not have the benefit of obtaining legal advice during mediation negotiations. Collaborative coaches will not draft Court documents (only Parenting Plans or a Heads of Agreement on financial issues) and therefore there may be problems or delays with lawyers drafting the Court documents.<br />\nIn collaborative practice, you and your partner will have collaborative lawyers to represent you and who will be available from the commencement of the matter until orders are made. Additionally, your collaborative lawyer will prepare you before, advise you during and debrief you after all meetings to ensure you get the most out of the interactions.</li>\n<li><strong>Process v event</strong><br />\nCollaborative practice is an ongoing process, while mediation is often a one day event. There may be a preliminary conference and/or preparation required prior to mediation, but typically the expectation is that the mediation will be completed, successfully or not, in one day or less.<br />\nThe collaborative practice process involves a series of meetings before resolution and therefore there are opportunities to pause and assess, to prepare for each issue to be taken up in the next meeting, and for debriefing. There is more opportunity for refinement and for tailoring the agreement to meet your family’s needs and interests.</li>\n</ul>\n</div><div id=\"faq-285\" class=\"arconix-faq-accordion-title\">Is it confidential?</div><div id=\"faq-Isitconfidential\" class=\"arconix-faq-accordion-content\"><p>Yes. Professionals involved in the collaborative practice process must abide by their respective professional conduct rules concerning confidentiality. However, those professionals with a duty to report may override confidentiality (e.g. if a child is considered at risk of harm). Discussions and documentation (excluding financial disclosure) and any offers are not to be referred to in court – they are on a ‘without prejudice’ basis.</p>\n</div><div id=\"faq-291\" class=\"arconix-faq-accordion-title\">Is it for everyone?</div><div id=\"faq-Isitforeveryone\" class=\"arconix-faq-accordion-content\"><p>Collaborative practice is not an option in every family law case. If you or your partner are, for example, seeking revenge-type options or if there is a history of domestic violence and manipulation, then collaborative practice may not be suitable. However, if you believe you can communicate respectfully with your partner, want a continuing relationship with your partner, prioritise issues, consider others and want to avoid litigation, then it is likely that collaborative practice is right for you.</p>\n</div><div id=\"faq-289\" class=\"arconix-faq-accordion-title\">What are the benefits?</div><div id=\"faq-Whatarethebenefits\" class=\"arconix-faq-accordion-content\"><p>There are numerous benefits for you to undertake collaborative practice, including the following:</p>\n<ol>\n<li><strong>Avoid litigation:</strong><br />\nBy avoiding litigation, you avoid the costly and timely processes involved in taking a matter through the court system. Non-litigious solutions are more flexible, less stressful and avoid the imposition of court orders you may have little to no say in. Additionally, by agreeing from the outset not to end up litigating, everyone is encouraged to work hard to reach agreement.</li>\n<li><strong>Maintain a respectful relationship:</strong><br />\nCollaborative practice aims to maintain and improve respectful communication and, if you have minor or adult children together, affirm your relationship as parents. This increases the prospect of commitment to the agreed solution, and future cooperation with each other.</li>\n<li><strong>Reduce conflict and stress on your family:</strong><br />\nCollaborative practice works to lessen conflict between you and your partner by communication of interests, concerns and desires. It also prioritises the best interests of your children and helps shield your children from the stress of being exposed to conflict. This assists with future co-parenting.</li>\n<li><strong>Decide the solution:</strong><br />\nBy using collaborative practice, you and your partner maintain control of the outcome reached and avoid delegating this to the court or others.</li>\n<li><strong>Avoid excessive costs:</strong><br />\nWhile you will pay legal fees, because collaborative practice demands transparency from you and your partner and eliminates the prospect of court, some lawyer time and therefore costs are saved.</li>\n<li><strong>Timely process:</strong><br />\nCollaborative practice meetings can be scheduled without delay, at times convenient to you, your partner and the collaborative professionals.</li>\n<li><strong>Engage the assistance of other professionals:</strong><br />\nIn addition to lawyers, collaborative practice may involve assistance from collaborative coaches, financial professionals, child specialists and/or other experts, which aid in forming a shared solution.</li>\n<li><strong>Specially trained professionals:</strong><br />\nCollaborative professionals are specially trained to deal with conflict resolution and guiding you to an effective resolution of your family law issues.</li>\n<li><strong>Focus on the future:</strong><br />\nCollaborative practice focuses on developing effective solutions as opposed to getting stuck on grievances and other relationship issues.</li>\n<li><strong>Confidential and private</strong><br />\nAs the collaborative practice process is confidential, you avoid the public exposure of your family law issues in a Court setting and the impact on your and your family’s reputation.</li>\n</ol>\n</div><div id=\"faq-287\" class=\"arconix-faq-accordion-title\">What if my partner doesn’t comply with disclosure requirements?</div><div id=\"faq-Whatifmypartnerdoesntcomplywithdisclosurerequirements\" class=\"arconix-faq-accordion-content\"><p>The collaborative practice process relies on full and frank voluntary disclosure. If you or your partner fails to disclose required information, your lawyer must withdraw from acting for you. This is part of the rules contained within the Participation Agreement. If you find out after reaching agreement that your partner has not disclosed all relevant factors, then the agreement may be overturned in court.</p>\n</div><div id=\"faq-281\" class=\"arconix-faq-accordion-title\">What is the Participation Agreement?</div><div id=\"faq-WhatistheParticipationAgreement\" class=\"arconix-faq-accordion-content\"><p>The Participation Agreement is a contract that forms the basis and guidelines for the collaborative practice process. Signing of the Participation Agreement ensures commitment by you and your partner, your collaborative lawyers and the collaborative professional team to resolution of your family law issues without litigation-based negotiation or Court proceedings. If an application is made to resolve the issues discussed in the Participation Agreement in Court, then you and your partner must withdraw from collaborative practice process and seek different legal representation.</p>\n</div></div>\n</div>\n</div></div></div></div></div><div id=\"pg-10-3\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-10-3\" style=\"background-color: #526163; \" id=\"next-steps\" data-stretch-type=\"full-stretched\" ><div id=\"pgc-10-3-0\"  class=\"panel-grid-cell\" ><div id=\"hero-box\" class=\"panel-cell-style panel-cell-style-for-10-3-0\" ><div id=\"panel-10-3-0-0\" class=\"so-panel widget widget_sow-hero panel-first-child panel-last-child\" data-index=\"3\" ><div class=\"panel-widget-style panel-widget-style-for-10-3-0-0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-hero so-widget-sow-hero-default-69507b823b78-281 so-widget-fittext-wrapper\"\n\t\t\t data-fit-text-compressor=\"0.85\"\n\t\t>\t\t\t\t<div class=\"sow-slider-base\" style=\"display: none\" tabindex=\"0\">\n\t\t\t\t\t<ul\n\t\t\t\t\tclass=\"sow-slider-images\"\n\t\t\t\t\tdata-settings=\"{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;paused&quot;:false,&quot;pause_on_hover&quot;:false,&quot;swipe&quot;:true,&quot;nav_always_show_desktop&quot;:&quot;&quot;,&quot;nav_always_show_mobile&quot;:&quot;&quot;,&quot;breakpoint&quot;:&quot;780px&quot;,&quot;unmute&quot;:false,&quot;anchor&quot;:null}\"\n\t\t\t\t\tstyle=\"min-height: 300px\"\t\t\t\t\tdata-anchor-id=\"\"\n\t\t\t\t>\t\t<li class=\"sow-slider-image\" style=\"visibility: visible;;background-color: #333333\" >\n\t\t\t\t\t<div class=\"sow-slider-image-container\">\n\t\t\t<div class=\"sow-slider-image-wrapper\">\n\t\t\t\t<h1 class=\"hero-heading\">NEXT<br />STEPS</h1>\t\t\t</div>\n\t\t</div>\n\t\t\t\t</li>\n\t\t</ul>\t\t\t\t<ol class=\"sow-slider-pagination\">\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\" data-goto=\"0\" aria-label=\"Display slide 1\"></a></li>\n\t\t\t\t\t\t\t\t\t</ol>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-next\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"next\" aria-label=\"Next slide\" data-action=\"next\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-right\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\n\t\t\t\t<div class=\"sow-slide-nav sow-slide-nav-prev\">\n\t\t\t\t\t<a href=\"#\" data-goto=\"previous\" aria-label=\"Previous slide\" data-action=\"prev\">\n\t\t\t\t\t\t<em class=\"sow-sld-icon-thin-left\"></em>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t</div></div></div></div></div></div><div id=\"pgc-10-3-1\"  class=\"panel-grid-cell\" ><div class=\"panel-cell-style panel-cell-style-for-10-3-1\" ><div id=\"panel-10-3-1-0\" class=\"so-panel widget widget_sow-editor panel-first-child panel-last-child\" data-index=\"4\" ><div class=\"panel-widget-style panel-widget-style-for-10-3-1-0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-editor so-widget-sow-editor-base\"\n\t\t\t\n\t\t>\n<div class=\"siteorigin-widget-tinymce textwidget\">\n\t<h5 style=\"color: white;\">Discuss with your collaborative lawyer, collaborative coach, financial professional and/or child consultant whether collaborative practice is suitable in resolving your family law matter.</h5>\n<h5 style=\"color: white;\">For further information about collaborative practice and/or Southern Sydney Collaborative Professionals contact our committee via email on <a href=\"mailto:info@collaborativeprofessionals.com.au\">info@collaborativeprofessionals.com.au</a></h5>\n<h5 style=\"color: white;\">More information about Collaborative Practice can be found through the Collaborative Professionals (NSW) Inc website: <a href=\"http://collabprofessionalsnsw.org.au/\">http://collabprofessionalsnsw.org.au/</a></h5>\n</div>\n</div></div></div></div></div></div></div></div>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>What is Collaborative Practice? Collaborative practice is a recognised method of resolving your family law issues without having to resort to litigation. It is a voluntary dispute resolution process, in which you and your partner work with collaborative lawyers, collaborative coaches and other experts to creatively problem-solve issues using face-to-face communication. It allows you and your&hellip;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "templates/template-full.php",
+    "meta": {
+      "_exactmetrics_skip_tracking": false,
+      "_exactmetrics_sitenote_active": false,
+      "_exactmetrics_sitenote_note": "",
+      "_exactmetrics_sitenote_category": 0,
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-10",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "post"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/10",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/comments?post=10"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/10/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/media?parent=10"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 1,
+          "name": "sscp_admin",
+          "url": "",
+          "description": "",
+          "link": "https://collaborativeprofessionals.com.au/author/sscp_admin/",
+          "slug": "sscp_admin",
+          "_links": {
+            "self": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "date": "2017-09-05T05:48:45",
+    "date_gmt": "2017-09-05T05:48:45",
+    "guid": {
+      "rendered": "http://ftutors.com/sscp/?page_id=8"
+    },
+    "modified": "2024-11-27T11:23:53",
+    "modified_gmt": "2024-11-27T00:23:53",
+    "slug": "members",
+    "status": "publish",
+    "type": "page",
+    "link": "https://collaborativeprofessionals.com.au/members/",
+    "title": {
+      "rendered": "Members"
+    },
+    "content": {
+      "rendered": "<div id=\"pl-8\"  class=\"panel-layout\" ><div id=\"pg-8-0\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-8-0\" data-stretch-type=\"full-width-stretch\" ><div id=\"pgc-8-0-0\"  class=\"panel-grid-cell\" ></div></div></div><div id=\"pg-8-1\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-8-1\" data-stretch-type=\"full-width-stretch\" ><div id=\"pgc-8-1-0\"  class=\"panel-grid-cell\" ><div id=\"panel-8-1-0-0\" class=\"so-panel widget widget_sow-editor panel-first-child panel-last-child\" data-index=\"1\" ><div class=\"panel-widget-style panel-widget-style-for-8-1-0-0\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-editor so-widget-sow-editor-base\"\n\t\t\t\n\t\t>\n<div class=\"siteorigin-widget-tinymce textwidget\">\n\t<h3>About Our Collaborative Professional Members</h3>\n<table style=\"table-layout: fixed; height: 4384px;\" width=\"1056\">\n<tbody>\n<tr>\n<th><strong>Name</strong></th>\n<th><strong>Title</strong></th>\n<th><strong>Firm and Location</strong></th>\n<th><strong>Contact </strong></th>\n</tr>\n<tr>\n<td>Shelby Timmins</td>\n<td>President of SSCP\n<p>Collaborative Family Lawyer / Coach</p></td>\n<td><strong>Divorce Done Differently</strong>\n<p>Sydney</p></td>\n<td><a href=\"mailto:hello@divorcedonedifferently.com.au\">hello@divorcedonedifferently.com.au</a>\n<p>0400 045 583</p>\n<p><a href=\"http://www.divorcedonedifferently.com.au/\">www.divorcedonedifferently.com.au</a></p></td>\n</tr>\n<tr>\n<td>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Lynda Babister</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n<td>Vice President of SSCP\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Collaborative Family Lawyer</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n<td>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Babister Legal</strong></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Helensburgh, Southern Sydney, North Wollongong</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n<td><a href=\"mailto:lynda@babisterlegal.com.au\">lynda@babisterlegal.com.au</a>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>0418 604 098</p>\n</div>\n</div>\n</div>\n</div>\n<p><a href=\"http://www.babisterlegal.com.au/\" target=\"_blank\" rel=\"noopener\">www.babisterlegal.com.au</a></p></td>\n</tr>\n<tr>\n<td>Riccarda Stock</td>\n<td>Treasurer of SSCP\n<p>Collaborative Family Lawyer</p></td>\n<td><strong>Solari and Stock</strong>\n<p>Miranda, Southern Sydney</p></td>\n<td><a href=\"mailto:rstock@solariandstock.com.au\">rstock@solariandstock.com.au</a>\n<p>(02) 8525 2700</p>\n<p><a href=\"http://www.solariandstock.com.au\">www.solariandstock.com.au</a></p></td>\n</tr>\n<tr>\n<td>Antonella Sanderson</td>\n<td>SSCP Committee Member\n<p>Collaborative Family Lawyer</p></td>\n<td><strong>Family Law Matters</strong>\n<p>Cronulla, Southern Sydney  and Sydney CBD</p></td>\n<td><a href=\"mailto:info@familylawmatters.com.au\">info@familylawmatters.com.au</a>\n<p>(02) 9523 3007</p>\n<p><a href=\"http://www.familylawmatters.com.au\">www.familylawmatters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Leona Bennett</td>\n<td>SSCP Committee Member\n<p>Collaborative Family Lawyer</p></td>\n<td><strong>Southern Waters Legal</strong>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:leona@southernwaters.com.au\">leona@southernwaters.com.au</a>\n<p>(02) 9523 5535</p>\n<p><a href=\"http://www.southernwaters.com.au/\">www.southernwaters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Tanya Carlson</td>\n<td>SSCP Committee Member\n<p>Collaborative Financial Planner</p></td>\n<td><strong>Amplify Wealth</strong>\n<p>Woolooware, Southern Sydney</p></td>\n<td><a href=\"mailto:tanya@amplifywealth.com.au\">tanya@amplifywealth.com.au</a>\n<p>0412 194 488</p>\n<p><a href=\"http://www.amplifywealth.com.au/\">www.amplifywealth.com.au</a></p></td>\n</tr>\n<tr>\n<td>Kylie Holmes</td>\n<td>Collaborative Family Lawyer</td>\n<td><strong>MCW Lawyers</strong>\n<p>Sutherland, Southern Sydney</p></td>\n<td><a href=\"mailto:kholmes@mcwlaw.com.au\">kholmes@mcwlaw.com.au</a>.\n<p>(02) 9589 6666</p>\n<p><a href=\"http://www.mcwlaw.com.au/\">www.mcwlaw.com.au</a></p></td>\n</tr>\n<tr>\n<td>Donal Minehan</td>\n<td>Collaborative Family Lawyer</td>\n<td><strong>MCW Lawyers</strong>\n<p>Sutherland, Southern Sydney</p></td>\n<td><a href=\"dminehan@mcwlaw.com.au\">dminehan@mcwlaw.com.au</a>.\n<p>(02) 9589 6666</p>\n<p><a href=\"http://www.mcwlaw.com.au/\">www.mcwlaw.com.au</a></p></td>\n</tr>\n<tr>\n<td>Pamela Wood</td>\n<td>Collaborative Family Lawyer</td>\n<td><strong>Willis &amp; Bowring</strong>\n<p>Miranda, Southern Sydney</p></td>\n<td><a href=\"mailto:pwood@willisbowring.com.au\">pwood@willisbowring.com.au</a>\n<p>(02) 9525 8100</p>\n<p><a href=\"http://www.willisbowring.com.au\">www.willisbowring.com.au</a></p></td>\n</tr>\n<tr>\n<td>Nicole Quirk</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Solari &amp; Stock Lawyers</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Miranda, Southern Sydney</p></td>\n<td><a href=\"mailto:nquirk@solariandstock.com.au\">nquirk@solariandstock.com.au</a>\n<p>(02) <span style=\"font-family: inherit; font-size: inherit;\">8525 2700</span></p>\n<p><a href=\"http://www.solariandstock.com.au\" target=\"_blank\" rel=\"noopener\">www.solariandstock.com.au</a></p></td>\n</tr>\n<tr>\n<td>Adam Ratcliffe</td>\n<td>Collaborative Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Watkins Tapsell Solicitors</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Kirrawee, Southern Sydney</p></td>\n<td><a href=\"mailto:adam.ratcliffe@watkinstapsell.com.au\">adam.ratcliffe@watkinstapsell.com.au</a>\n<p>(02) <span style=\"font-family: inherit; font-size: inherit;\">9521 6000</span></p>\n<p><a href=\"https://www.watkinstapsell.com.au/\" target=\"_blank\" rel=\"noopener\">www.watkinstapsell.com.au</a></p></td>\n</tr>\n<tr>\n<td>Tim D'Astoli</td>\n<td>Collaborative Financial Planner</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Tempus Wealth</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Kirrawee, Southern Sydney</p></td>\n<td><a href=\"mailto:TimD@tempuswealth.com.au\">TimD@tempuswealth.com.au</a>\n<p>(02) 9195 3770</p>\n<p><a href=\"http://www.tempuswealth.com.au\" target=\"_blank\" rel=\"noopener\">www.tempuswealth.com.au</a></p></td>\n</tr>\n<tr>\n<td>Fiona Giannakopoulos</td>\n<td>Collaborative Family Lawyer, Mediator</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>FKG Law</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Bardwell Park, Southern Sydney</p></td>\n<td><a href=\"mailto:fiona@fkglaw.com.au\">fiona@fkglaw.com.au</a>\n<p>(02) 9592 1711</p>\n<p><a href=\"https://fkglaw.com.au/\">fkglaw.com.au</a></p></td>\n</tr>\n<tr>\n<td>Fiona Kirkman</td>\n<td>Collaborative Coach / FDRP /<br />\nCollaborative Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Kirkman Family Law</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Engadine, Southern Sydney</p></td>\n<td><a href=\"mailto:fiona@kirkmanfamilylaw.com.au\">fiona@kirkmanfamilylaw.com.au</a>\n<p>(02) 9520 7549<br />\n<a href=\"https://kirkmanfamilylaw.com.au\">www.kirkmanfamilylaw.com.au</a></p></td>\n</tr>\n<tr>\n<td>Georgia Carroll</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Southern Waters Legal</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:georgia@southernwaters.com.au\">georgia@southernwaters.com.au</a>\n<p>(02) 9523 5535<br />\n<a href=\"https://southernwaters.com.au\">www.southernwaters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Veronica Phillips</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Family Law Matters</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:info@familylawmatters.com.au\">info@familylawmatters.com.au</a>\n<p>(02) 9523 3007<br />\n<a href=\"https://www.familylawmatters.com.au/\">www.familylawmatters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Kendra Millar</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>MCW Lawyers</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Sutherland, Southern Sydney</p></td>\n<td><a href=\"mailto:kmillar@mcwlaw.com.au\">kmillar@mcwlaw.com.au</a>\n<p>(02) 9589 6666<br />\n<a href=\"https://www.mcwlaw.com.au/\">www.mcwlaw.com.au</a></p></td>\n</tr>\n<tr>\n<td>Kate Marr</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Marr Family Lawyers</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Wollongong</p></td>\n<td><a href=\"mailto:kmarr@marrfamilylawyers.com.au\">kmarr@marrfamilylawyers.com.au</a>\n<p>(02) 4228 8048<br />\n<a href=\"https://www.marrfamilylawyers.com.au/\">www.marrfamilylawyers.com.au</a></p></td>\n</tr>\n<tr>\n<td>Lisa O'Leary</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>WMD Law</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Sutherland, Southern Sydney</p></td>\n<td><a href=\"mailto:lisa@wmdlaw.com.au\">lisa@wmdlaw.com.au</a>\n<p>(02) 9525 8688<br />\n<a href=\"https://www.wmdlaw.com.au\">www.wmdlaw.com.au</a></p></td>\n</tr>\n<tr>\n<td>Nicole Carroll</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>MCW Lawyers</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Sutherland, Southern Sydney</p></td>\n<td><a href=\"mailto:ncarroll@mcwlaw.com.au\">ncarroll@mcwlaw.com.au</a>\n<p>(02) 9589 6666<br />\n<a href=\"www.mcwlaw.com.au\">www.mcwlaw.com.au</a></p></td>\n</tr>\n<tr>\n<td>Nikita Ward</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Solari &amp; Stock Lawyers</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Miranda, Southern Sydney</p></td>\n<td><a href=\"mailto:nward@solariandstock.com.au\">nward@solariandstock.com.au</a>\n<p>(02) 8525 2700<br />\n<a href=\"https://www.solariandstock.com.au\">www.solariandstock.com.au</a></p></td>\n</tr>\n<tr>\n<td>Kirstin Attard</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Solari &amp; Stock Lawyers</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Miranda, Southern Sydney</p></td>\n<td><a href=\"mailto:kattard@solariandstock.com.au\">kattard@solariandstock.com.au</a>\n<p>(02) 8525 2700<br />\n<a href=\"https://www.solariandstock.com.au\">www.solariandstock.com.au</a></p></td>\n</tr>\n<tr>\n<td>Chloe Malic</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Southern Waters Legal</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:chloe@southernwaters.com.au\">chloe@southernwaters.com.au</a>\n<p>(02) 9523 5535<br />\n<a href=\"https://www.southernwaters.com.au\">www.southernwaters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Stephanie Martin</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Southern Waters Legal</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:stephanie@southernwaters.com.au\">stephanie@southernwaters.com.au</a>\n<p>(02) 9523 5535<br />\n<a href=\"https://www.southernwaters.com.au\">www.southernwaters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Shweta Kumar</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Solari and Stock</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Miranda, Southern Sydney</p></td>\n<td><a href=\"mailto:skumar@solariandstock.com.au\">skumar@solariandstock.com.au</a>\n<p>(02) 8525 2700<br />\n<a href=\"https://www.solariandstock.com.au\">www.solariandstock.com.au</a></p></td>\n</tr>\n<tr>\n<td>Kristy Durrant</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Southern Waters Legal</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:kristy@southernwaters.com.au\">kristy@southernwaters.com.au</a>\n<p>(02) 9523 5535<br />\n<a href=\"https://www.southernwaters.com.au\">www.southernwaters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Laura Tilt</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Southern Waters Legal</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:laura@southernwaters.com.au\">laura@southernwaters.com.au</a>\n<p>(02) 9523 5535<br />\n<a href=\"https://www.southernwaters.com.au\">www.southernwaters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Melody van der Wallen</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Family Law Matters</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:info@familylawmatters.com.au\">info@familylawmatters.com.au</a>\n<p>(02) 9523 3007<br />\n<a href=\"https://www.familylawmatters.com.au\">www.familylawmatters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Caitlin McGrath</td>\n<td>Collaborative Family Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>Southern Waters Legal</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Cronulla, Southern Sydney</p></td>\n<td><a href=\"mailto:laura@southernwaters.com.au\">caitlin@southernwaters.com.au</a>\n<p>(02) 9523 5535<br />\n<a href=\"https://www.southernwaters.com.au\">www.southernwaters.com.au</a></p></td>\n</tr>\n<tr>\n<td>Jayne Humphreys</td>\n<td>Collaborative Lawyer</td>\n<td>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>JL Humphreys &amp; Associates</strong></p>\n</div>\n</div>\n</div>\n</div>\n<p>Lugarno, Southern Sydney</p></td>\n<td><a href=\"mailto:jayne@jlhumphreys.com.au\">jayne@jlhumphreys.com.au</a>\n<p>0405 718 838</p></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div></div></div></div></div></div></div>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>About Our Collaborative Professional Members Name Title Firm and Location Contact Shelby Timmins President of SSCP Collaborative Family Lawyer / Coach Divorce Done Differently Sydney hello@divorcedonedifferently.com.au 0400 045 583 www.divorcedonedifferently.com.au Lynda Babister Vice President of SSCP Collaborative Family Lawyer Babister Legal Helensburgh, Southern Sydney, North Wollongong lynda@babisterlegal.com.au 0418 604 098 www.babisterlegal.com.au Riccarda Stock Treasurer of&hellip;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "templates/template-full.php",
+    "meta": {
+      "_exactmetrics_skip_tracking": false,
+      "_exactmetrics_sitenote_active": false,
+      "_exactmetrics_sitenote_note": "",
+      "_exactmetrics_sitenote_category": 0,
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-8",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "post"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/8",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/comments?post=8"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/8/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/media?parent=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 1,
+          "name": "sscp_admin",
+          "url": "",
+          "description": "",
+          "link": "https://collaborativeprofessionals.com.au/author/sscp_admin/",
+          "slug": "sscp_admin",
+          "_links": {
+            "self": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "date": "2017-09-05T05:48:00",
+    "date_gmt": "2017-09-05T05:48:00",
+    "guid": {
+      "rendered": "http://ftutors.com/sscp/?page_id=6"
+    },
+    "modified": "2024-11-16T11:01:56",
+    "modified_gmt": "2024-11-16T00:01:56",
+    "slug": "home",
+    "status": "publish",
+    "type": "page",
+    "link": "https://collaborativeprofessionals.com.au/",
+    "title": {
+      "rendered": "Home"
+    },
+    "content": {
+      "rendered": "<div id=\"pl-6\"  class=\"panel-layout\" ><div id=\"pg-6-0\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-6-0\" data-stretch-type=\"full-width-stretch\" ><div id=\"pgc-6-0-0\"  class=\"panel-grid-cell\" ></div></div></div><div id=\"pg-6-1\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-6-1\" style=\"background-color: #eeeeee; \" data-stretch-type=\"full\" ><div id=\"pgc-6-1-0\"  class=\"panel-grid-cell\" ><div class=\"panel-cell-style panel-cell-style-for-6-1-0\" ><div id=\"panel-6-1-0-0\" class=\"so-panel widget widget_sow-image panel-first-child panel-last-child\" data-index=\"1\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-image so-widget-sow-image-default-13f2a8b12fcc-6\"\n\t\t\t\n\t\t>\n<div class=\"sow-image-container\">\n\t\t<img \n\tsrc=\"https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo.jpg\" width=\"1920\" height=\"957\" srcset=\"https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo.jpg 1920w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-300x150.jpg 300w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-768x383.jpg 768w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-1024x510.jpg 1024w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/SSCP-Group-Photo-960x480.jpg 960w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" title=\"Southern Sydney Collaborative Professionals\" alt=\"\" \t\tclass=\"so-widget-image\"/>\n\t</div>\n\n</div></div></div></div><div id=\"pgc-6-1-1\"  class=\"panel-grid-cell\" ><div class=\"panel-cell-style panel-cell-style-for-6-1-1\" ><div id=\"panel-6-1-1-0\" class=\"so-panel widget widget_sow-headline panel-first-child\" data-index=\"2\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-headline so-widget-sow-headline-default-fd7a66465a5f-6\"\n\t\t\t\n\t\t><div class=\"sow-headline-container \">\n\t\t\t\t\t\t\t<h1 class=\"sow-headline\">\n\t\t\t\t\t\tAbout Us\t\t\t\t\t\t</h1>\n\t\t\t\t\t\t</div>\n</div></div><div id=\"panel-6-1-1-1\" class=\"so-panel widget widget_sow-editor panel-last-child\" data-index=\"3\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-editor so-widget-sow-editor-base\"\n\t\t\t\n\t\t>\n<div class=\"siteorigin-widget-tinymce textwidget\">\n\t<h5><span style=\"color: #000000;\">Southern Sydney Collaborative Professionals brings together Collaboratively trained professionals who work in Southern Sydney.</span></h5>\n<h5><span style=\"color: #000000;\">Our members include lawyers, collaborative coaches, psychologists, financial advisors and accountants. Our members are focused on helping couples reach respectful resolutions without going to Court.</span></h5>\n</div>\n</div></div></div></div></div></div><div id=\"pg-6-2\"  class=\"panel-grid panel-has-style\" ><div id=\"objectives-container\" class=\"panel-row-style panel-row-style-for-6-2\" ><div id=\"pgc-6-2-0\"  class=\"panel-grid-cell\" ><div class=\"panel-cell-style panel-cell-style-for-6-2-0\" ><div id=\"panel-6-2-0-0\" class=\"so-panel widget widget_sow-headline panel-first-child\" data-index=\"4\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-headline so-widget-sow-headline-default-2155ee094cd9-6\"\n\t\t\t\n\t\t><div class=\"sow-headline-container \">\n\t\t\t\t\t\t\t<h1 class=\"sow-headline\">\n\t\t\t\t\t\tOur Objectives\t\t\t\t\t\t</h1>\n\t\t\t\t\t\t</div>\n</div></div><div id=\"panel-6-2-0-1\" class=\"so-panel widget widget_sow-features panel-last-child\" data-index=\"5\" ><div class=\"panel-widget-style panel-widget-style-for-6-2-0-1\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-features so-widget-sow-features-default-9ed52c49db09-6\"\n\t\t\t\n\t\t><ul\n\tclass=\"sow-features-list\n\tsow-features-responsive\">\n\n\t\t\t<li\n\t\t\tclass=\"sow-features-feature sow-icon-container-position-right\"\n\t\t\tstyle=\"display: flex; flex-direction: row; width: calc(100% - 25px);\"\n\t\t>\n\t\t\t\n\t\t\t\t\t\t<div\t\t\t\tclass=\"sow-icon-container sow-container-round\"\n\t\t\t\tstyle=\"color: #f2f2f2; \"\n\t\t\t\t\n\t\t\t\t\t\t\t>\n\t\t\t\t<span class=\"sow-icon-fontawesome sow-fas\" data-sow-icon=\"&#xf061;\"\n\t\tstyle=\"font-size: 18px; color: #57bc90\" \n\t\taria-hidden=\"true\"></span>\t\t\t</div>\n\n\t\t\t<div class=\"textwidget\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"sow-features-feature-text\">\n\t\t\t\t\t<p><strong>Develop</strong> collaborative practice in the family law area</p>\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\n\t\t\t<li\n\t\t\tclass=\"sow-features-feature sow-icon-container-position-right\"\n\t\t\tstyle=\"display: flex; flex-direction: row; width: calc(100% - 25px);\"\n\t\t>\n\t\t\t\n\t\t\t\t\t\t<div\t\t\t\tclass=\"sow-icon-container sow-container-round\"\n\t\t\t\tstyle=\"color: #f2f2f2; \"\n\t\t\t\t\n\t\t\t\t\t\t\t>\n\t\t\t\t<span class=\"sow-icon-fontawesome sow-fas\" data-sow-icon=\"&#xf061;\"\n\t\tstyle=\"font-size: 18px; color: #57bc90\" \n\t\taria-hidden=\"true\"></span>\t\t\t</div>\n\n\t\t\t<div class=\"textwidget\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"sow-features-feature-text\">\n\t\t\t\t\t<p><strong>Educate</strong> and raise awareness in the legal community, amongst other professionals and the general public, of collaborative practice in the family law area</p>\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\n\t\t\t<li\n\t\t\tclass=\"sow-features-feature sow-icon-container-position-right\"\n\t\t\tstyle=\"display: flex; flex-direction: row; width: calc(100% - 25px);\"\n\t\t>\n\t\t\t\n\t\t\t\t\t\t<div\t\t\t\tclass=\"sow-icon-container sow-container-round\"\n\t\t\t\tstyle=\"color: #f2f2f2; \"\n\t\t\t\t\n\t\t\t\t\t\t\t>\n\t\t\t\t<span class=\"sow-icon-fontawesome sow-fas\" data-sow-icon=\"&#xf061;\"\n\t\tstyle=\"font-size: 18px; color: #57bc90\" \n\t\taria-hidden=\"true\"></span>\t\t\t</div>\n\n\t\t\t<div class=\"textwidget\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"sow-features-feature-text\">\n\t\t\t\t\t<p><strong>Support</strong> collaborative professionals with training, marketing, practice management and development</p>\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\n\t\t\t<li\n\t\t\tclass=\"sow-features-feature sow-icon-container-position-right\"\n\t\t\tstyle=\"display: flex; flex-direction: row; width: calc(100% - 25px);\"\n\t\t>\n\t\t\t\n\t\t\t\t\t\t<div\t\t\t\tclass=\"sow-icon-container sow-container-round\"\n\t\t\t\tstyle=\"color: #f2f2f2; \"\n\t\t\t\t\n\t\t\t\t\t\t\t>\n\t\t\t\t<span class=\"sow-icon-fontawesome sow-fas\" data-sow-icon=\"&#xf061;\"\n\t\tstyle=\"font-size: 18px; color: #57bc90\" \n\t\taria-hidden=\"true\"></span>\t\t\t</div>\n\n\t\t\t<div class=\"textwidget\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"sow-features-feature-text\">\n\t\t\t\t\t<p><strong>Connect</strong> collaborative professionals generally</p>\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\n\t</ul>\n</div></div></div></div></div><div id=\"pgc-6-2-1\"  class=\"panel-grid-cell\" ><div id=\"panel-6-2-1-0\" class=\"so-panel widget widget_sow-image panel-first-child panel-last-child\" data-index=\"6\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-image so-widget-sow-image-default-8b5b6f678277-6\"\n\t\t\t\n\t\t>\n<div class=\"sow-image-container\">\n\t\t<img \n\tsrc=\"https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w.jpg\" width=\"525\" height=\"349\" srcset=\"https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w.jpg 525w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w-300x199.jpg 300w, https://collaborativeprofessionals.com.au/wp-content/uploads/2017/09/shutterstock_261293111_525w-272x182.jpg 272w\" sizes=\"(max-width: 525px) 100vw, 525px\" alt=\"\" \t\tclass=\"so-widget-image\"/>\n\t</div>\n\n</div></div></div></div></div><div id=\"pg-6-3\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-6-3\" style=\"background-color: #eafbf8; \" data-stretch-type=\"full\" ><div id=\"pgc-6-3-0\"  class=\"panel-grid-cell\" ><div id=\"panel-6-3-0-0\" class=\"so-panel widget widget_sow-headline panel-first-child\" data-index=\"7\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-headline so-widget-sow-headline-default-6b52635ceda7-6\"\n\t\t\t\n\t\t><div class=\"sow-headline-container \">\n\t\t\t\t\t\t\t<h1 class=\"sow-headline\">\n\t\t\t\t\t\tTestimonials\t\t\t\t\t\t</h1>\n\t\t\t\t\t\t</div>\n</div></div><div id=\"panel-6-3-0-1\" class=\"so-panel widget widget_testimonialrotatorwidget TestimonialRotatorWidget panel-last-child\" data-index=\"8\" ><div id=\"testimonial_rotator_widget_wrap_55\" class=\"testimonial_rotator_widget_wrap\">\n\t<div id=\"testimonial_rotator_widget_55\" class=\"testimonial_rotator _widget cycletwo-slideshow format-rotator template-longform hreview-aggregate \" data-cycletwo-timeout=\"5000\" data-cycletwo-speed=\"1000\" data-cycletwo-pause-on-hover=\"true\"  data-cycletwo-center-horz=\"true\" data-cycletwo-center-vert=\"true\"  data-cycletwo-swipe=\"true\" data-cycletwo-fx=\"fade\" data-cycletwo-auto-height=\"calc\" data-cycletwo-slides=\"> div.slide\" data-cycletwo-log=\"false\" >\n<div class=\"slide slide1 testimonial_rotator_slide hreview itemreviewed item  cf-tr\">\n<h2 class=\"testimonial_rotator_slide_title\">I found the collaborative process a very positive one.</h2>\n<div class=\"text testimonial_rotator_description\">\n<div class=\"testimonial_rotator_quote\">\n\"I found the collaborative process a very positive one. Before going into it I was very nervous as to the result. However, this proved foundless. The 3 lawyers involved the mediator, my lawyer &amp; my husband's lawyer all worked together for what was fair &amp; equitable for both parties. This process did not take too long. My first interview was in November 2016 &amp; the court orders for the property settlement were finalised in mid April 2017. I am very happy with the outcome.\"</div>\n<hr class=\"longform_hr\"><div class=\"testimonial_rotator_author_info cf-tr\">\n<p>Jenny,  Caringbah</p>\n</div>\n</div>\n\t<div class=\"testimonial_rotator_microdata\">\n\t<div class=\"item\"><div class=\"fn\">Southern Sydney Collaborative Professionals</div></div>\n\t<div class=\"dtreviewed\"> 2017-10-16T11:50:50+11:00</div>\t<div class=\"reviewer\"> \t<div class=\"fn\"> <p>Jenny,  Caringbah</p>\n</div>\t</div>\"I found the collaborative process a very positive one. Before going into it I was very nervous as to the result. However, this proved foundless. The 3 lawyers involved the mediator, my lawyer &amp; my husband's lawyer all worked together for what was fair &amp; equitable for both parties. This process did not take too long. My first interview was in November 2016 &amp; the court orders for the property settlement were finalised in mid April 2017. I am very happy with the outcome.\"\t<div class=\"summary\"> </div>\t<div class=\"permalink\"> https://collaborativeprofessionals.com.au/testimonials/530/</div>\t</div><!-- .testimonial_rotator_microdata -->\n</div>\n<div class=\"testimonial_rotator_microdata\">\n\t<div class=\"rating\">0</div>\n\t<div class=\"count\">0</div>\n\t<div class=\"item\"><div class=\"fn\">Southern Sydney Collaborative Professionals</div></div>\n</div>\n</div><!-- #testimonial_rotator_widget_55 -->\n</div><!-- .testimonial_rotator_widget_wrap -->\n\n</div></div></div></div><div id=\"pg-6-4\"  class=\"panel-grid panel-has-style\" ><div class=\"siteorigin-panels-stretch panel-row-style-full-width panel-row-style panel-row-style-for-6-4\" style=\"background-color: #526163; \" id=\"get-in-touch\" data-stretch-type=\"full\" ><div id=\"pgc-6-4-0\"  class=\"panel-grid-cell\" ><div id=\"panel-6-4-0-0\" class=\"so-panel widget widget_sow-headline panel-first-child\" data-index=\"9\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-headline so-widget-sow-headline-default-b38211a2353c-530\"\n\t\t\t\n\t\t><div class=\"sow-headline-container \">\n\t\t\t\t\t\t\t<h1 class=\"sow-headline\">\n\t\t\t\t\t\tGet in Touch\t\t\t\t\t\t</h1>\n\t\t\t\t\t\t</div>\n</div></div><div id=\"panel-6-4-0-1\" class=\"so-panel widget widget_sow-features panel-last-child\" data-index=\"10\" ><div\n\t\t\t\n\t\t\tclass=\"so-widget-sow-features so-widget-sow-features-default-6d5130182268-530\"\n\t\t\t\n\t\t><ul\n\tclass=\"sow-features-list\n\tsow-features-responsive\">\n\n\t\t\t<li\n\t\t\tclass=\"sow-features-feature sow-icon-container-position-top\"\n\t\t\tstyle=\"display: flex; flex-direction: column; width: calc(100% - 25px);\"\n\t\t>\n\t\t\t\n\t\t\t\t\t\t<div\t\t\t\tclass=\"sow-icon-container sow-container-round\"\n\t\t\t\tstyle=\"color: #5e7c82; \"\n\t\t\t\t\n\t\t\t\t\t\t\t>\n\t\t\t\t<span class=\"sow-icon-fontawesome sow-far\" data-sow-icon=\"&#xf0e0;\"\n\t\tstyle=\"font-size: 25px; color: #ffffff\" \n\t\taria-hidden=\"true\"></span>\t\t\t</div>\n\n\t\t\t<div class=\"textwidget\">\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<h5 class=\"sow-features-feature-title\">\n\t\t\t\t\t\tEmail us at\t\t\t\t\t</h5>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"sow-features-feature-text\">\n\t\t\t\t\t<p><span style=\"color: #ffffff\">info@collaborativeprofessionals.com.au</span></p>\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\n\t</ul>\n</div></div></div></div></div></div>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Southern Sydney Collaborative Professionals brings together Collaboratively trained professionals who work in Southern Sydney. Our members include lawyers, collaborative coaches, psychologists, financial advisors and accountants. Our members are focused on helping couples reach respectful resolutions without going to Court.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "templates/template-full.php",
+    "meta": {
+      "_exactmetrics_skip_tracking": false,
+      "_exactmetrics_sitenote_active": false,
+      "_exactmetrics_sitenote_note": "",
+      "_exactmetrics_sitenote_category": 0,
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-6",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry",
+      "post"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/comments?post=6"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/pages/6/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/media?parent=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 1,
+          "name": "sscp_admin",
+          "url": "",
+          "description": "",
+          "link": "https://collaborativeprofessionals.com.au/author/sscp_admin/",
+          "slug": "sscp_admin",
+          "_links": {
+            "self": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 2,
+    "name": "Adrian Stock",
+    "url": "",
+    "description": "",
+    "link": "https://collaborativeprofessionals.com.au/author/adrian/",
+    "slug": "adrian",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/2",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "name": "sscp_admin",
+    "url": "",
+    "description": "",
+    "link": "https://collaborativeprofessionals.com.au/author/sscp_admin/",
+    "slug": "sscp_admin",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://collaborativeprofessionals.com.au/wp-json/wp/v2/users"
+        }
+      ]
+    }
+  }
+]
