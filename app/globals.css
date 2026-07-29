@@ -544,6 +544,28 @@ summary {
   text-transform: uppercase;
 }
 
+.testimonial-page {
+  align-items: center;
+  display: flex;
+  min-height: 72vh;
+}
+
+.testimonial-page .button {
+  margin-top: 42px;
+}
+
+.legacy-faq-page .role-grid {
+  margin-top: 0;
+}
+
+.legacy-faq-page .role-card h2 {
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.75rem;
+  font-weight: 400;
+  margin: 0 0 15px;
+}
+
 .article-grid {
   display: grid;
   gap: 26px;
