@@ -56,6 +56,25 @@ test("server-renders all primary routes", async () => {
   }
 });
 
+test("renders sourced member profiles with local portraits", async () => {
+  const response = await render("/members/");
+  const html = await response.text();
+  const members = JSON.parse(
+    await readFile(new URL("../content/members.json", import.meta.url), "utf8"),
+  );
+
+  assert.equal(members.length, 30);
+  assert.equal(members.filter((member) => member.bio).length, 30);
+  assert.equal(members.filter((member) => member.source).length, 30);
+  assert.equal(members.filter((member) => member.photo).length, 28);
+  assert.match(html, /Portrait of Shelby Timmins/);
+  assert.match(html, /Read profile/);
+
+  for (const member of members.filter((entry) => entry.photo)) {
+    await access(new URL(`../public${member.photo}`, import.meta.url));
+  }
+});
+
 test("keeps a complete, reproducible legacy archive", async () => {
   const manifest = JSON.parse(
     await readFile(

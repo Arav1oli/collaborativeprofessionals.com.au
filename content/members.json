@@ -7,47 +7,62 @@
     "location": "Sydney",
     "email": "hello@divorcedonedifferently.com.au",
     "phone": "0400 045 583",
-    "website": "http://www.divorcedonedifferently.com.au/"
+    "website": "https://www.divorcedonedifferently.com.au/",
+    "photo": "/media/members/shelby-timmins.jpg",
+    "bio": "Shelby founded Divorce Done Differently after almost 20 years in family law, choosing to focus on mediation and collaborative practice. She is a nationally accredited mediator, Family Dispute Resolution Practitioner, collaborative coach and parenting coordinator.",
+    "source": "https://www.divorcedonedifferently.com.au/"
   },
   {
     "name": "Lynda Babister",
     "leadership": "Vice President of SSCP",
     "profession": "Collaborative Family Lawyer",
-    "firm": "Babister Legal",
-    "location": "Helensburgh, Southern Sydney, North Wollongong",
-    "email": "lynda@babisterlegal.com.au",
-    "phone": "0418 604 098",
-    "website": "http://www.babisterlegal.com.au/"
+    "firm": "Transitus Legal",
+    "location": "Helensburgh and the Northern Illawarra",
+    "email": "hello@transituslegal.com.au",
+    "phone": "(02) 4294 9980",
+    "website": "https://transituslegal.com.au/",
+    "photo": "/media/members/lynda-babister.jpg",
+    "bio": "Lynda is the founder of Transitus Legal and works across family law, estate planning and business succession. She holds a Master of Laws with majors in Wills & Estates and Family Law and has collaborative-practice qualifications in both fields.",
+    "source": "https://transituslegal.com.au/team/lynda-babister/"
   },
   {
     "name": "Riccarda Stock",
     "leadership": "Treasurer of SSCP",
     "profession": "Collaborative Family Lawyer",
-    "firm": "Solari and Stock",
+    "firm": "Solari & Stock Lawyers",
     "location": "Miranda, Southern Sydney",
     "email": "rstock@solariandstock.com.au",
     "phone": "(02) 8525 2700",
-    "website": "http://www.solariandstock.com.au"
+    "website": "https://solariandstock.com.au/",
+    "photo": "/media/members/riccarda-stock.jpg",
+    "bio": "Riccarda is a director of Solari & Stock, a Law Society Accredited Specialist in Family Law and a qualified collaborative lawyer. Practising in and around the Sutherland Shire since 1981, she leads the firm’s family law team with a strong focus on early dispute resolution.",
+    "source": "https://solariandstock.com.au/team/riccarda-stock/"
   },
   {
     "name": "Antonella Sanderson",
     "leadership": "SSCP Committee Member",
     "profession": "Collaborative Family Lawyer",
     "firm": "Family Law Matters",
-    "location": "Cronulla, Southern Sydney and Sydney CBD",
-    "email": "info@familylawmatters.com.au",
+    "location": "Cronulla, Southern Sydney",
+    "email": "hello@familylawmatters.com.au",
     "phone": "(02) 9523 3007",
-    "website": "http://www.familylawmatters.com.au"
+    "website": "https://familylawmatters.com.au/",
+    "photo": "/media/members/antonella-sanderson.webp",
+    "bio": "Antonella founded Family Law Matters in 2002 and describes her role as helping families heal conflict through separation. Her practice centres on compassionate, constructive resolution, including collaborative divorce and negotiated outcomes outside court.",
+    "source": "https://familylawmatters.com.au/"
   },
   {
     "name": "Leona Bennett",
     "leadership": "SSCP Committee Member",
     "profession": "Collaborative Family Lawyer",
     "firm": "Southern Waters Legal",
-    "location": "Cronulla, Southern Sydney",
+    "location": "Cronulla, Menai and Sydney CBD",
     "email": "leona@southernwaters.com.au",
     "phone": "(02) 9523 5535",
-    "website": "http://www.southernwaters.com.au/"
+    "website": "https://southernwaters.com.au/",
+    "photo": "/media/members/leona-bennett.jpg",
+    "bio": "Leona heads Southern Waters Legal’s family law team and is an Accredited Specialist and trained collaborative solicitor. She has practised family law in the Sutherland Shire since 2001 and prioritises negotiation and mediation before litigation.",
+    "source": "https://southernwaters.com.au/people/leona-bennett/"
   },
   {
     "name": "Tanya Carlson",
@@ -57,7 +72,10 @@
     "location": "Woolooware, Southern Sydney",
     "email": "tanya@amplifywealth.com.au",
     "phone": "0412 194 488",
-    "website": "http://www.amplifywealth.com.au/"
+    "website": "https://www.amplifywealth.com.au/",
+    "photo": "/media/members/tanya-carlson.jpg",
+    "bio": "Tanya founded Amplify Wealth to provide tailored financial advice to individuals, families, professionals and business owners. She holds a Master’s degree in Financial Planning and specialist accreditations in self-managed super funds, gearing strategies and aged-care advice.",
+    "source": "https://www.amplifywealth.com.au/about-team-profiles"
   },
   {
     "name": "Kylie Holmes",
@@ -67,7 +85,10 @@
     "location": "Sutherland, Southern Sydney",
     "email": "kholmes@mcwlaw.com.au",
     "phone": "(02) 9589 6666",
-    "website": "http://www.mcwlaw.com.au/"
+    "website": "https://www.mcwlaw.com.au/",
+    "photo": "",
+    "bio": "Kylie is listed by SSCP as a collaborative family lawyer at MCW Lawyers and by the AustLaw network as a director and Accredited Specialist.",
+    "source": "https://austlaw.com.au/people/fwp_practices-67/"
   },
   {
     "name": "Donal Minehan",
@@ -77,7 +98,10 @@
     "location": "Sutherland, Southern Sydney",
     "email": "dminehan@mcwlaw.com.au",
     "phone": "(02) 9589 6666",
-    "website": "http://www.mcwlaw.com.au/"
+    "website": "https://www.mcwlaw.com.au/",
+    "photo": "/media/members/donal-minehan.jpg",
+    "bio": "Donal is a director of MCW Lawyers, a Family Law Accredited Specialist and a qualified mediator trained in Collaborative Law. He advises across family law, estate litigation and complex financial disputes, with an emphasis on early resolution where possible.",
+    "source": "https://www.mcwlaw.com.au/team/donal-minehan"
   },
   {
     "name": "Pamela Wood",
@@ -87,7 +111,10 @@
     "location": "Miranda, Southern Sydney",
     "email": "pwood@willisbowring.com.au",
     "phone": "(02) 9525 8100",
-    "website": "http://www.willisbowring.com.au"
+    "website": "https://willisbowring.com.au/",
+    "photo": "/media/members/pamela-wood.png",
+    "bio": "Pamela is Managing Partner at Willis & Bowring, an Accredited Specialist in Family Law and a nationally accredited mediator. A trained collaborative lawyer, she works across financial and parenting matters with a practical, empathetic and resolution-focused approach.",
+    "source": "https://willisbowring.com.au/our-team/"
   },
   {
     "name": "Nicole Quirk",
@@ -97,17 +124,23 @@
     "location": "Miranda, Southern Sydney",
     "email": "nquirk@solariandstock.com.au",
     "phone": "(02) 8525 2700",
-    "website": "http://www.solariandstock.com.au"
+    "website": "https://solariandstock.com.au/",
+    "photo": "/media/members/nicole-quirk.jpg",
+    "bio": "Nicole is an Accredited Specialist with more than 25 years’ practice exclusively in family law. She is collaboratively trained and brings a multidisciplinary perspective to complex property, parenting and support matters.",
+    "source": "https://solariandstock.com.au/team/nicole-quirk/"
   },
   {
     "name": "Adam Ratcliffe",
     "leadership": "",
-    "profession": "Collaborative Lawyer",
-    "firm": "Watkins Tapsell Solicitors",
+    "profession": "Collaborative Family Lawyer",
+    "firm": "Watkins Tapsell",
     "location": "Kirrawee, Southern Sydney",
     "email": "adam.ratcliffe@watkinstapsell.com.au",
     "phone": "(02) 9521 6000",
-    "website": "https://www.watkinstapsell.com.au/"
+    "website": "https://www.watkinstapsell.com.au/",
+    "photo": "/media/members/adam-ratcliffe.png",
+    "bio": "Adam is an Accredited Specialist in Family Law and a trained collaborative family law solicitor. A member of Watkins Tapsell’s Family Law and Estates teams, he focuses on clear advice, efficient resolution and minimising conflict.",
+    "source": "https://www.watkinstapsell.com.au/our-people/adam-ratcliffe/"
   },
   {
     "name": "Tim D'Astoli",
@@ -117,27 +150,36 @@
     "location": "Kirrawee, Southern Sydney",
     "email": "TimD@tempuswealth.com.au",
     "phone": "(02) 9195 3770",
-    "website": "http://www.tempuswealth.com.au"
+    "website": "https://www.tempuswealth.com.au/",
+    "photo": "/media/members/tim-dastoli.jpg",
+    "bio": "Tim is a Senior Adviser at Tempus Wealth who helps families, retirees and professionals build financial plans for their short-, medium- and long-term goals. His approach combines empathy, investment expertise and technical financial knowledge.",
+    "source": "https://www.tempuswealth.com.au/meet-the-team"
   },
   {
     "name": "Fiona Giannakopoulos",
     "leadership": "",
-    "profession": "Collaborative Family Lawyer, Mediator",
+    "profession": "Collaborative Family Lawyer / Mediator",
     "firm": "FKG Law",
     "location": "Bardwell Park, Southern Sydney",
     "email": "fiona@fkglaw.com.au",
-    "phone": "(02) 9592 1711 · fkglaw.com.au",
-    "website": "https://fkglaw.com.au/"
+    "phone": "(02) 9592 1711",
+    "website": "https://fkglaw.com.au/",
+    "photo": "",
+    "bio": "Fiona founded FKG Law to provide family law services with a difference. She is a specialist family lawyer and nationally accredited mediator whose practice includes collaborative and other resolution-focused approaches.",
+    "source": "https://fkglaw.com.au/"
   },
   {
     "name": "Fiona Kirkman",
     "leadership": "",
-    "profession": "Collaborative Coach / FDRP / · Collaborative Lawyer",
+    "profession": "Collaborative Coach / FDRP / Lawyer",
     "firm": "Kirkman Family Law",
-    "location": "Engadine, Southern Sydney",
+    "location": "Sydney",
     "email": "fiona@kirkmanfamilylaw.com.au",
     "phone": "(02) 9520 7549",
-    "website": "https://kirkmanfamilylaw.com.au"
+    "website": "https://www.kirkmanfamilylaw.com/",
+    "photo": "/media/members/fiona-kirkman.jpg",
+    "bio": "Fiona has more than 20 years’ experience in family law and mediation and focuses on resolving complex property and parenting matters without court. She is an Accredited Specialist, mediator, Family Dispute Resolution Practitioner and collaborative coach.",
+    "source": "https://www.kirkmanfamilylaw.com/"
   },
   {
     "name": "Georgia Carroll",
@@ -147,7 +189,10 @@
     "location": "Cronulla, Southern Sydney",
     "email": "georgia@southernwaters.com.au",
     "phone": "(02) 9523 5535",
-    "website": "https://southernwaters.com.au"
+    "website": "https://southernwaters.com.au/",
+    "photo": "/media/members/georgia-carroll.jpg",
+    "bio": "Georgia is listed by SSCP as a collaborative family lawyer with Southern Waters Legal. Her work has focused on professional, practical family law advice and assistance for clients in the Sutherland Shire.",
+    "source": "https://southernwaters.com.au/our-people/"
   },
   {
     "name": "Veronica Phillips",
@@ -155,9 +200,12 @@
     "profession": "Collaborative Family Lawyer",
     "firm": "Family Law Matters",
     "location": "Cronulla, Southern Sydney",
-    "email": "info@familylawmatters.com.au",
+    "email": "hello@familylawmatters.com.au",
     "phone": "(02) 9523 3007",
-    "website": "https://www.familylawmatters.com.au/"
+    "website": "https://familylawmatters.com.au/",
+    "photo": "/media/members/veronica-phillips.webp",
+    "bio": "Veronica is a Senior Associate who has worked at Family Law Matters since 2018. With degrees in law and psychology, she uses collaborative practice and a child-focused approach across parenting, property and family-violence matters.",
+    "source": "https://familylawmatters.com.au/veronica-phillips/"
   },
   {
     "name": "Kendra Millar",
@@ -167,27 +215,36 @@
     "location": "Sutherland, Southern Sydney",
     "email": "kmillar@mcwlaw.com.au",
     "phone": "(02) 9589 6666",
-    "website": "https://www.mcwlaw.com.au/"
+    "website": "https://www.mcwlaw.com.au/",
+    "photo": "/media/members/kendra-millar.jpg",
+    "bio": "Kendra is a Senior Associate, Accredited Specialist in Family Law and nationally accredited mediator. She completed collaborative and advanced collaborative training and advises on divorce, parenting, property, child support and financial agreements.",
+    "source": "https://www.mcwlaw.com.au/team/kendra-millar"
   },
   {
     "name": "Kate Marr",
     "leadership": "",
     "profession": "Collaborative Family Lawyer",
     "firm": "Marr Family Lawyers",
-    "location": "Wollongong",
+    "location": "Wollongong and Kiama",
     "email": "kmarr@marrfamilylawyers.com.au",
     "phone": "(02) 4228 8048",
-    "website": "https://www.marrfamilylawyers.com.au/"
+    "website": "https://www.marrfamilylawyers.com.au/",
+    "photo": "/media/members/kate-marr.jpg",
+    "bio": "Kate is the principal and creator of Marr Family Lawyers and an Accredited Specialist who has practised family law since 2008. She provides practical advice across complex property and parenting disputes and has completed collaborative practice training.",
+    "source": "https://www.marrfamilylawyers.com.au/our-people/kate-marr"
   },
   {
     "name": "Lisa O'Leary",
     "leadership": "",
     "profession": "Collaborative Family Lawyer",
     "firm": "WMD Law",
-    "location": "Sutherland, Southern Sydney",
+    "location": "Sutherland and Sydney CBD",
     "email": "lisa@wmdlaw.com.au",
     "phone": "(02) 9525 8688",
-    "website": "https://www.wmdlaw.com.au"
+    "website": "https://wmdlaw.com.au/",
+    "photo": "/media/members/lisa-oleary.jpg",
+    "bio": "Lisa is a principal of WMD Law and an Accredited Specialist in Family Law. Her economics and litigation background supports her work in complex property and parenting disputes, and she completed further studies to practise as a collaborative lawyer.",
+    "source": "https://wmdlaw.com.au/lisa-oleary/"
   },
   {
     "name": "Nicole Carroll",
@@ -197,7 +254,10 @@
     "location": "Sutherland, Southern Sydney",
     "email": "ncarroll@mcwlaw.com.au",
     "phone": "(02) 9589 6666",
-    "website": ""
+    "website": "https://www.mcwlaw.com.au/",
+    "photo": "/media/members/nicole-carroll.jpg",
+    "bio": "Nicole is a Senior Associate and Accredited Specialist in Family Law. She has extensive experience as an Independent Children’s Lawyer and in complex parenting, care-and-protection and property matters.",
+    "source": "https://www.mcwlaw.com.au/team/nicole-carroll"
   },
   {
     "name": "Nikita Ward",
@@ -207,7 +267,10 @@
     "location": "Miranda, Southern Sydney",
     "email": "nward@solariandstock.com.au",
     "phone": "(02) 8525 2700",
-    "website": "https://www.solariandstock.com.au"
+    "website": "https://solariandstock.com.au/",
+    "photo": "/media/members/nikita-ward.jpg",
+    "bio": "Nikita has practised exclusively in family law since her admission in 2017 and became an Accredited Specialist in 2024. She is collaboratively trained and works across complex property, parenting, relocation, child-support and financial-agreement matters.",
+    "source": "https://solariandstock.com.au/team/nikita-ward/"
   },
   {
     "name": "Kirstin Attard",
@@ -217,37 +280,49 @@
     "location": "Miranda, Southern Sydney",
     "email": "kattard@solariandstock.com.au",
     "phone": "(02) 8525 2700",
-    "website": "https://www.solariandstock.com.au"
+    "website": "https://solariandstock.com.au/",
+    "photo": "/media/members/kirstin-attard.jpg",
+    "bio": "Kirstin is listed by SSCP as a collaborative family lawyer and has written for Solari & Stock on parenting decisions, property issues and financial abuse. Her work has focused on practical guidance for people navigating separation.",
+    "source": "https://solariandstock.com.au/2025/01/20/who-decides-where-the-children-go-to-school/"
   },
   {
     "name": "Chloe Malic",
     "leadership": "",
     "profession": "Collaborative Family Lawyer",
     "firm": "Southern Waters Legal",
-    "location": "Cronulla, Southern Sydney",
+    "location": "Cronulla, Menai and Sydney CBD",
     "email": "chloe@southernwaters.com.au",
     "phone": "(02) 9523 5535",
-    "website": "https://www.southernwaters.com.au"
+    "website": "https://southernwaters.com.au/",
+    "photo": "/media/members/chloe-malic.jpg",
+    "bio": "Chloe is a Senior Associate who practises exclusively in family law and is trained as a collaborative solicitor. She advises across parenting, property, divorce, child-support and financial-agreement matters, favouring negotiation and alternative dispute resolution where possible.",
+    "source": "https://southernwaters.com.au/people/chloe-malic/"
   },
   {
-    "name": "Stephanie Martin",
+    "name": "Stephanie Martyn",
     "leadership": "",
     "profession": "Collaborative Family Lawyer",
     "firm": "Southern Waters Legal",
-    "location": "Cronulla, Southern Sydney",
+    "location": "Cronulla, Menai and Sydney CBD",
     "email": "stephanie@southernwaters.com.au",
     "phone": "(02) 9523 5535",
-    "website": "https://www.southernwaters.com.au"
+    "website": "https://southernwaters.com.au/",
+    "photo": "/media/members/stephanie-martyn.jpg",
+    "bio": "Stephanie is a Senior Associate practising across family and property law and is trained as a collaborative solicitor. Her broad experience helps her provide practical advice where family and property matters intersect, with a focus on efficient resolution.",
+    "source": "https://southernwaters.com.au/people/stephanie-martyn/"
   },
   {
     "name": "Shweta Kumar",
     "leadership": "",
     "profession": "Collaborative Family Lawyer",
-    "firm": "Solari and Stock",
+    "firm": "Solari & Stock Lawyers",
     "location": "Miranda, Southern Sydney",
     "email": "skumar@solariandstock.com.au",
     "phone": "(02) 8525 2700",
-    "website": "https://www.solariandstock.com.au"
+    "website": "https://solariandstock.com.au/",
+    "photo": "/media/members/shweta-kumar.jpg",
+    "bio": "Shweta has practised law since 2006 and family law exclusively since moving to New South Wales in 2010. She holds a Master of Applied Law in Family Law, is trained as an Independent Children’s Lawyer and has developed expertise in collaborative practice.",
+    "source": "https://solariandstock.com.au/team/shweta-kumar/"
   },
   {
     "name": "Kristy Durrant",
@@ -257,46 +332,61 @@
     "location": "Cronulla, Southern Sydney",
     "email": "kristy@southernwaters.com.au",
     "phone": "(02) 9523 5535",
-    "website": "https://www.southernwaters.com.au"
+    "website": "https://southernwaters.com.au/",
+    "photo": "/media/members/kristy-durrant.jpg",
+    "bio": "Kristy is an Accredited Specialist in Family Law, a trained collaborative solicitor and a Family Dispute Resolution Practitioner. Admitted in 2005, she works across parenting, property, child support, maintenance, relocation and financial agreements.",
+    "source": "https://doylesguide.com/business-directory/kristy-durrant-southern-waters-legal/"
   },
   {
     "name": "Laura Tilt",
     "leadership": "",
     "profession": "Collaborative Family Lawyer",
-    "firm": "Southern Waters Legal",
-    "location": "Cronulla, Southern Sydney",
-    "email": "laura@southernwaters.com.au",
-    "phone": "(02) 9523 5535",
-    "website": "https://www.southernwaters.com.au"
+    "firm": "Watts McCray Lawyers",
+    "location": "Sydney",
+    "email": "",
+    "phone": "1300 516 443",
+    "website": "https://www.wattsmccray.com.au/",
+    "photo": "/media/members/laura-tilt.jpg",
+    "bio": "Laura is a Senior Associate and trained collaborative lawyer with legal experience in Australia and the United Kingdom. Her practice spans complex parenting and property matters, including cases involving family violence, mental health, addiction, relocation and cross-jurisdictional issues.",
+    "source": "https://www.wattsmccray.com.au/our-people/laura-tilt/"
   },
   {
     "name": "Melody van der Wallen",
     "leadership": "",
     "profession": "Collaborative Family Lawyer",
-    "firm": "Family Law Matters",
-    "location": "Cronulla, Southern Sydney",
-    "email": "info@familylawmatters.com.au",
-    "phone": "(02) 9523 3007",
-    "website": "https://www.familylawmatters.com.au"
+    "firm": "Wallen Family Law",
+    "location": "South Sydney, Northern Beaches and The Hills",
+    "email": "",
+    "phone": "(02) 9025 9665",
+    "website": "https://www.wallenfamilylaw.com.au/",
+    "photo": "/media/members/melody-van-der-wallen.webp",
+    "bio": "Melody is the director and principal of Wallen Family Law and has more than 10 years’ experience, practising exclusively in family law after beginning in property and commercial law. She favours dispute resolution outside court while retaining substantial advocacy experience.",
+    "source": "https://www.wallenfamilylaw.com.au/about"
   },
   {
     "name": "Caitlin McGrath",
     "leadership": "",
-    "profession": "Collaborative Family Lawyer",
+    "profession": "Collaborative Family Lawyer / Independent Children's Lawyer",
     "firm": "Southern Waters Legal",
-    "location": "Cronulla, Southern Sydney",
-    "email": "laura@southernwaters.com.au",
+    "location": "Cronulla, Menai and Sydney CBD",
+    "email": "caitlin@southernwaters.com.au",
     "phone": "(02) 9523 5535",
-    "website": "https://www.southernwaters.com.au"
+    "website": "https://southernwaters.com.au/",
+    "photo": "/media/members/caitlin-mcgrath.jpg",
+    "bio": "Caitlin is a Senior Associate who practises exclusively in family law. She is collaboratively trained and a qualified Independent Children’s Lawyer, with experience across parenting, property, divorce, maintenance and child-support matters.",
+    "source": "https://southernwaters.com.au/people/caitlin-mcgrath/"
   },
   {
     "name": "Jayne Humphreys",
     "leadership": "",
-    "profession": "Collaborative Lawyer",
+    "profession": "Collaborative Lawyer / Mediator",
     "firm": "JL Humphreys & Associates",
     "location": "Lugarno, Southern Sydney",
     "email": "jayne@jlhumphreys.com.au",
     "phone": "0405 718 838",
-    "website": ""
+    "website": "https://jlhumphreys.com.au/",
+    "photo": "/media/members/jayne-humphreys.jpg",
+    "bio": "Jayne has more than 20 years’ legal experience in wills and estates, elder law and estate administration. She is an NMAS Accredited Mediator and has completed core and advanced Collaborative Practice training for wills, estates and elder law.",
+    "source": "https://elder-mediation.com.au/committees/humphreys-jayne/"
   }
 ]

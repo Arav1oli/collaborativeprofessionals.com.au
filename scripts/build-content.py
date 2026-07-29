@@ -206,12 +206,37 @@ def main() -> None:
     pages_by_slug = {page["slug"]: page for page in pages}
     members_markup = pages_by_slug["members"]["content"]["rendered"]
     process_markup = pages_by_slug["process"]["content"]["rendered"]
-    write_json("members.json", build_members(members_markup))
+    imported_members = build_members(members_markup)
+    members_path = CONTENT_DIR / "members.json"
+    if members_path.exists():
+        curated_members = json.loads(members_path.read_text())
+        aliases = {"Stephanie Martin": "Stephanie Martyn"}
+        curated_by_name = {
+            member["name"]: member for member in curated_members
+        }
+        imported_names = {
+            aliases.get(member["name"], member["name"]) for member in imported_members
+        }
+        members = [
+            curated_by_name.get(
+                aliases.get(member["name"], member["name"]),
+                member,
+            )
+            for member in imported_members
+        ]
+        members.extend(
+            member
+            for member in curated_members
+            if member["name"] not in imported_names
+        )
+    else:
+        members = imported_members
+    write_json("members.json", members)
     write_json("faqs.json", build_faqs(process_markup))
     write_json("articles.json", build_articles(posts))
     print(
         "Built content: "
-        f"{len(build_members(members_markup))} members, "
+        f"{len(members)} members, "
         f"{len(build_faqs(process_markup))} FAQs, "
         f"{len(posts)} articles."
     )

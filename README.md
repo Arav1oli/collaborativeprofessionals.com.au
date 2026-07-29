@@ -8,13 +8,15 @@ and can be changed directly (or by asking Codex to change them).
 
 - `content/site.ts` — home-page copy, objectives, process steps and contact
   details
-- `content/members.json` — the member directory
+- `content/members.json` — the member directory, condensed biographies and
+  profile-source links
 - `content/faqs.json` — process FAQs
 - `content/articles.json` — all migrated news and resource articles
 - `app/` — page components and layouts
 - `app/globals.css` — the complete visual design
 - `public/media/legacy/` — locally preserved images, logos, brochures and
   article attachments
+- `public/media/members/` — locally stored, source-verified member portraits
 
 ## Local preview
 
@@ -51,8 +53,9 @@ python3 scripts/archive-wordpress.py
 python3 scripts/build-content.py
 ```
 
-Review regenerated member and article data before publishing, because changes
-made directly to those JSON files will be replaced.
+Existing curated member biographies and portraits are preserved when the
+archive content is regenerated. Review newly imported members and article data
+before publishing.
 
 ## Contact form
 
@@ -61,4 +64,3 @@ application. There is no form database, third-party form processor or stored
 personal data.
 
 See `MIGRATION.md` for the legacy form endpoint and domain cutover notes.
-
