@@ -8,9 +8,10 @@ import "./globals.css";
 const canonicalUrl =
   process.env.NEXT_PUBLIC_SITE_URL ??
   "https://collaborativeprofessionals.com.au";
+const metadataBase = new URL(new URL(canonicalUrl).origin);
 
 export const metadata: Metadata = {
-  metadataBase: new URL(canonicalUrl),
+  metadataBase,
   title: {
     default: site.name,
     template: `%s | ${site.shortName}`,
