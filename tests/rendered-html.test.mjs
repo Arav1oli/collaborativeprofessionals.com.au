@@ -29,8 +29,9 @@ test("server-renders the finished home page", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /Divorce/);
-  assert.match(html, /without court/);
+  assert.match(html, /Helping couples reach respectful resolutions/);
+  assert.match(html, /SSCP-Group-Photo\.jpg/);
+  assert.doesNotMatch(html, /Divorce without court/i);
   assert.match(html, /Southern Sydney Collaborative Professionals/);
   assert.match(html, /Find a professional/);
   assert.match(html, /One table\. One team\./);
@@ -102,5 +103,10 @@ test("keeps a complete, reproducible legacy archive", async () => {
       import.meta.url,
     ),
   );
-  await access(new URL("../public/og.png", import.meta.url));
+  await access(
+    new URL(
+      "../public/media/legacy/2017/09/SSCP-Group-Photo.jpg",
+      import.meta.url,
+    ),
+  );
 });

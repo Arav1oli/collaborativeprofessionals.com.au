@@ -10,7 +10,7 @@ import {
 import articles from "@/content/articles.json";
 
 export const metadata: Metadata = {
-  title: "Divorce without court",
+  title: "Collaborative practice in Southern Sydney",
   description: site.description,
 };
 
@@ -22,15 +22,14 @@ export default function Home() {
       <section className="hero">
         <div className="shell hero-grid">
           <div className="hero-copy">
-            <p className="eyebrow">A better way through separation</p>
+            <p className="eyebrow">Collaborative practice in Southern Sydney</p>
             <h1>
-              Divorce
-              <br />
-              without court.
+              Helping couples reach respectful resolutions
             </h1>
             <p className="hero-lead">
-              A team of Southern Sydney professionals helping families reach
-              respectful, private and practical agreements.
+              Southern Sydney Collaborative Professionals brings together
+              collaboratively trained professionals who work in Southern
+              Sydney.
             </p>
             <div className="button-row">
               <a className="button" href={href("/members/")}>
@@ -44,15 +43,10 @@ export default function Home() {
           <div className="hero-visual">
             <img
               src={asset(
-                "/media/legacy/2017/09/shutterstock_261293111.jpg",
+                "/media/legacy/2017/09/SSCP-Group-Photo.jpg",
               )}
-              alt="People bringing pieces together around a table"
+              alt="Southern Sydney Collaborative Professionals group"
             />
-            <div className="hero-note">
-              <strong>Private</strong>
-              <span>Practical</span>
-              <span>Family-focused</span>
-            </div>
           </div>
         </div>
       </section>
@@ -201,4 +195,3 @@ export default function Home() {
     </main>
   );
 }
-

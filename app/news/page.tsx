@@ -6,7 +6,7 @@ import articles from "@/content/articles.json";
 export const metadata: Metadata = {
   title: "Resources",
   description:
-    "Articles and practical information about collaborative family law and divorce without court.",
+    "Articles and practical information about collaborative family law and separation.",
 };
 
 export default function NewsPage() {
@@ -49,4 +49,3 @@ export default function NewsPage() {
     </main>
   );
 }
-

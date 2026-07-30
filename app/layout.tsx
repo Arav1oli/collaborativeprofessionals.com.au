@@ -25,13 +25,19 @@ export const metadata: Metadata = {
     description: site.description,
     type: "website",
     locale: "en_AU",
-    images: [{ url: asset("/og.png"), width: 1536, height: 1024 }],
+    images: [
+      {
+        url: asset("/media/legacy/2017/09/SSCP-Group-Photo.jpg"),
+        width: 1920,
+        height: 960,
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: site.name,
     description: site.description,
-    images: [asset("/og.png")],
+    images: [asset("/media/legacy/2017/09/SSCP-Group-Photo.jpg")],
   },
 };
 

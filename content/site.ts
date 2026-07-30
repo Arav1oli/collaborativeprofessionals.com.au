@@ -4,7 +4,7 @@ export const site = {
   email: "info@collaborativeprofessionals.com.au",
   facebook:
     "https://www.facebook.com/southernsydneycollaborativeprofessionals/",
-  tagline: "Divorce without court",
+  tagline: "Helping couples reach respectful resolutions",
   description:
     "Collaboratively trained lawyers, coaches and financial professionals helping Southern Sydney families resolve separation respectfully, privately and outside court.",
 };
@@ -89,4 +89,3 @@ export const testimonial = {
     "I found the collaborative process a very positive one. The professionals all worked together for what was fair and equitable for both parties. I am very happy with the outcome.",
   attribution: "Jenny, Caringbah",
 };
-
