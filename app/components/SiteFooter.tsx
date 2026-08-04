@@ -12,7 +12,9 @@ export function SiteFooter() {
         <div>
           <p className="footer-label">Get in touch</p>
           <a className="footer-email" href={`mailto:${site.email}`}>
-            {site.email}
+            {site.email.slice(0, site.email.indexOf("@") + 1)}
+            <wbr />
+            {site.email.slice(site.email.indexOf("@") + 1)}
           </a>
           <div className="footer-links">
             <a href={href("/members/")}>Find a professional</a>
@@ -32,4 +34,3 @@ export function SiteFooter() {
     </footer>
   );
 }
-

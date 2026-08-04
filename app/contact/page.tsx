@@ -24,7 +24,9 @@ export default function ContactPage() {
             <p className="eyebrow light">General enquiries</p>
             <h2>We’ll point you in the right direction.</h2>
             <a className="contact-email" href={`mailto:${site.email}`}>
-              {site.email}
+              {site.email.slice(0, site.email.indexOf("@") + 1)}
+              <wbr />
+              {site.email.slice(site.email.indexOf("@") + 1)}
             </a>
             <p>
               This form prepares a message in your own email app. Nothing is
@@ -38,6 +40,7 @@ export default function ContactPage() {
                 href={asset(
                   "/media/legacy/2017/09/SSCP-Marketing-Brochure.pdf",
                 )}
+                rel="noreferrer"
                 target="_blank"
               >
                 Download our brochure ↗
@@ -50,4 +53,3 @@ export default function ContactPage() {
     </main>
   );
 }
-
