@@ -64,10 +64,44 @@ test("renders sourced member profiles with local portraits", async () => {
     await readFile(new URL("../content/members.json", import.meta.url), "utf8"),
   );
 
-  assert.equal(members.length, 30);
-  assert.equal(members.filter((member) => member.bio).length, 30);
-  assert.equal(members.filter((member) => member.source).length, 30);
-  assert.equal(members.filter((member) => member.photo).length, 28);
+  assert.equal(members.length, 28);
+  assert.equal(members.filter((member) => member.bio).length, 28);
+  assert.equal(members.filter((member) => member.source).length, 28);
+  assert.equal(members.filter((member) => member.photo).length, 22);
+  assert.equal(members[3].name, "Adam Ratcliffe");
+  assert.equal(members[3].leadership, "SSCP Secretary");
+  assert.equal(members[6].name, "Stephanie Martyn");
+  assert.equal(members[6].leadership, "SSCP Committee Member");
+  assert.equal(
+    members.find((member) => member.name === "Tanya Carlson").leadership,
+    "",
+  );
+  assert.equal(
+    members.find((member) => member.name === "Lynda Babister").email,
+    "lynda@transituslegal.com.au",
+  );
+
+  for (const name of [
+    "Claudia Taylor",
+    "Madeline Laurence",
+    "Emma Bailey",
+    "Georgia Thompson",
+    "Sophia Martyn",
+  ]) {
+    assert.ok(members.some((member) => member.name === name), name);
+  }
+
+  for (const name of [
+    "Melody van der Wallen",
+    "Fiona Kirkman",
+    "Kylie Holmes",
+    "Georgia Carroll",
+    "Kirstin Attard",
+    "Kristy Durrant",
+    "Laura Tilt",
+  ]) {
+    assert.ok(!members.some((member) => member.name === name), name);
+  }
   assert.match(html, /Portrait of Shelby Timmins/);
   assert.match(html, /Read profile/);
 
