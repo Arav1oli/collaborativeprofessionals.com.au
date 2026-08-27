@@ -30,7 +30,8 @@ test("server-renders the finished home page", async () => {
 
   const html = await response.text();
   assert.match(html, /Helping couples reach respectful resolutions/);
-  assert.match(html, /SSCP-Group-Photo\.jpg/);
+  assert.match(html, /sscp-collaborative-meeting-v3\.jpg/);
+  assert.doesNotMatch(html, /SSCP-Group-Photo\.jpg/);
   assert.doesNotMatch(html, /Divorce without court/i);
   assert.match(html, /Southern Sydney Collaborative Professionals/);
   assert.match(html, /Find a professional/);
@@ -67,7 +68,7 @@ test("renders sourced member profiles with local portraits", async () => {
   assert.equal(members.length, 28);
   assert.equal(members.filter((member) => member.bio).length, 28);
   assert.equal(members.filter((member) => member.source).length, 28);
-  assert.equal(members.filter((member) => member.photo).length, 22);
+  assert.equal(members.filter((member) => member.photo).length, 27);
   assert.equal(members[3].name, "Adam Ratcliffe");
   assert.equal(members[3].leadership, "SSCP Secretary");
   assert.equal(members[6].name, "Stephanie Martyn");
@@ -79,6 +80,10 @@ test("renders sourced member profiles with local portraits", async () => {
   assert.equal(
     members.find((member) => member.name === "Lynda Babister").email,
     "lynda@transituslegal.com.au",
+  );
+  assert.equal(
+    members.find((member) => member.name === "Lynda Babister").website,
+    "https://transituslegal.com.au/",
   );
 
   for (const name of [

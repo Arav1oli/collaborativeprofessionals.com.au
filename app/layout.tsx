@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     locale: "en_AU",
     images: [
       {
-        url: asset("/media/legacy/2017/09/SSCP-Group-Photo.jpg"),
+        url: asset("/media/sscp-collaborative-meeting-v3.jpg"),
         width: 1920,
         height: 960,
       },
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: site.name,
     description: site.description,
-    images: [asset("/media/legacy/2017/09/SSCP-Group-Photo.jpg")],
+    images: [asset("/media/sscp-collaborative-meeting-v3.jpg")],
   },
 };
 

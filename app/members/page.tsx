@@ -16,6 +16,7 @@ export default function MembersPage() {
         eyebrow="Our professional network"
         title="Find the right person for your first conversation."
         lead="Our members are collaboratively trained professionals across Southern Sydney and nearby regions. You can contact any member directly to discuss whether collaborative practice may suit your family."
+        compact
       />
       <section className="section members-section">
         <div className="shell">
@@ -50,37 +51,39 @@ export default function MembersPage() {
                   </div>
                 </div>
                 <p className="member-bio">{member.bio}</p>
-                <div className="member-meta">
-                  <p>
-                    <strong>{member.firm}</strong>
-                    <span>{member.location}</span>
-                  </p>
-                  <p>
-                    {member.email && (
-                      <a href={`mailto:${member.email}`}>{member.email}</a>
+                <div className="member-contact">
+                  <div className="member-meta">
+                    <p>
+                      <strong>{member.firm}</strong>
+                      <span>{member.location}</span>
+                    </p>
+                    <p>
+                      {member.email && (
+                        <a href={`mailto:${member.email}`}>{member.email}</a>
+                      )}
+                      {member.phone && <span>{member.phone}</span>}
+                    </p>
+                  </div>
+                  <div className="member-actions">
+                    {member.website && (
+                      <a
+                        className="button button-small"
+                        href={member.website}
+                        rel="noreferrer"
+                        target="_blank"
+                      >
+                        Visit practice <span aria-hidden="true">↗</span>
+                      </a>
                     )}
-                    {member.phone && <span>{member.phone}</span>}
-                  </p>
-                </div>
-                <div className="member-actions">
-                  {member.website && (
                     <a
-                      className="button button-small"
-                      href={member.website}
+                      className="button button-small button-outline"
+                      href={member.source}
                       rel="noreferrer"
                       target="_blank"
                     >
-                      Visit practice <span aria-hidden="true">↗</span>
+                      Read profile <span aria-hidden="true">↗</span>
                     </a>
-                  )}
-                  <a
-                    className="button button-small button-outline"
-                    href={member.source}
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    Read profile <span aria-hidden="true">↗</span>
-                  </a>
+                  </div>
                 </div>
               </article>
             ))}

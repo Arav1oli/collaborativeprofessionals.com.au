@@ -42,10 +42,8 @@ export default function Home() {
           </div>
           <div className="hero-visual">
             <img
-              src={asset(
-                "/media/legacy/2017/09/SSCP-Group-Photo.jpg",
-              )}
-              alt="Southern Sydney Collaborative Professionals group"
+              src={asset("/media/sscp-collaborative-meeting-v3.jpg")}
+              alt="A couple meeting with their collaborative family law team"
             />
           </div>
         </div>

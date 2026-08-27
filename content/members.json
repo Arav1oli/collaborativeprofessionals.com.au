@@ -165,6 +165,7 @@
     "phone": "(02) 9592 1711",
     "website": "https://fkglaw.com.au/",
     "photo": "",
+    "photoFallback": "The official FKG Law site does not publish a usable portrait of Fiona.",
     "bio": "Fiona founded FKG Law to provide family law services with a difference. She is a specialist family lawyer and nationally accredited mediator whose practice includes collaborative and other resolution-focused approaches.",
     "source": "https://fkglaw.com.au/"
   },
@@ -307,7 +308,8 @@
     "email": "claudia.taylor@watkinstapsell.com.au",
     "phone": "(02) 9521 6000",
     "website": "https://www.watkinstapsell.com.au/",
-    "photo": "",
+    "photo": "/media/members/claudia-taylor.jpg",
+    "photoSource": "https://www.watkinstapsell.com.au/wp-content/uploads/2026/08/dbaf1912-d233-46a0-8e40-f34bfc276679.jpg",
     "bio": "Claudia is an Accredited Specialist with more than 20 years’ experience practising exclusively in family law. She is a Family Dispute Resolution Practitioner and collaboratively trained, with a focus on clear, empathetic advice and outcomes that minimise conflict.",
     "source": "https://www.watkinstapsell.com.au/our-people/claudia-taylor/"
   },
@@ -320,7 +322,8 @@
     "email": "madeline1@southernwaters.com.au",
     "phone": "(02) 9523 5535",
     "website": "https://southernwaters.com.au/",
-    "photo": "",
+    "photo": "/media/members/madeline-laurence.jpg",
+    "photoSource": "https://southernwaters.com.au/wp-content/uploads/2026/02/Madeline-Laurence-Headshot-8-scaled.png",
     "bio": "Madeline practises exclusively in family law and is trained as a Family Law Collaborative Solicitor. She advises on parenting, property, financial settlement, child-support and spouse-maintenance matters with a practical and empathetic approach.",
     "source": "https://southernwaters.com.au/people/madeline-laurence/"
   },
@@ -333,7 +336,8 @@
     "email": "emma@southernwaters.com.au",
     "phone": "(02) 9523 5535",
     "website": "https://southernwaters.com.au/",
-    "photo": "",
+    "photo": "/media/members/emma-bailey.jpg",
+    "photoSource": "https://southernwaters.com.au/wp-content/uploads/2025/05/Emma-Bailey-2-scaled-e1751606272383.jpg",
     "bio": "Emma works exclusively in family law and is trained as a Family Law Collaborative Solicitor. She focuses on helping clients reach amicable, cost-effective agreements and brings strong problem-solving and communication skills to difficult family transitions.",
     "source": "https://southernwaters.com.au/people/emma-bailey/"
   },
@@ -346,7 +350,8 @@
     "email": "georgiat@southernwaters.com.au",
     "phone": "(02) 9523 5535",
     "website": "https://southernwaters.com.au/",
-    "photo": "",
+    "photo": "/media/members/georgia-thompson.jpg",
+    "photoSource": "https://southernwaters.com.au/wp-content/uploads/2025/05/Georgia-Thompson-1-scaled-e1751607371170.jpg",
     "bio": "Georgia is a family law solicitor with qualifications in law and psychology. She helps clients navigate family disputes with an approachable, detail-oriented and positive manner, drawing on her understanding of both legal and personal dynamics.",
     "source": "https://southernwaters.com.au/people/georgia-thompson/"
   },
@@ -359,7 +364,8 @@
     "email": "sophia@southernwaters.com.au",
     "phone": "(02) 9523 5535",
     "website": "https://southernwaters.com.au/",
-    "photo": "",
+    "photo": "/media/members/sophia-martyn.jpg",
+    "photoSource": "https://southernwaters.com.au/wp-content/uploads/2025/05/Sophia-Martyn-by-the-Water-Revised-1920-x-2560-px-1.png",
     "bio": "Sophia practises exclusively in family law and is trained as a Family Law Collaborative Solicitor. Her earlier career across banking, finance and digital consulting supports practical, clear and compassionate guidance for people navigating separation.",
     "source": "https://southernwaters.com.au/people/sophia-martyn/"
   }
