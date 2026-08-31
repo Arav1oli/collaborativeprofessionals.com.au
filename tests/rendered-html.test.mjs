@@ -58,6 +58,22 @@ test("server-renders all primary routes", async () => {
   }
 });
 
+test("keeps archived resource content on the secure production site", async () => {
+  const response = await render(
+    "/news/step-by-step-collaborative-family-law-settlement-process/",
+  );
+  assert.equal(response.status, 200);
+
+  const html = await response.text();
+  assert.doesNotMatch(html, /southernsydney\.wpenginepowered\.com/i);
+  assert.doesNotMatch(html, /src=["']http:\/\//i);
+  assert.match(
+    html,
+    /\/media\/legacy\/2023\/08\/Initial-Meetings-2-1024x1024\.png/,
+  );
+  assert.match(html, /https:\/\/collaborativeprofessionals\.com\.au/);
+});
+
 test("renders sourced member profiles with local portraits", async () => {
   const response = await render("/members/");
   const html = await response.text();

@@ -11,6 +11,8 @@ export default function LegacyTestimonialPage() {
     <main>
       <section className="testimonial testimonial-page">
         <div className="shell testimonial-inner">
+          <p className="eyebrow light">Client experience</p>
+          <h1 className="testimonial-title">A positive collaborative process</h1>
           <span className="quote-mark" aria-hidden="true">
             “
           </span>
