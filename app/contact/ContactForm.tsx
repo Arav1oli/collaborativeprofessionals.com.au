@@ -8,14 +8,6 @@ export function ContactForm() {
       method="POST"
     >
       <input
-        name="_next"
-        type="hidden"
-        value="https://collaborativeprofessionals.com.au/contact/thanks/"
-      />
-      <input name="_subject" type="hidden" value="New SSCP website enquiry" />
-      <input name="_template" type="hidden" value="table" />
-      <input name="_captcha" type="hidden" value="false" />
-      <input
         autoComplete="off"
         name="_honey"
         style={{ display: "none" }}

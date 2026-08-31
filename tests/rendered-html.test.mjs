@@ -45,7 +45,6 @@ test("server-renders all primary routes", async () => {
     ["/process/", /Collaborative practice FAQs/],
     ["/news/", /Understanding Collaborative Divorce/],
     ["/contact/", /Send enquiry/],
-    ["/contact/thanks/", /Thank you for getting in touch/],
     [
       "/news/understanding-collaborative-divorce-how-working-together-helps-everyone/",
       /How Working Together Helps Everyone/,
@@ -68,9 +67,7 @@ test("contact form posts directly to the SSCP inbox without JavaScript", async (
     /action="https:\/\/formsubmit\.co\/info@collaborativeprofessionals\.com\.au"/,
   );
   assert.match(html, /method="POST"/);
-  assert.match(html, /name="_next"/);
   assert.match(html, /name="_honey"/);
-  assert.match(html, /name="_captcha"[^>]+value="false"/);
   assert.doesNotMatch(html, /\/ajax\/|window\.location\.href|Prepare email/);
 });
 
