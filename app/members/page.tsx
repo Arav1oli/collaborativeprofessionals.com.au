@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Our members",
   description:
     "Find collaboratively trained lawyers, coaches and financial professionals serving Southern Sydney.",
+  alternates: { canonical: "/members/" },
 };
 
 export default function MembersPage() {

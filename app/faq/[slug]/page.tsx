@@ -54,6 +54,7 @@ export async function generateMetadata({
     title:
       record?.question ??
       "Who may be involved in the Collaborative Practice Process?",
+    alternates: { canonical: `/faq/${slug}/` },
   };
 }
 
@@ -108,4 +109,3 @@ export default async function LegacyFaqPage({ params }: FaqPageProps) {
     </main>
   );
 }
-

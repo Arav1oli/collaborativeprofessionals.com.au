@@ -12,6 +12,7 @@ import articles from "@/content/articles.json";
 export const metadata: Metadata = {
   title: "Collaborative practice in Southern Sydney",
   description: site.description,
+  alternates: { canonical: "/" },
 };
 
 export default function Home() {

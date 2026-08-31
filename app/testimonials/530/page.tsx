@@ -4,6 +4,7 @@ import { testimonial } from "@/content/site";
 
 export const metadata: Metadata = {
   title: "A positive collaborative process",
+  alternates: { canonical: "/testimonials/530/" },
 };
 
 export default function LegacyTestimonialPage() {

@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "Contact",
   description:
     "Contact Southern Sydney Collaborative Professionals or find a collaboratively trained member.",
+  alternates: { canonical: "/contact/" },
 };
 
 export default function ContactPage() {

@@ -89,6 +89,10 @@ test("gives archived resources complete page and social metadata", async () => {
     html,
     /<meta property="og:image" content="https:\/\/collaborativeprofessionals\.com\.au\/media\/legacy\/2017\/10\/Screen-Shot-2017-10-16-at-12\.21\.49-pm\.png"/,
   );
+  assert.match(
+    html,
+    /<link rel="canonical" href="https:\/\/collaborativeprofessionals\.com\.au\/news\/collaborative-practice-talk\/"/,
+  );
 });
 
 test("renders sourced member profiles with local portraits", async () => {

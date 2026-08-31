@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "How collaborative practice works",
   description:
     "Understand the collaborative family law process, who may be involved and what to expect.",
+  alternates: { canonical: "/process/" },
 };
 
 export default function ProcessPage() {
@@ -127,4 +128,3 @@ export default function ProcessPage() {
     </main>
   );
 }
-

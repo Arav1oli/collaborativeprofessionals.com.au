@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Resources",
   description:
     "Articles and practical information about collaborative family law and separation.",
+  alternates: { canonical: "/news/" },
 };
 
 export default function NewsPage() {
