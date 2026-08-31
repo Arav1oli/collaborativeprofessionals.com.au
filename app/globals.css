@@ -1130,24 +1130,6 @@ summary {
   box-shadow: 0 0 0 3px rgba(38, 120, 103, 0.12);
 }
 
-.form-notice {
-  font-size: 0.88rem;
-  line-height: 1.5;
-  margin-top: 18px;
-}
-
-.form-notice-success {
-  color: var(--green);
-}
-
-.form-notice-error {
-  color: #8d2d2d;
-}
-
-.form-notice-error a {
-  text-decoration: underline;
-}
-
 .not-found {
   min-height: 70vh;
   padding: 130px 0;

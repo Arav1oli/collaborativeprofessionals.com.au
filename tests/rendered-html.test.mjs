@@ -45,6 +45,7 @@ test("server-renders all primary routes", async () => {
     ["/process/", /Collaborative practice FAQs/],
     ["/news/", /Understanding Collaborative Divorce/],
     ["/contact/", /Send enquiry/],
+    ["/contact/thanks/", /Thank you for getting in touch/],
     [
       "/news/understanding-collaborative-divorce-how-working-together-helps-everyone/",
       /How Working Together Helps Everyone/,
@@ -58,18 +59,19 @@ test("server-renders all primary routes", async () => {
   }
 });
 
-test("contact form submits directly to the SSCP inbox", async () => {
-  const source = await readFile(
-    new URL("../app/contact/ContactForm.tsx", import.meta.url),
-    "utf8",
-  );
+test("contact form posts directly to the SSCP inbox without JavaScript", async () => {
+  const response = await render("/contact/");
+  const html = await response.text();
 
-  assert.match(source, /https:\/\/formsubmit\.co\/ajax\/\$\{site\.email\}/);
-  assert.match(source, /_honey/);
-  assert.match(source, /_captcha: "false"/);
-  assert.match(source, /Thank you\. Your enquiry has been sent to SSCP\./);
-  assert.match(source, /received an activation email/);
-  assert.doesNotMatch(source, /window\.location\.href|Prepare email/);
+  assert.match(
+    html,
+    /action="https:\/\/formsubmit\.co\/info@collaborativeprofessionals\.com\.au"/,
+  );
+  assert.match(html, /method="POST"/);
+  assert.match(html, /name="_next"/);
+  assert.match(html, /name="_honey"/);
+  assert.match(html, /name="_captcha"[^>]+value="false"/);
+  assert.doesNotMatch(html, /\/ajax\/|window\.location\.href|Prepare email/);
 });
 
 test("keeps archived resource content on the secure production site", async () => {
