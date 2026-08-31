@@ -74,6 +74,23 @@ test("keeps archived resource content on the secure production site", async () =
   assert.match(html, /https:\/\/collaborativeprofessionals\.com\.au/);
 });
 
+test("gives archived resources complete page and social metadata", async () => {
+  const response = await render("/news/collaborative-practice-talk/");
+  assert.equal(response.status, 200);
+
+  const html = await response.text();
+  assert.match(html, /<title>Collaborative Practice Talk \| SSCP<\/title>/);
+  assert.match(html, /<meta name="description" content="[^"]+"/);
+  assert.match(
+    html,
+    /<meta property="og:title" content="Collaborative Practice Talk"/,
+  );
+  assert.match(
+    html,
+    /<meta property="og:image" content="https:\/\/collaborativeprofessionals\.com\.au\/media\/legacy\/2017\/10\/Screen-Shot-2017-10-16-at-12\.21\.49-pm\.png"/,
+  );
+});
+
 test("renders sourced member profiles with local portraits", async () => {
   const response = await render("/members/");
   const html = await response.text();

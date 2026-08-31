@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { asset, href, htmlWithBasePath } from "@/app/lib/paths";
 import articles from "@/content/articles.json";
+import { site } from "@/content/site";
 
 type ArticlePageProps = {
   params: Promise<{ slug: string }>;
@@ -17,9 +18,24 @@ export async function generateMetadata({
   const { slug } = await params;
   const article = articles.find((item) => item.slug === slug);
   if (!article) return {};
+  const description = article.excerpt || site.description;
+  const image = asset(article.image);
   return {
     title: article.title,
-    description: article.excerpt,
+    description,
+    openGraph: {
+      title: article.title,
+      description,
+      type: "article",
+      publishedTime: article.date,
+      images: [image],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description,
+      images: [image],
+    },
   };
 }
 
@@ -71,4 +87,3 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     </main>
   );
 }
-
