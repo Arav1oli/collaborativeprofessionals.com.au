@@ -30,8 +30,9 @@ export default function ContactPage() {
               {site.email.slice(site.email.indexOf("@") + 1)}
             </a>
             <p>
-              This form prepares a message in your own email app. Nothing is
-              sent until you review and send it there.
+              Send your enquiry using this form and it will be delivered to
+              the SSCP inbox. You can also email us directly using the address
+              above.
             </p>
             <div className="contact-links">
               <a href={site.facebook} rel="noreferrer" target="_blank">

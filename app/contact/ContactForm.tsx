@@ -3,31 +3,72 @@
 import { FormEvent, useState } from "react";
 import { site } from "@/content/site";
 
-export function ContactForm() {
-  const [notice, setNotice] = useState("");
+const formEndpoint = `https://formsubmit.co/ajax/${site.email}`;
 
-  function handleSubmit(event: FormEvent<HTMLFormElement>) {
+type FormStatus =
+  | "idle"
+  | "submitting"
+  | "activation"
+  | "success"
+  | "error";
+
+export function ContactForm() {
+  const [status, setStatus] = useState<FormStatus>("idle");
+
+  async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    const form = new FormData(event.currentTarget);
+    const formElement = event.currentTarget;
+    const form = new FormData(formElement);
     const name = String(form.get("name") ?? "");
     const email = String(form.get("email") ?? "");
     const subject =
       String(form.get("subject") ?? "").trim() ||
       "Enquiry via the SSCP website";
     const message = String(form.get("message") ?? "");
-    const body = [
-      message,
-      "",
-      "—",
-      `Name: ${name}`,
-      `Email: ${email}`,
-    ].join("\n");
-    window.location.href = `mailto:${site.email}?subject=${encodeURIComponent(
-      subject,
-    )}&body=${encodeURIComponent(body)}`;
-    setNotice(
-      "Your email app should open with this message ready to review and send.",
-    );
+    const honey = String(form.get("_honey") ?? "");
+
+    setStatus("submitting");
+
+    try {
+      const response = await fetch(formEndpoint, {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          name,
+          email,
+          subject,
+          message,
+          _subject: `SSCP website enquiry: ${subject}`,
+          _template: "table",
+          _captcha: "false",
+          _honey: honey,
+          _url: "https://collaborativeprofessionals.com.au/contact/",
+        }),
+      });
+      const result = (await response.json()) as {
+        message?: string;
+        success?: boolean | string;
+      };
+
+      if (
+        !response.ok ||
+        (result.success !== true && result.success !== "true")
+      ) {
+        throw new Error("Form submission was not accepted");
+      }
+
+      formElement.reset();
+      setStatus(
+        /activat|confirm/i.test(result.message ?? "")
+          ? "activation"
+          : "success",
+      );
+    } catch {
+      setStatus("error");
+    }
   }
 
   return (
@@ -50,15 +91,39 @@ export function ContactForm() {
         <span>How can we help?</span>
         <textarea name="message" required rows={7} />
       </label>
-      <button className="button" type="submit">
-        Prepare email <span aria-hidden="true">→</span>
+      <input
+        autoComplete="off"
+        hidden
+        name="_honey"
+        tabIndex={-1}
+        type="text"
+      />
+      <button
+        aria-disabled={status === "submitting"}
+        className="button"
+        disabled={status === "submitting"}
+        type="submit"
+      >
+        {status === "submitting" ? "Sending..." : "Send enquiry"}{" "}
+        <span aria-hidden="true">→</span>
       </button>
-      {notice && (
-        <p className="form-notice" role="status">
-          {notice}
+      {status === "success" && (
+        <p className="form-notice form-notice-success" role="status">
+          Thank you. Your enquiry has been sent to SSCP.
+        </p>
+      )}
+      {status === "activation" && (
+        <p className="form-notice form-notice-success" role="status">
+          Thank you. SSCP has received an activation email. Your enquiry will
+          be delivered as soon as the form is activated.
+        </p>
+      )}
+      {status === "error" && (
+        <p className="form-notice form-notice-error" role="alert">
+          We could not send your enquiry. Please try again or email{" "}
+          <a href={`mailto:${site.email}`}>{site.email}</a>.
         </p>
       )}
     </form>
   );
 }
-

@@ -164,10 +164,9 @@
     "email": "fiona@fkglaw.com.au",
     "phone": "(02) 9592 1711",
     "website": "https://fkglaw.com.au/",
-    "photo": "",
-    "photoFallback": "The official FKG Law site does not publish a usable portrait of Fiona.",
+    "photo": "/media/members/fiona-giannakopoulos.jpg",
     "bio": "Fiona founded FKG Law to provide family law services with a difference. She is a specialist family lawyer and nationally accredited mediator whose practice includes collaborative and other resolution-focused approaches.",
-    "source": "https://fkglaw.com.au/"
+    "source": "https://fkglaw.com.au/bio/"
   },
   {
     "name": "Veronica Phillips",

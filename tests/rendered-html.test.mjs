@@ -44,7 +44,7 @@ test("server-renders all primary routes", async () => {
     ["/members/", /Shelby Timmins/],
     ["/process/", /Collaborative practice FAQs/],
     ["/news/", /Understanding Collaborative Divorce/],
-    ["/contact/", /Prepare email/],
+    ["/contact/", /Send enquiry/],
     [
       "/news/understanding-collaborative-divorce-how-working-together-helps-everyone/",
       /How Working Together Helps Everyone/,
@@ -56,6 +56,20 @@ test("server-renders all primary routes", async () => {
     assert.equal(response.status, 200, path);
     assert.match(await response.text(), expected);
   }
+});
+
+test("contact form submits directly to the SSCP inbox", async () => {
+  const source = await readFile(
+    new URL("../app/contact/ContactForm.tsx", import.meta.url),
+    "utf8",
+  );
+
+  assert.match(source, /https:\/\/formsubmit\.co\/ajax\/\$\{site\.email\}/);
+  assert.match(source, /_honey/);
+  assert.match(source, /_captcha: "false"/);
+  assert.match(source, /Thank you\. Your enquiry has been sent to SSCP\./);
+  assert.match(source, /received an activation email/);
+  assert.doesNotMatch(source, /window\.location\.href|Prepare email/);
 });
 
 test("keeps archived resource content on the secure production site", async () => {
@@ -105,7 +119,7 @@ test("renders sourced member profiles with local portraits", async () => {
   assert.equal(members.length, 28);
   assert.equal(members.filter((member) => member.bio).length, 28);
   assert.equal(members.filter((member) => member.source).length, 28);
-  assert.equal(members.filter((member) => member.photo).length, 27);
+  assert.equal(members.filter((member) => member.photo).length, 28);
   assert.equal(members[3].name, "Adam Ratcliffe");
   assert.equal(members[3].leadership, "SSCP Secretary");
   assert.equal(members[6].name, "Stephanie Martyn");
@@ -122,23 +136,37 @@ test("renders sourced member profiles with local portraits", async () => {
     members.find((member) => member.name === "Lynda Babister").website,
     "https://transituslegal.com.au/",
   );
+  assert.equal(
+    members.find((member) => member.name === "Fiona Giannakopoulos").photo,
+    "/media/members/fiona-giannakopoulos.jpg",
+  );
+  assert.equal(
+    members.find((member) => member.name === "Fiona Giannakopoulos").source,
+    "https://fkglaw.com.au/bio/",
+  );
 
-  for (const name of [
-    "Claudia Taylor",
-    "Madeline Laurence",
-    "Emma Bailey",
-    "Georgia Thompson",
-    "Sophia Martyn",
-  ]) {
-    assert.ok(members.some((member) => member.name === name), name);
+  for (const [name, email] of Object.entries({
+    "Claudia Taylor": "claudia.taylor@watkinstapsell.com.au",
+    "Madeline Laurence": "madeline1@southernwaters.com.au",
+    "Emma Bailey": "emma@southernwaters.com.au",
+    "Georgia Thompson": "georgiat@southernwaters.com.au",
+    "Sophia Martyn": "sophia@southernwaters.com.au",
+  })) {
+    assert.equal(
+      members.find((member) => member.name === name)?.email,
+      email,
+      name,
+    );
   }
 
   for (const name of [
     "Melody van der Wallen",
+    "Melody Van Der Wallen",
     "Fiona Kirkman",
     "Kylie Holmes",
     "Georgia Carroll",
     "Kirstin Attard",
+    "Kirsten Attard",
     "Kristy Durrant",
     "Laura Tilt",
   ]) {
