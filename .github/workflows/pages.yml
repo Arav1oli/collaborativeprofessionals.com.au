@@ -37,6 +37,7 @@ jobs:
       - name: Build static site
         run: npm run build:github
         env:
+          GITHUB_PAGES_CUSTOM_DOMAIN: "true"
           NEXT_PUBLIC_SITE_URL: ${{ steps.pages.outputs.base_url }}
 
       - name: Upload Pages artifact

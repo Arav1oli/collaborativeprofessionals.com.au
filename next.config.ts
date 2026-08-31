@@ -1,11 +1,18 @@
 import type { NextConfig } from "next";
 
 const isGitHubPages = process.env.GITHUB_PAGES === "true";
+const hasGitHubPagesCustomDomain =
+  process.env.GITHUB_PAGES_CUSTOM_DOMAIN === "true";
 const isCloudflareStatic = process.env.CLOUDFLARE_STATIC === "true";
 const repositoryName = process.env.GITHUB_REPOSITORY?.split("/")[1] ?? "";
 const isUserSite = repositoryName.endsWith(".github.io");
 const basePath =
-  isGitHubPages && repositoryName && !isUserSite ? `/${repositoryName}` : "";
+  isGitHubPages &&
+  !hasGitHubPagesCustomDomain &&
+  repositoryName &&
+  !isUserSite
+    ? `/${repositoryName}`
+    : "";
 
 const nextConfig: NextConfig = {
   output: isGitHubPages || isCloudflareStatic ? "export" : undefined,
