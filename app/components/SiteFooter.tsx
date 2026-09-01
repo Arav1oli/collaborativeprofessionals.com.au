@@ -6,20 +6,17 @@ export function SiteFooter() {
     <footer className="site-footer">
       <div className="shell footer-grid">
         <div>
-          <p className="eyebrow light">Southern Sydney</p>
-          <h2>A calmer path forward.</h2>
-        </div>
-        <div>
           <p className="footer-label">Get in touch</p>
           <a className="footer-email" href={`mailto:${site.email}`}>
-            {site.email.slice(0, site.email.indexOf("@") + 1)}
-            <wbr />
-            {site.email.slice(site.email.indexOf("@") + 1)}
+            {site.email}
           </a>
           <div className="footer-links">
             <a href={href("/members/")}>Find a professional</a>
             <a href={site.facebook} rel="noreferrer" target="_blank">
               Facebook
+            </a>
+            <a href={site.instagram} rel="noreferrer" target="_blank">
+              Instagram
             </a>
           </div>
         </div>
@@ -29,7 +26,6 @@ export function SiteFooter() {
           © {new Date().getFullYear()} Southern Sydney Collaborative
           Professionals Inc.
         </p>
-        <p>General information only — not legal advice.</p>
       </div>
     </footer>
   );

@@ -4,6 +4,7 @@ export const site = {
   email: "info@collaborativeprofessionals.com.au",
   facebook:
     "https://www.facebook.com/southernsydneycollaborativeprofessionals/",
+  instagram: "https://www.instagram.com/southernsydneycollaborative/",
   tagline: "Helping couples reach respectful resolutions",
   description:
     "Collaboratively trained lawyers, coaches and financial professionals helping Southern Sydney families resolve separation respectfully, privately and outside court.",

@@ -13,30 +13,31 @@ export const metadata: Metadata = {
 
 export default function ContactPage() {
   return (
-    <main>
+    <main className="contact-page">
       <PageIntro
         eyebrow="Contact"
-        title="Start with a conversation."
-        lead="Send a general enquiry to SSCP, or contact one of our members directly for advice about your circumstances."
+        title="Talk to us."
+        lead="Send SSCP a general enquiry below. For advice about your own circumstances, contact one of our members directly."
+        compact
       />
       <section className="section contact-section">
         <div className="shell contact-grid">
           <div className="contact-panel">
             <p className="eyebrow light">General enquiries</p>
-            <h2>We’ll point you in the right direction.</h2>
+            <h2>Contact SSCP.</h2>
             <a className="contact-email" href={`mailto:${site.email}`}>
-              {site.email.slice(0, site.email.indexOf("@") + 1)}
-              <wbr />
-              {site.email.slice(site.email.indexOf("@") + 1)}
+              {site.email}
             </a>
             <p>
-              Send your enquiry using this form and it will be delivered to
-              the SSCP inbox. You can also email us directly using the address
-              above.
+              Use the form for general enquiries, or email us directly at the
+              address above.
             </p>
             <div className="contact-links">
               <a href={site.facebook} rel="noreferrer" target="_blank">
                 Follow SSCP on Facebook ↗
+              </a>
+              <a href={site.instagram} rel="noreferrer" target="_blank">
+                Follow SSCP on Instagram ↗
               </a>
               <a
                 href={asset(

@@ -71,6 +71,40 @@ test("contact form posts directly to the SSCP inbox without JavaScript", async (
   assert.doesNotMatch(html, /\/ajax\/|window\.location\.href|Prepare email/);
 });
 
+test("keeps compact contact spacing after the mobile section override", async () => {
+  const css = await readFile(new URL("../app/globals.css", import.meta.url), "utf8");
+  const mobileRules = css.slice(css.indexOf("@media (max-width: 620px)"));
+  const generalSection = mobileRules.indexOf(".section {");
+  const contactSection = mobileRules.indexOf(".contact-section {");
+
+  assert.ok(generalSection >= 0);
+  assert.ok(contactSection > generalSection);
+  assert.match(mobileRules.slice(contactSection), /padding:\s*48px 0;/);
+});
+
+test("renders the requested compact footer and complete social links", async () => {
+  for (const path of ["/", "/members/", "/contact/"]) {
+    const response = await render(path);
+    const html = await response.text();
+
+    assert.match(
+      html,
+      /https:\/\/www\.facebook\.com\/southernsydneycollaborativeprofessionals\//,
+    );
+    assert.match(
+      html,
+      /https:\/\/www\.instagram\.com\/southernsydneycollaborative\//,
+    );
+    assert.match(html, /info@collaborativeprofessionals\.com\.au/);
+    assert.doesNotMatch(html, /A calmer path forward\./);
+    assert.doesNotMatch(html, /General information only/);
+  }
+
+  const contact = await (await render("/contact/")).text();
+  assert.doesNotMatch(contact, /<wbr\s*\/?\s*>/i);
+  assert.match(contact, /Follow SSCP on Instagram/);
+});
+
 test("keeps archived resource content on the secure production site", async () => {
   const response = await render(
     "/news/step-by-step-collaborative-family-law-settlement-process/",

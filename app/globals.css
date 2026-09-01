@@ -1048,27 +1048,42 @@ summary {
 .contact-grid {
   display: grid;
   gap: 0;
-  grid-template-columns: 0.8fr 1.2fr;
+  grid-template-columns: minmax(380px, 0.74fr) minmax(0, 1.26fr);
+}
+
+.contact-page .page-intro .eyebrow {
+  font-size: 0.86rem;
+  margin-bottom: 16px;
+}
+
+.contact-page .page-intro-compact {
+  padding-bottom: 42px;
+  padding-top: 46px;
+}
+
+.contact-section {
+  padding: 64px 0;
 }
 
 .contact-panel {
   background: var(--ink-deep);
   color: var(--white);
-  padding: 54px;
+  padding: 42px;
 }
 
 .contact-panel h2 {
   color: var(--white);
-  font-size: clamp(2.3rem, 4vw, 4rem);
+  font-size: clamp(2.15rem, 3.4vw, 3.4rem);
 }
 
 .contact-email {
   color: #9ed9c8;
   display: block;
   font-family: var(--serif);
-  font-size: clamp(1.1rem, 2vw, 1.45rem);
-  margin: 38px 0 20px;
-  overflow-wrap: anywhere;
+  font-size: clamp(0.86rem, 1.5vw, 1.24rem);
+  letter-spacing: -0.018em;
+  margin: 28px 0 16px;
+  white-space: nowrap;
 }
 
 .contact-panel > p {
@@ -1079,9 +1094,9 @@ summary {
 .contact-links {
   border-top: 1px solid rgba(255, 255, 255, 0.18);
   display: grid;
-  gap: 16px;
-  margin-top: 42px;
-  padding-top: 28px;
+  gap: 13px;
+  margin-top: 30px;
+  padding-top: 22px;
 }
 
 .contact-links a {
@@ -1092,7 +1107,7 @@ summary {
 .contact-form {
   background: var(--white);
   border: 1px solid var(--line);
-  padding: 54px;
+  padding: 42px;
 }
 
 .contact-form label,
@@ -1110,7 +1125,7 @@ summary {
   font-size: 0.78rem;
   font-weight: 800;
   gap: 10px;
-  margin-bottom: 24px;
+  margin-bottom: 19px;
 }
 
 .contact-form input,
@@ -1120,8 +1135,13 @@ summary {
   border-radius: 0;
   color: var(--text);
   outline: none;
-  padding: 15px;
+  padding: 13px 15px;
   width: 100%;
+}
+
+.contact-form textarea {
+  min-height: 170px;
+  resize: vertical;
 }
 
 .contact-form input:focus,
@@ -1142,13 +1162,11 @@ summary {
 .site-footer {
   background: #071f1e;
   color: var(--white);
-  padding: 88px 0 30px;
+  padding: 46px 0 24px;
 }
 
 .footer-grid {
-  display: grid;
-  gap: 90px;
-  grid-template-columns: 1fr 1fr;
+  display: block;
 }
 
 .site-footer h2 {
@@ -1167,9 +1185,10 @@ summary {
 .footer-email {
   display: block;
   font-family: var(--serif);
-  font-size: clamp(1.1rem, 2.2vw, 1.6rem);
-  margin: 20px 0 30px;
-  overflow-wrap: anywhere;
+  font-size: clamp(0.92rem, 2vw, 1.45rem);
+  letter-spacing: -0.018em;
+  margin: 15px 0 22px;
+  white-space: nowrap;
 }
 
 .footer-links {
@@ -1189,8 +1208,8 @@ summary {
   display: flex;
   gap: 24px;
   justify-content: space-between;
-  margin-top: 70px;
-  padding-top: 24px;
+  margin-top: 34px;
+  padding-top: 18px;
 }
 
 .footer-bottom p {
@@ -1350,6 +1369,10 @@ summary {
     padding: 78px 0;
   }
 
+  .contact-section {
+    padding: 48px 0;
+  }
+
   .page-intro {
     padding: 78px 0 70px;
   }
@@ -1422,8 +1445,9 @@ summary {
     padding: 34px 24px;
   }
 
-  .footer-grid {
-    gap: 55px;
+  .contact-email,
+  .footer-email {
+    font-size: clamp(0.77rem, 3.75vw, 1rem);
   }
 }
 
